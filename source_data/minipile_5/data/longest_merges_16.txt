@@ -1,0 +1,3129 @@
+17: Tokens: 95 characters: 95
+âĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶ
+
+69: Tokens: 38 characters: 38
+âĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶ
+
+240: Tokens: 68 characters: 68
+ÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂł
+
+261: Tokens: 68 characters: 68
+łÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂ
+
+566: Tokens: 39 characters: 39
+âĸĶâĸĶâĸĶâĸĶâĸĶâĸĶâĸĶâĸĶâĸĶâĸĶâĸĶâĸĶâĸĶ
+
+1974: Tokens: 18 characters: 18
+âĸĶâĸĶâĸĶâĸĶâĸĶâĸĶ
+
+2653: Tokens: 19 characters: 240
+âĶľâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶ¼âĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶ¤
+
+4495: Tokens: 26 characters: 26
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+5147: Tokens: 1435 characters: 1438
+AaÃĢÃłÃģÃ¡ÃĤÃ¢ÃĥÃ£ÃĦÃ¤ÃħÃ¥ÄĢÄģÄĤÄĥÄĦÄħÇįÇİÇŀÇŁÇłÇ¡ÇºÇ»ÈĢÈģÈĤÈĥÈ¦È§á¸Ģá¸ģáºļáºłáº¡áº¢áº£áº¤áº¥áº¦áº§áº¨áº©áºªáº«áº¬áºŃáº®áº¯áº°áº±áº²áº³áº´áºµáº¶áº·BbÆĢÆģÉĵÆĤÆĥá¸Ĥá¸ĥá¸Ħá¸ħá¸Ĩá¸ĩCcÃĩÃ§ÄĨÄĩÄĪÄīÄĬÄĭÄĮÄįÆĩÆĪÉķá¸Īá¸īDdÄİÄıÄĲÄĳÆĬÉĹÆĭÆĮÇħÇ²È¡Éĸá¸Ĭá¸ĭá¸Įá¸įá¸İá¸ıá¸Ĳá¸ĳá¸Ĵá¸ĵEeÃĪÃ¨ÃīÃ©ÃĬÃªÃĭÃ«ÄĴÄĵÄĶÄķÄĸÄĹÄĺÄĻÄļÄĽÈĦÈħÈĨÈĩÈ¨È©á¸Ķá¸ķá¸ĸá¸Ĺá¸ĺá¸Ļá¸ļá¸Ľá¸ľá¸Ŀáº¸áº¹áººáº»áº¼áº½áº¾áº¿á»Ģá»ģá»Ĥá»ĥá»Ħá»ħá»Ĩá»ĩFfÆĳÆĴá¸ŀá¸ŁGgÄľÄĿÄŀÄŁÄłÄ¡Ä¢Ä£ÆĵÉłÇ¤Ç¥Ç¦Ç§Ç´Çµá¸łá¸¡HhÄ¤Ä¥Ä¦Ä§ÈŀÈŁÉ¦á¸¢á¸£á¸¤á¸¥á¸¦á¸§á¸¨á¸©á¸ªá¸«áºĸIiÃĮÃ¬ÃįÃŃÃİÃ®ÃıÃ¯Ä¨Ä©ÄªÄ«Ä¬ÄŃÄ®Ä¯Ä°ÆĹÉ¨ÇıÇĲÈĪÈīÈĬÈĭá¸¬á¸Ńá¸®á¸¯á»Īá»īá»Ĭá»ĭJjÄ´ÄµÇ°ÊĿKkÄ¶Ä·ÆĺÆĻÇ¨Ç©á¸°á¸±á¸²á¸³á¸´á¸µLlÄ¹ÄºÄ»Ä¼Ä½Ä¾Ä¿ÅĢÅģÅĤÆļÇĪÈ´É«É¬ÉŃá¸¶á¸·á¸¸á¸¹á¸ºá¸»á¸¼á¸½MmÉ±á¸¾á¸¿á¹Ģá¹ģá¹Ĥá¹ĥNnÃĳÃ±ÅĥÅĦÅħÅĨÅĩÅĪÆĿÉ²ÆŀÈłÇĭÇ¸Ç¹ÈµÉ³á¹Ħá¹ħá¹Ĩá¹ĩá¹Īá¹īá¹Ĭá¹ĭOoÃĴÃ²ÃĵÃ³ÃĶÃ´ÃķÃµÃĸÃ¶ÃĺÃ¸ÅĮÅįÅİÅıÅĲÅĳÆŁÆłÆ¡ÇĳÇĴÇªÇ«Ç¬ÇŃÇ¾Ç¿ÈĮÈįÈİÈıÈªÈ«È¬ÈŃÈ®È¯È°È±á¹Įá¹įá¹İá¹ıá¹Ĳá¹ĳá¹Ĵá¹ĵá»Įá»įá»İá»ıá»Ĳá»ĳá»Ĵá»ĵá»Ķá»ķá»ĸá»Ĺá»ĺá»Ļá»ļá»Ľá»ľá»Ŀá»ŀá»Łá»łá»¡á»¢á»£PpÆ¤Æ¥á¹Ķá¹ķá¹ĸá¹ĹQqÊłRrÅĶÅķÅĸÅĹÅĺÅĻÈĲÈĳÈĴÈĵÉ¼É½É¾á¹ĺá¹Ļá¹ļá¹Ľá¹ľá¹Ŀá¹ŀá¹ŁSsÅļÅĽÅľÅĿÅŀÅŁÅłÅ¡ÈĺÈĻÊĤá¹łá¹¡á¹¢á¹£á¹¤á¹¥á¹¦á¹§á¹¨á¹©TtÅ¢Å£Å¤Å¥Å¦Å§Æ«Æ¬ÆŃÆ®ÊĪÈļÈĽÈ¶á¹ªá¹«á¹¬á¹Ńá¹®á¹¯á¹°á¹±áºĹUuÃĻÃ¹ÃļÃºÃĽÃ»ÃľÃ¼Å¨Å©ÅªÅ«Å¬ÅŃÅ®Å¯Å°Å±Å²Å³Æ¯Æ°ÇĵÇĶÇķÇĸÇĹÇĺÇĻÇļÇĽÇľÈĶÈķÈĸÈĹá¹²á¹³á¹´á¹µá¹¶á¹·á¹¸á¹¹á¹ºá¹»á»¤á»¥á»¦á»§á»¨á»©á»ªá»«á»¬á»Ńá»®á»¯á»°á»±VvÆ²Êĭá¹¼á¹½á¹¾á¹¿WwÅ´ÅµáºĢáºģáºĤáºĥáºĦáºħáºĨáºĩáºĪáºīáºĺXxáºĬáºĭáºĮáºįYyÃĿÃ½Ã¿Å¸Å¶Å·Æ³Æ´È²È³áºİáºıáºĻá»²á»³á»´á»µá»¶á»·á»¸á»¹ZzÅ¹ÅºÅ»Å¼Å½Å¾ÆµÆ¶È¤È¥ÊĲÊĳáºĲáºĳáºĴáºĵáºĶáºķáºķ
+
+8832: Tokens: 18 characters: 27
+--+--+--+--+--+--+--+--+--+
+
+10753: Tokens: 18 characters: 27
++--+--+--+--+--+--+--+--+--
+
+10885: Tokens: 168 characters: 243
+ãĥ¢ãĥĩãĥ«ãģ®ãģ¿ãĤŃãĥĥãĥĪãģ¯éĥ¨åĵģãģĮè¶£åĳ³ãģ®ãĥĦãĥ¼ãĥ«ãĤĴä½¿çĶ¨ãģĽãģļãģ«éģ®æĸŃãģĻãĤĭãģĵãģ¨ãģĮåı¯èĥ½ãģªçī¹åĪ¥ãģªãĥ©ãĥ³ãĥĬãĥ¼ãģĮä»ĺå±ŀãģ¨ãģĹãģ¦å®ĮæĪĲåĵģãĤĴå¾ĹãĤĭãģĵãģ¨ãģ¯éĿŀå¸¸ãģ«åŁºæľ¬çļĦãģªãĤ¢ãĤ»ãĥ³ãĥĸãĥªãģ®ãĤ¹ãĤŃãĥ«ãĤĴå¿ħè¦ģãģ¨ãģĻãĤĭãĤŃãĥĥãĥĪ
+
+11862: Tokens: 19 characters: 30
+ãĤŃãĥ£ãĥ©ãĤ¯ãĤ¿ãĥ¼ãĥĩãĤ¶ãĤ¤ãĥ³
+
+12207: Tokens: 422 characters: 622
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABBBBBBBBBBBBBCCCCCCCCCCCCCCCCCDDDDDDDDDDDDDDDDDDDDDDDDEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEFFFFFFGGGGGGGGGGGGGGGGGGGGHHHHHHHHHHHHHHHHHHHHIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIJJJJJJKKKKKKKKKKKKKKLLLLLLLLLLLLLLLLLLLLLLLLLLMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOPPPPPPPPQQQRRRRRRRRRRRRRRRRRRRRRRRSSSSSSSSSSSSSSSSSSSSSSSTTTTTTTTTTTTTTTTTTTTTTTTTUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUVVVVVVVVWWWWWWWWWWWWWWWXXXXXXYYYYYYYYYYYYYYYYYYYYYYYZZZZZZZZZZZZZZZZZZZZZ
+
+12333: Tokens: 24 characters: 36
+âĢĭâĢĭâĢĭâĢĭâĢĭâĢĭâĢĭâĢĭâĢĭâĢĭâĢĭâĢĭ
+
+12841: Tokens: 40 characters: 40
+Ð¿Ð¿Ð¿Ð¿Ð¿Ð¿Ð¿Ð¿Ð¿Ð¿Ð¿Ð¿Ð¿Ð¿Ð¿Ð¿Ð¿Ð¿Ð¿Ð¿
+
+13699: Tokens: 24 characters: 36
+ĭâĢĭâĢĭâĢĭâĢĭâĢĭâĢĭâĢĭâĢĭâĢĭâĢĭâĢĭâĢ
+
+13832: Tokens: 40 characters: 40
+¿Ð¿Ð¿Ð¿Ð¿Ð¿Ð¿Ð¿Ð¿Ð¿Ð¿Ð¿Ð¿Ð¿Ð¿Ð¿Ð¿Ð¿Ð¿Ð¿Ð
+
+13909: Tokens: 117 characters: 174
+ãģĬãĤĪãģ³ä»»æĦıãģ®å¿ħéłĪãģ®çµµãĤĴéģ¿ãģĳãĤĭãģŁãĤģãģ«ãĤ¹ãĥĨãĥĥãĤ«ãĥ¼ãģ®å¤ļãģıãĤĴè§£æĶ¾ãģĻãĤĭãģĵãģ¨ãģ§ãģĻãģĿãĤĮãģ¯ãģ¾ãģłèī¯ãģĦè¦ĭãģ¦è£½åĵģãģ®ãģŁãĤģãģ«å¿ħè¦ģãģ¨ãģķãĤĮãģ¦ãģĦãģ¾ãģĻ
+
+14004: Tokens: 17 characters: 29
+ĠCSPBCSSMLNDSMDVRSNSMVSMQLIVB
+
+14175: Tokens: 53 characters: 80
+âĶĢâĶ´âĶĢâĶ¬âĶĢâĶ´âĶĢâĶ¬âĶĢâĶ´âĶĢâĶ¬âĶĢâĶ´âĶĢâĶ¬âĶĢâĶ´âĶĢâĶ¬âĶĢâĶ´âĶĢâĶ¬âĶĢâĶ´âĶ
+
+19770: Tokens: 18 characters: 18
+Å»Å»Å»Å»Å»Å»Å»Å»Å»
+
+20185: Tokens: 23 characters: 36
+adbaqaaeGaciGaaiaabeqaaeqabiWaaaGcba
+
+21211: Tokens: 24 characters: 24
+âľĹâľĹâľĹâľĹâľĹâľĹâľĹâľĹ
+
+21212: Tokens: 24 characters: 24
+âłĢâłĢâłĢâłĢâłĢâłĢâłĢâłĢ
+
+21361: Tokens: 27 characters: 40
+@><@><@><@><@><@><@><@><@><@><@><@><@><@
+
+23636: Tokens: 27 characters: 41
+><@><@><@><@><@><@><@><@><@><@><@><@><@><
+
+23936: Tokens: 18 characters: 18
+»Å»Å»Å»Å»Å»Å»Å»Å»Å
+
+28001: Tokens: 17 characters: 22
+ĠíķľêµŃìĸ´ê¸°ì´ĪìĤ¬ìłĦ
+
+28942: Tokens: 77 characters: 204
+ĠAlbanianBasqueBulgarianCatalanCroatianCzechDanishDutchEnglishEsperantoEstonianFinnishFrenchGermanGreekHindiHungarianIcelandicIndonesianIrishItalianLatinLatvianLithuanianNorwegianPiraticalPolishPortuguese
+
+29294: Tokens: 33 characters: 77
+âĶ´âĶ¬âĶĢâĶĢâĶ´âĶ¬âĶĢâĶĢâĶ´âĶ¬âĶĢâĶĢâĶ´âĶ¬âĶĢâĶĢâĶ´âĶ¬âĶĢâĶĢâĶ´âĶ¬âĶĢâĶĢâĶ´âĶ
+
+31863: Tokens: 99 characters: 143
+WERExBCFsIiIiCEKYREREUMUwiIiIoYohEVERAxRCIuIiBiiEBYRETFEISwiImKIQlhERMQQhbCIiIghCmERERFDFMIiIiKGKIRFREQMUQiLiIgYohAWERExRCEsIiJiiEJYRETEEIWwiIi
+
+32295: Tokens: 25 characters: 44
+AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEgAACxIB
+
+36022: Tokens: 28 characters: 42
+ĢâĶ¬âĶĢâĶ´âĶĢâĶ¬âĶĢâĶ´âĶĢâĶ¬âĶĢâĶ´âĶĢâĶ¬âĶ
+
+37365: Tokens: 52 characters: 103
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
+
+38828: Tokens: 25 characters: 63
+ãĥĹãĥ©ãĤ¹ãĥģãĥĥãĤ¯ãĥ¢ãĥĩãĥ«ãĤŃãĥĥãĥĪãģ®ãĥ©ãĤ¤ãĥ³ãĤĴä½ľæĪĲãģĹãģŁ
+
+43465: Tokens: 21 characters: 57
+ãĤ°ãĥ©ãĥ³ãĥīãĤ·ãĥĥãĥĹãĤ³ãĥ¬ãĤ¯ãĤ·ãĥ§ãĥ³ãģ¨åĳ¼ãģ°ãĤĮãģ¾ãģĻ
+
+44361: Tokens: 30 characters: 45
+IjajcBYREbEZhbOIiIjNKJxFRERsRuEsIiJiMwpnERERm
+
+44863: Tokens: 20 characters: 110
+AclRuleStatementRateBasedStatementScopeDownStatementOrStatementStatementNotStatementStatementXssMatchStatement
+
+49896: Tokens: 97 characters: 111
+pqrÅķÅĻsÅĽÅ¡ÃŁtÅ¥uÃ¹ÃºÃ»Ã¼Å±Å¯Å«vwxyÃ½Ã¿zÅºÅ¼Å¾ÐĲÐĳÐĴÐĵÒĲÐĶÐķÐĦÐĸÐĹÐĺÐĨÐĩÐĻÐļÐĽÐľÐĿÐŀÐŁÐłÐ¡Ð¢Ð£Ð¤Ð¥Ð¦Ð§Ð¨Ð©Ð®Ð¯
+
+51144: Tokens: 93 characters: 214
+æł¡èĪİè£ıãģĭãĤīæµ·å²¸ãģ¸ãģ¨ç¶ļãģıåºĥåł´ãģ§æĬķãģĴãģŁãĥķãĥ©ãĤ¤ãĥ³ãĤ°ãĥĩãĤ£ãĤ¹ãĤ¯ãĤĴãĤŃãĥ£ãĥĥãĥģãģĻãĤĭKAKAãģ®é£Ľè¡ĮãĥĨãĤ¹ãĥĪãĤĴãģĹãģ¦ãģĦãĤĭãģ¨æµ·é¢¨ãģ«çħ½ãĤīãĤĮãģ¦ãĥĩãĤ£ãĤ¹ãĤ¯ãģĮä¸Ģäººãģ®å¥³æĢ§ãģ«å½ĵãģŁãģ£ãģ¦ãģĹãģ¾ãģĨ
+
+51829: Tokens: 91 characters: 101
+AÃĢÃģÃĤÃĦÃĨÃĥÃħÄĢBCÃĩÄĨÄĮDÄİEÃĪÃīÃĬÃĭÄĴÄĸÄĺÄļFGÄŀHIÃĮÃįÃİÄ°ÃıÄªÄ®JKLÅģÄ¹Ä½MNÅĥÃĳÅĩOÃĴÃĵÃĶÃĸÅĲÅĴÃĺÃķÅĮ
+
+55559: Tokens: 17 characters: 25
+wwCSWqcQSBJjTMIJKlxBoEkNc
+
+57234: Tokens: 20 characters: 32
+hhaomjibdihmijegdhdafkllkbggdgoj
+
+57647: Tokens: 26 characters: 57
+è¯¥é¡¹åıªæľīåľ¨è¿ĩæ»¤åĻ¨æ¨¡å¼ıä¸ºå±ıèĶ½ä½įæ¨¡å¼ıæĹ¶æľīçĶ¨
+
+59127: Tokens: 19 characters: 33
+CSGmcQSFLjDAJJapxBIEmNMwgkqXEGgSQ
+
+59128: Tokens: 37 characters: 127
+1000111110110101101110011100111111101110011011000101110111101101100111111111111100110011111001110111001111111111111111111111111
+
+59533: Tokens: 72 characters: 259
+ĠâĶľâĶĢâĶĢâĶĢâĶĢâĶ¬âĶĢâĶĢâĶ´âĶĢâĶ¬âĶĢâĶ´âĶĢâĶĢâĶ¬âĶ´âĶĢâĶĢâĶĢâĶ´âĶĢâĶĢâĶĢâĶ´âĶĢâĶĢâĶĢâĶ´âĶĢâĶĢâĶĢâĶ´âĶĢâĶĢâĶĢâĶ´âĶĢâĶĢâĶ¬âĶ´âĶĢâĶĢâĶĢâĶ¼âĶĢâĶĢâĶĢâĶ´âĶ¬âĶĢâĶĢâĶĢâĶĢâĶ¬âĶĢâĶĢâĶĢâĶĢâĶ¤âĶĮâĶĢâĶĢâĶĢâĶ¼âĶĢâĶĢâĶĢâĶ¼âĶĢâĶĢâĶĢâĶĲâĶľâĶĢâĶĢâĶĢâĶ´âĶĢâĶĢâĶĢâĶ¼âĶĢâĶĢâĶĢâĶ¤
+
+60112: Tokens: 36 characters: 68
+ĠMRIHYLLFALLFLFLVPVPGHGGIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK
+
+60584: Tokens: 24 characters: 76
++âĢĶ-+âĢĶâĢĶ-+âĢĶâĢĶâĢĶâĢĵ+âĢĶ-+âĢĶâĢĶâĢĶ+âĢĶâĢĶ+âĢĶâĢĶ-+âĢĶâĢĶâĢĶâĢĶâĢĶâĢĶ+
+
+61152: Tokens: 18 characters: 33
+baaSqaaiabdMeajbqaaiabdMgaPbaaaaa
+
+61558: Tokens: 68 characters: 198
+ãģ¾ãģŁçī©çĲĨçļĦãģ«çĭ¬ç«ĭãģĹãģŁãĥĨãĥ³ãĤŃãĥ¼ãģĮçĶ¨æĦıãģķãĤĮãģ¦ãģĦãģªãģıãģ¦ãĤĤãĥİãĥ¼ãĥĪãĥĳãĤ½ãĤ³ãĥ³ãģ®ãĤĪãģĨãģ«æĹ¢åŃĺãģ®ãĤŃãĥ¼éĥ¨åĪĨãģ«ãĥĨãĥ³ãĤŃãĥ¼ãĤĴãĥŀãĥĥãĥĶãĥ³ãĤ°ãģķãĤĮãģ¦ãģĦãĤĭãĤĤãģ®ãĤĤãģĤãĤĬãģ¾ãģĻ
+
+63374: Tokens: 17 characters: 29
+HAHAHHAHAHAHHAHAHAHAHHAHHAHAH
+
+63375: Tokens: 65 characters: 150
+çªģå¦Ĥé£ĽæĿ¥ãģĹãģŁUFOãģ®å¢ľèĲ½ãģ«å·»ãģįè¾¼ãģ¾ãĤĮæ©Łæ¢°ãģ®ä½ĵãģ«çĶŁãģ¾ãĤĮå¤īãĤıãģ£ãģŁå½¼ãģ¯äººéĸĵãĤĴéģ¥ãģĭãģ«è¶ħè¶ĬãģĻãĤĭåĬĽãĤĴæīĭãģ«åħ¥ãĤĮãĤĭãģĵãģ¨ãģ«
+
+63897: Tokens: 64 characters: 271
+ĠâĶĶâĶĢâĶĢâĶĢâĶĢâĶ´âĶĢâĶĢâĶĢâĶĢâĶ´âĶĢâĶĢâĶĢâĶĢâĶ´âĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶ´âĶĢâĶĢâĶĢâĶĢâĶ´âĶĢâĶĢâĶĢâĶĢâĶ´âĶĢâĶĢâĶĢâĶĢâĶ´âĶĢâĶĢâĶĢâĶĢâĶĺâĶĶâĶĢâĶĢâĶĢâĶ´âĶĢâĶĢâĶĢâĶ´âĶĢâĶĢâĶĢâĶĺâĶĶâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶ´âĶĢâĶĢâĶĢâĶ´âĶĢâĶĢâĶĢâĶĺ
+
+64550: Tokens: 32 characters: 65
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+64551: Tokens: 63 characters: 205
+0236114100010100025418710000000000162321101000000083011100100100054000101010100045100001010110056001011200001067000011020000048020001013122012900000000021003100000000012200511000000003005081200000000000123
+
+65061: Tokens: 62 characters: 72
+ÐĲÐĳÐĴÐĵÐĶÐķÐģÐĸÐĹÐĺÐĻÐļÐĽÐľÐĿÒ¢ÐŀÓ¨ÐŁÐłÐ¡Ð¢Ð£Ò®Ð¤Ð¥Ð¦Ð§Ð¨Ð©ÐªÐ«Ð¬ÐŃÐ®Ð¯
+
+65062: Tokens: 62 characters: 271
+ĠâĶľâĶĢâĶĢâĶ´âĶĢâĶ¬âĶĢâĶ´âĶĢâĶ¬âĶĢâĶ´âĶĢâĶ¬âĶĢâĶ´âĶĢâĶ¬âĶĢâĶ´âĶĢâĶ¬âĶĢâĶ´âĶĢâĶ¬âĶĢâĶ´âĶĢâĶ¬âĶĢâĶ´âĶĢâĶ¬âĶĢâĶ´âĶĢâĶ¬âĶĢâĶ´âĶĢâĶ¬âĶĢâĶ´âĶĢâĶ¬âĶĢâĶ´âĶĢâĶ¬âĶĢâĶ´âĶĢâĶ¬âĶĢâĶĢâĶĢâĶĢâĶĢâĶ¤âĶľâĶĢâĶĢâĶĢâĶ¼âĶĢâĶĢâĶĢâĶ¼âĶĢâĶĢâĶĢâĶ¤âĶľâĶĢâĶĢâĶĢâĶ¼âĶĢâĶĢâĶĢâĶ¼âĶĢâĶĢâĶĢâĶ¼âĶĢâĶĢâĶĢâĶ¤
+
+65922: Tokens: 61 characters: 101
+aÃłÃ¡Ã¢Ã¤Ã¦Ã£Ã¥ÄģbcÃ§ÄĩÄįdÄıeÃ¨Ã©ÃªÃ«ÄĵÄĹÄĻÄĽfgÄŁhiÃ¬ÃŃÃ®Ã¯Ä«Ä¯Ä±jklÅĤÄºÄ¾mnÅĦÃ±ÅĪoÃ²Ã³Ã´Ã¶ÅĳÅĵÃ¸ÃµÅį
+
+65923: Tokens: 61 characters: 259
+ĠâĶľâĶĢâĶĢâĶĢâĶĢâĶ´âĶ¬âĶĢâĶĢâĶ´âĶ¬âĶĢâĶĢâĶ´âĶ¬âĶĢâĶĢâĶ´âĶ¬âĶĢâĶĢâĶ´âĶ¬âĶĢâĶĢâĶ´âĶ¬âĶĢâĶĢâĶ´âĶ¬âĶĢâĶĢâĶ´âĶ¬âĶĢâĶĢâĶ´âĶ¬âĶĢâĶĢâĶ´âĶ¬âĶĢâĶĢâĶ´âĶ¬âĶĢâĶĢâĶ´âĶ¬âĶĢâĶĢâĶ´âĶĢâĶĢâĶĢâĶĢâĶĢâĶ¤âĶĶâĶĢâĶĢâĶĢâĶ´âĶĢâĶĢâĶĢâĶ´âĶĢâĶĢâĶĢâĶĺâĶľâĶĢâĶĢâĶĢâĶ¼âĶĢâĶĢâĶĢâĶ¼âĶĢâĶĢâĶĢâĶ¤
+
+67204: Tokens: 59 characters: 64
+PQRÅĶÅĺSÅļÅłÈĺÈĻÅŀÅŁáºŀTÅ¤ÈļÈĽÅ¢Å£UÃĻÃļÃĽÃľÅ°Å®ÅªVWXYÃĿÅ¸ZÅ¹Å»Å½
+
+69277: Tokens: 56 characters: 99
+aIiIghCmERERFDFMIiIiKGKIRFREQMUQiLiIgYohAWERExRCEsIiJiiEJYRETEEIWwiIiIIQphERERQxTCIiIihiiERUREDFEIi
+
+69278: Tokens: 56 characters: 138
+å½¼ãĤīãģ®ä½ıãĤĢè«ıè¨ªåİŁå¸Ĥãģ§ãģ¯äººãģĮé¦ĸãĤĴæĸ¬ãĤĬèĲ½ãģ¨ãģķãĤĮãģ¦æ®ºãģķãĤĮãĤĭãģ¨ãģĦãģĨçĦ¡å·®åĪ¥éĢ£ç¶ļéĢļãĤĬéŃĶäºĭä»¶ãģĮèµ·ãģĵãĤĬå§ĭãĤģãĤĭ
+
+70142: Tokens: 28 characters: 42
+|[!#\\$%&'\\*\\+\\-\\/=\\?\\^_`{\\|}~]|[\\
+
+70745: Tokens: 54 characters: 143
+11362651102103821021001011011032631021011011011034341021011011011036351021011011011038461021011011011029871021011011011021028102101101101102102
+
+71675: Tokens: 27 characters: 51
+éļıçĿĢåħ¨çĲĥèĤ¡å¸ĤåıĹæŃ¦æ±īèĤºçĤİçĸ«æĥħå½±åĵįä¸ĭè¡Į
+
+71676: Tokens: 53 characters: 156
+ãĤ¿ãĥ¼ãĤ²ãĥĥãĥĪãģ®åģīäººãģŁãģ¡ãĤĴçĽ¸æīĭãģ«ãģĤãģ®æīĭãģĵãģ®æīĭãģ®çŃĸçķ¥ãĤĴå·¡ãĤīãģĽãģ¦ãģªãĤĵãģ¨ãģĭãĥĢãĤ¤ãĥĬãĥ¢ãĥ³ãĥīãĤĴãĤ²ãĥĥãĥĪãģĹãĤĪãģĨãģ¨ãģĻãĤĭãģ®ãģłãģ£ãģŁ
+
+73410: Tokens: 26 characters: 45
+é«ĺèĢĥèĭ±è¯Ńå®Įå½¢å¡«ç©ºæĬĵåĪĨç»ĥä¹łç²¾åĵģé¢ĺ
+
+73411: Tokens: 51 characters: 98
+ĠèĢĮåªĴä½ĵåľ¨æĬ¥å¯¼æ¬§ç¾İèĤ¡å¸Ĥä¸ĭè·ĮåĴĮAèĤ¡ä¸ĭè·ĮæĹ¶å®Įåħ¨ä¸įåĲĮçļĦéģ£è¯įçĶ¨åı¥ä¹Łè¢«å¤§ä¼ĹåĲĲæ§½
+
+73412: Tokens: 51 characters: 126
+æ§ĺãĢħãģªåĩºä¼ļãģĦãĤĦåĪ¥ãĤĮãĤĴçµĮãģ¦ãĤ¹ãĥĨãĥ¼ãĤ¸ãģ«åĲĳãģĳãģ¦å¥ıãģ§ãģ¦ãģĦãģıè»Įè·¡ãĤĴæııãģıãĥīãĤŃãĥ¥ãĥ¡ãĥ³ãĤ¿ãĥªãĥ¼ãĥłãĥ¼ãĥĵãĥ¼
+
+74099: Tokens: 50 characters: 79
+ycWNhMTZfcnNhLmNybDCBkgYIKwYBBQUHAQMEgYUwgYIwCAYGBACORgEBMAgGBgQAjkYBBDBXBgYEAI
+
+75297: Tokens: 25 characters: 63
+æīĭæľºä¸Ĭéķ¿æĮīå¹¶å¤įåĪ¶ä¸ĭåĪĹéĵ¾æİ¥æĪĸäºĮç»´çłģåĪĨäº«æľ¬æĸĩç«ł
+
+75298: Tokens: 49 characters: 86
+ltNYIIYRwPIOjAxBCCGEnCVkIIZyEJGQhhHASkpCFEMJJSEIWQggnIQlZCCGchCRkIYRwEpKQhRDCSUhCFkIIJ
+
+75299: Tokens: 49 characters: 114
+ãģĿãĤĮãģ§ãĤĤå¹¼é¦´æŁĵãģ®ç¶¾çĢ¬é¦Ļç´ĶãĤĦåħĪè¼©ãģ®æ°·å®¤çİ²æĦĽãģ¨åħ±ãģ«åħĥãģ®åŃ¦åľĴçĶŁæ´»ãģ«ãĤĤæĪ»ãĤĬãģ¤ãģ¤ãģĤãģ£ãģŁ
+
+76034: Tokens: 48 characters: 105
+ãĥĸãĥ©ãĤ¦ãĤ¶ãģ®æĮĻåĭķãģ®å·®çķ°ãĤĦãĥįãĥĥãĥĪãĥ¯ãĥ¼ãĤ¯ãģ®çĬ¶æħĭãģ§çĬ¶æ³ģãģĮå¤īãĤıãĤĭãģĭãĤĤãģĹãĤĮãģ¾ãģĽãĤĵãģĮ
+
+77095: Tokens: 24 characters: 73
+Ġãģ®ãĤ¤ãĥ³ãĤ¹ãĤ¿ãĥ³ãĤ¹ãĤĴè¤ĩæķ°æĮģãģ¤ãĤ¯ãĥ©ãĤ¹ãĤ¿ãĥ¼ãģ«ãģ®ãģ¿å¿ħè¦ģãģ§ãģĻ
+
+77096: Tokens: 24 characters: 70
+ĠãĤ¤ãĥ³ãĤ¹ãĤ¿ãĥ³ãĤ¹ãģ§èªŃãģ¿åıĸãĤĬå°ĤçĶ¨ãĤ¯ãĤ¨ãĥªãĤĴåĳ¼ãģ³åĩºãģĹãģ¾ãģĻ
+
+77097: Tokens: 47 characters: 81
+UdEwQCMAAwggEoBgNVHSAEggEfMIIBGzCCAQwGDSsGAQQBgbhICgEeAQEwgfowHQYIKwYBBQUHAgEWEWh
+
+77098: Tokens: 47 characters: 126
+ãĤĦãģĿãģ®æµģãĤĮãĤĴæ±²ãĤĢãĤĪãģĨãģªãĥŃãĥľãĥĥãĥĪãģ§æĪ¦éĹĺãĤĴç¹°ãĤĬåºĥãģĴãĤĭãĤĪãģĨãģªä½ľåĵģãģ®æĸ°ä½ľãģ¯ä»ĬåŃ£ãģ¯ãģªãģĦãĤĪãģĨãģ§ãģĻ
+
+79202: Tokens: 45 characters: 105
+JKKéļĬåĵ¡ãģ«ãĥĪãĤŃãĤªãģ¨ãĤ«ãĥ¬ãĥ³ãģ¨ãģ®æŃ´åı²ãĤĴãģĭãģĳãģŁæĶ»éĺ²ãģ®æľ«ãģ«éķ·ãģĦãĤĪãģĨãģ§çŁŃãģĦä¼ĳæ¥ŃæľŁéĸĵ
+
+79203: Tokens: 45 characters: 87
+å°ıåŃ¦åħŃå¹´çº§ä¹¦æ³ķè¯¾åĲİä¸įçŁ¥æĺ¯åĵªä¸ªçĶ¨çº¢çº¸åĨĻäºĨå¼łåħŃçķľåħ´æĹºè´´æķĻå®¤éĹ¨ä¸Ĭ
+
+80026: Tokens: 44 characters: 99
+æ¿ĢãģĹãģķãĤĴæĮģãģ¡ãģ¤ãģ¤ãĤĤå¦ĸèī¶ãģªãĥŃãĥĥãĤ¯ãĤµãĤ¦ãĥ³ãĥīãģ¨åľ§åĢĴçļĦãģªæ¼Ķå¥ıåĬĽãģ§éŃħãģĽãĤĭKYOHSO
+
+80027: Tokens: 44 characters: 102
+ç¹ģæłĦãģ¨æłĦèı¯ãĤĴæ¥µãĤģãģŁäººéĸĵãģŁãģ¡ãģ®æĸĩæĺİãģĮçµĤãĤıãĤĬãĤĴè¿İãģĪãģ¦ãģĭãĤīéķ·ãģĦå¹´æľĪãģĮéģİãģİãģŁ
+
+81461: Tokens: 22 characters: 69
+çļĦè¿ĩç¨ĭä¸Ńå¦Ĥæŀľåĩºçİ°bugè¯·åıĬæĹ¶ä»¥ä»¥ä¸ĭä»»æĦıä¸Ģç§įæĸ¹å¼ıèģĶç³»
+
+81462: Tokens: 22 characters: 40
+ZkCmYiIiIjPFMhEREREfKZAJiIiIuIzBTIRERERn
+
+81463: Tokens: 43 characters: 77
+EADoQAAIBAwIEBAQEBAQHAAAAAAECAwAEERIhBTFBURMiYXEGMkKBFCORoTNSsdFDcsHxFTRTkqLC
+
+81464: Tokens: 43 characters: 73
+gphfsAwjYYbgYHQuHGulFaYSctZCCEKMwcHmDcPxcLipbvFAnvRzWsOBaYXKYJzmzYSzLlEWs
+
+81465: Tokens: 43 characters: 101
+ĠAATGATACGGCGACCACCGAGATCTACACACTGCATAACACTCTTTCCCTACACGACGCTCTTCCGATCTATCtgttccttcgatgaacttgtCluster
+
+81466: Tokens: 43 characters: 84
+å¹²æĶ¯ãģ®åĲįãĤĴå®¿ãģĻåįģäºĮäººãģ®çĮĽãģįæĪ¦å£«ãģĮäºĴãģĦãģ®åĳ½ãģ¨éŃĤãĤĴè³Ńãģĳãģ¦æĪ¦ãģĨ
+
+82408: Tokens: 42 characters: 122
+ĊĊĊĉĊĊĉĊĊĉĊĊĉĊĊĉĊĊĉĊĊĉĊĊĉĊĊĉĊĊĉĊĊĉĊĊĉĊĊĉĊĊĉĊĊĉĊĊĉĊĊĉĊĊĉĊĊĉĊĊĉĊĊĉĊĊĉĊĊĉĊĊĉĊĊĉĊĊĉĊĊĉĊĊĉĊĊĉĊĊĉĊĊĉĊĊĉĊĊĉĊĊĉĊĊĉĊĊĉĊĊĉĊĊĉĊĊĉĊĊĉĊ
+
+83875: Tokens: 41 characters: 90
+ãģĶãģıæĻ®éĢļãģ®åŃ¦çĶŁèĹ¤äºķèĵ®ãģ¯è¦ªåıĭãģ®éģĬä½Ĳåı¸çĭ¼ãģ¨æ®´ãĤĬåĲĪãģĦãģ®æ±ºéĹĺãĤĴèµ·ãģĵãģĹ
+
+83876: Tokens: 41 characters: 70
+SDNVLLKSKTETFIIPYFQKETTSESKDQKVGHTQKELDLNQKLVYQLSELPGTSTQGSSGSSTQTEQIK
+
+83877: Tokens: 41 characters: 105
+ãģłãģĮãģĿãĤĮãģ¯å½¼ãģ«ãģ¨ãģ£ãģ¦æģĲæĢĸãģ¨èĭ¦æĤ¶ãģ«æºĢãģ¡ãģŁæĪ¦ãģĦãģ®çī©èªŀãģ®åīįè§¦ãĤĮãģ§ãģĹãģĭãģªãģĭãģ£ãģŁ
+
+83878: Tokens: 41 characters: 70
+QRLAKDYKLVNLKSNKFLKEDYDVLAFYANLVQKDPREVLQYLFEIARANNLIGPEEKLDLNQIEEDGIF
+
+83879: Tokens: 41 characters: 114
+ãĤ¤ãĥ³ãĤ¿ãĥ¼ãĥįãĥĥãĥĪãģ§èī²ãĢħãģ¨æ¤ľç´¢ãģĹãģ¾ãģĹãģŁãģĮãģªãģĭãģªãģĭæľīçĽĬãģªæĥħåł±ãģĮå¾ĹãĤīãĤĮãģ¦ãģĦãģ¾ãģĽãĤĵãģ®ãģ§
+
+83880: Tokens: 41 characters: 105
+ãĥģãĥĪãģ¨ãĥ¦ãĥ¼ãĥªãģ¯ä»ĬæĹ¥ãĤĤæĦĽè»ĬãĤ±ãĥĥãĥĨãĥ³ãĤ¯ãĥ©ãĥ¼ãĥĪãģ«ä¹Ĺãģ£ãģ¦å»ĥå¢Łãģ®ä¸ŃãĤĴå½·å¾¨ãģ£ãģ¦ãģĦãģŁ
+
+84995: Tokens: 40 characters: 70
+TASSIQAGRALNSQIVFNGISFLKYKSALDGQSVSQIVNIPKVKKGKSVIQSRKKLSIYANCNIKDLSIF
+
+84996: Tokens: 40 characters: 70
+YDLKVVTIRDDAYAENAKIVHLRVVRKEKQQAEQKEKEKEKEKEKEQKETSSQGQVPQSAFFFQVRLIKD
+
+84997: Tokens: 40 characters: 70
+vLyBmZXRjaCgpIHBvbHlmaWxsIGZvciBtYWtpbmcgQVBJIGNhbGxzLlxucmVxdWlyZSgnd
+
+84998: Tokens: 40 characters: 85
+Ġåı¦ä¸ĢåĢĭæĸ¹ä¾¿çļĦåĬŁèĥ½æĺ¯ä½łåĺĹè©¦çĶ¨sshéĢ£æİ¥åĪ°ä¼ºæľįåĻ¨çļĦæĻĤåĢĻçĻ¼çĶŁäºĨä»Ģéº¼
+
+84999: Tokens: 40 characters: 98
+ĠAATGATACGGCGACCACCGAGATCTACACACCTCTTCACACTCTTTCCCTACACGACGCTCTTCCGATCTTCctcgaggatccatctgggCluster
+
+85000: Tokens: 40 characters: 101
+ĠAATGATACGGCGACCACCGAGATCTACACCTCTCTATACACTCTTTCCCTACACGACGCTCTTCCGATCTATCggcaataccaggtactttccCluster
+
+86390: Tokens: 39 characters: 70
+QKLEEKINSEYLSNKIGIDLGVLKKYISNNQGIEYTFDIANAKIRDAQDGITSHIEIPVTISLWSSFFGD
+
+86391: Tokens: 39 characters: 70
+RRAKAIKLIDKSSNNQGIYGFSFNNQFLKFHERGWMSTLYLPNEAKTKLADYQNLLSAGISDTKIFSELN
+
+86392: Tokens: 39 characters: 39
+àºģà»ģàºĹàºĻàºĤàºŃàºĩàºĻàº°àºĦàºŃàºĻàº«
+
+86393: Tokens: 39 characters: 129
+ãĥ¦ãĥ¼ãĤ¶ãĥ¼ä½ĵé¨ĵãģ«éĸ¢ãģĻãĤĭãĥĿãĥªãĤ·ãĥ¼ãģ§è¤ĩæķ°ãģ®ãĥŃãĤ±ãĥ¼ãĥ«ãĤĦè¨ĢèªŀãĤĴãĤµãĥĿãĥ¼ãĥĪãģĻãĤĭæĸ¹æ³ķãģ«ãģ¤ãģĦãģ¦èª¬æĺİãģĹãģ¾ãģĻ
+
+86394: Tokens: 39 characters: 70
+MLISKKTLGVLIPDIFSFSNDQIAQKLEQMGIEVESIKQFNSPDYLQLAKVVSIQPHPHDNKLFICELQI
+
+86395: Tokens: 39 characters: 97
+ĠCAAGCAGAAGACGGCATACGAGATCATGCCTAGTGACTGGAGTTCAGACGTGTGCTCTTCCGATCTATCttaagtgccacaaaaggacgCluster
+
+86396: Tokens: 39 characters: 70
+DFHQINFKVLDETDNKAKYFGGIHLRNYQLQQSSWNTKGILINNHIKPINDLVDLSNLIPLFVANPIHIH
+
+86397: Tokens: 39 characters: 70
+TYFAEIDKILSKITMRKLQLSDFKVAPQTSSSQPKQVKASVSAWSNLDQGQENRILVPVSQQSSNPQQQQ
+
+86398: Tokens: 39 characters: 70
+VQNFGFNCNYQTINDDTYLVKNDSLKLVVYDETIGYIGKIKKSILKEFDLADQDIYCLDINLERLITSIN
+
+87492: Tokens: 38 characters: 61
+IAAhSIgVBSIgTAAIgVhSIAABSIgVAAIAAhpIAhAAIASBHIAThHIAgAAIAABpg
+
+87493: Tokens: 38 characters: 70
+NHDFFKFPLNLKNKLKANYFGGLFLRQINQHSSPWTVKGLLINQMIKPVNYYVDKANLVTVFTAQPIHCH
+
+87494: Tokens: 38 characters: 70
+TSSFNFEKSSYFNTFNALTKLRKKLQTLGFHNVITYQLTDQKSAKTFNLFNLENFITIKNPVSQNHSVMR
+
+87495: Tokens: 38 characters: 70
+TEVADAIIIDHVSNDHDWNQYLSFLSLDDVIFDVKTPTNRADLHSLIFLAKELGVLLKTKTFLKQKSSVV
+
+87496: Tokens: 38 characters: 70
+SEPSFLIKARLTNEAKFELRGLNIEEAEMLEEIKLVPVDQFVVNLETDLKPGQAPEKSQKPQSEQTEIKK
+
+87497: Tokens: 38 characters: 70
+ALLFDETGKLRPGIDLNKFISFYTAVNSKIQKFEVSFAPNKPFFEFINLIPDDKNQTFTLQFRAKHQLDN
+
+87498: Tokens: 38 characters: 70
+KEKQERELMNKLVLSIPSAYSIFYLKQNEWDQVKTTNNGQQMGQTGSSQGFESLEPFKKIQEIVHKNNKD
+
+87499: Tokens: 38 characters: 72
+UGUCGGGUAGCUUAUCAGACUGAUGUUGACUGUUGAAUCUCAUGGCAACACCAGUCGAUGGGCUGUCUGACA
+
+87500: Tokens: 38 characters: 70
+DDVETTLKKIGFSMDKNRVIAPTYRSDIQHYEDVIEEYFRFYGYNNFKPEAPKLESYKVAHSVDNKNILQ
+
+87501: Tokens: 38 characters: 70
+NTESSSSSSSSSSSSSSSSSSETDTNKPENAVEYKLTYYYKIYNKTTKKVVYTTPKTIIKLYLASSNIGV
+
+87502: Tokens: 38 characters: 70
+GMINDNKFVYGLLSNEKSFDEIKQDIYNFLKVDNLEFIPFKDNELIHPNVSAKIIYNGCFIGWIGKVHPS
+
+87503: Tokens: 38 characters: 70
+DKNKFINVVSNANNINNPDNINKFVIVAKKGTELLNGLIVKTQNIKGIISEGILCSYIDINPFSRQIIEK
+
+87504: Tokens: 38 characters: 70
+KLIVANLGFSCDFEPLDDSDYFVNNQSLKIVVFNEQIGFIGLIKESLLNNYDLNNKPIYCLEINLDRMLS
+
+87505: Tokens: 38 characters: 70
+NYDKIRSLLGSMNYLPDAMIQKSLTDLGFLVEDDLVYVPSYRNDIYNWQDLVEELLKILNINLFQPIPIK
+
+87506: Tokens: 38 characters: 117
+ãģĿãĤĵãģªãģĵãģ¨ãĤĴèĢĥãģĪãĤĭãģĵãģ¨ãģķãģĪãģªãģıãģªãģ£ãģŁçµĤæľ«ãģ®ä¸ĸçķĮãģ§ãģĤãģ¦ãģ®ãģªãģĦæĹħãĤĴç¶ļãģĳãĤĭäºĮäººãģ®å°ĳå¥³
+
+87507: Tokens: 38 characters: 105
+ä½ĵèĤ²ç¥Ńãģ§ãģ®ãĤ¯ãĥ©ãĤ¹å¯¾æĬĹãĥªãĥ¬ãĥ¼ãĤĴãģįãģ£ãģĭãģĳãģ«ãĤ¯ãĥ©ãĤ¹ãĥ¡ãĤ¤ãĥĪãģ¨æīĵãģ¡è§£ãģĳå§ĭãĤģãģ¦ãģĦãģŁ
+
+87508: Tokens: 38 characters: 99
+ĠPINRUBBINGSTRIPCONNECTORDEFLECTORRINGSPEARSUPPORTGUIDEBOLTPISTONGUIDESTUDBARRELPISTONCYLINDERCOVER
+
+87509: Tokens: 38 characters: 70
+FDRHQIIKSAAFHKINTYSANLFSKEISLYQTKKTFEYLYQYLLTKVYNQQLSELSKTFSVDEYHQQVKV
+
+87510: Tokens: 38 characters: 69
+QJSELIVyLTFkIIYSTSLvpWBKyEMLFyAXqhRDCSaThfXqSkIUQrkWOshBCCCchUxZCCOEk
+
+87511: Tokens: 38 characters: 70
+DSSINEDLDPIKYFNLDDYIIDITTPANRAETNSYYVLAMELAAYYKTKFVWPNLLPKDNYRFRSNIKVS
+
+87512: Tokens: 38 characters: 70
+DADKIVGDVRLVQATKKEQFLALDNKWYTVQENDLLVVDDEKIIALAGIIGSMATAVDENSINYFIEVGN
+
+89451: Tokens: 19 characters: 33
+UQRQgihpkgUIYQQaopEEUIIoaZIFCGEEG
+
+89452: Tokens: 19 characters: 30
+bDAwJENvbnRlbnRQbGFjZUhvbGRlck
+
+89453: Tokens: 19 characters: 52
+Ġè®¾ç½®æĸĩåŃĹåľ¨å½ĵåīįçŁ©éĺµä¸ŃçļĦä½įç½®éĿłå·¦æİĴåĪĹ
+
+89454: Tokens: 19 characters: 65
+BlockTableRecordãģ®Nameãģ«åĢ¤ãĤĴè¨Ńå®ļãģĹãģ¦ãĤĤåıįæĺłãģķãĤĮãģªãģĦ
+
+89455: Tokens: 37 characters: 70
+KIQPLDLNIKTQSSDSSDSKSDSSDSSDAKTTSTKQDLLSKLTSLKSQIEAIVKKYETESKKYLGTENNN
+
+89456: Tokens: 37 characters: 70
+VSLIDSLLKVLKTNNNYKNELVNIFEFSFIKTQNNSELHLAVLWVEKLFTSSFNPMQGISNDVFTMKGLA
+
+89457: Tokens: 37 characters: 67
+ZmlsbHMuanMiXSwibmFtZXMiOlsiUHJvbWlzZSIsInJlcXVpcmUiLCJlbmFibGUiLCJ
+
+89458: Tokens: 37 characters: 60
+uPYmISFkKFCIiUpYChYiIlKVAISIiZSlQiIhIWQoUIiJSlgKFiIiUpUAxRXp
+
+89459: Tokens: 37 characters: 70
+MAKNNKNSLLVTATAIVGVAVFATTVGLVTRIRYKGENPRAELESLVSKVHNVAFKSDVFDNSTTYKQIK
+
+89460: Tokens: 37 characters: 72
+Ð°Ð±Ð²Ð³Ð´ÐµÑĳÐ¶Ð·Ð¸Ð¹ÐºÐ»Ð¼Ð½Ò£Ð¾Ó©Ð¿ÑĢÑģÑĤÑĥÒ¯ÑĦÑħÑĨÑĩÑĪÑīÑĬÑĭÑĮÑįÑİÑı
+
+89461: Tokens: 37 characters: 127
+rangeãĥªãĤ¯ãĤ¨ãĤ¹ãĥĪãģ§åıĸå¾ĹãģĻãĤĭbytesãģ®ç¯ĦåĽ²ãĤĴæĮĩå®ļãģ§ãģįãĤĮãģ°å®Łçı¾åı¯èĥ½ãģ§ãģ¯ãģªãģĦãģĭãģ¨èª¿ãģ¹ãģ¦ãģ¿ãģŁãģ®ãģ§ãģĻãģĮ
+
+89462: Tokens: 37 characters: 88
+ĠCAAGCAGAAGACGGCATACGAGATTGCCTCTTGTGACTGGAGTTCAGACGTGTGCTCTTCCGATCTTCtcgaggatctctggaagtg
+
+89463: Tokens: 37 characters: 96
+ĠCAAGCAGAAGACGGCATACGAGATCTAGTACGGTGACTGGAGTTCAGACGTGTGCTCTTCCGATCTATCgatccattatctcccgggaCluster
+
+89464: Tokens: 37 characters: 70
+EVKLPTLTAFISKQELEALIDGDKNLASQPTSQAVSVSQVKATEFQQQDANSTNSSPTSPSPSPTSPSPA
+
+89465: Tokens: 37 characters: 70
+LTNLLEVYQLNRSYKNKLYPIFEIQSLLTKNGANHHIGLVMANNLFNHSYDPSSGIKLDLITIKGISDII
+
+89466: Tokens: 37 characters: 70
+MIISLREINKYMPEINLDSSIEKSINNLGYEVESIKQFSDVKGIKFGYVLDVFKNENSKNLNVVSIKTNR
+
+89467: Tokens: 37 characters: 70
+RYVRTYEAYDHYQEVTRDITFQLKNEVDFNSFINVINSFNKLSKWEIISIFDATNQIDTNKTYQPTKYTV
+
+89468: Tokens: 37 characters: 70
+QPQPQSQPQSQPQPNAQTQPKAQIQSSPKAPVQKPATPDPSKSFKIRTKRARDFLKEFNKTFYRSNKLKS
+
+89469: Tokens: 37 characters: 93
+ä½łåı¯ä»¥æĬĬè²¬ä»»å§Ķè¨Ĺçµ¦ä¸ĢçµĦåĢīåº«çµ¦ä¸įåĲĮçļĦäººçĦ¶å¾Įè®ĵä»ĸåĢĳçį¨ç«ĭç®¡çĲĨéĤ£äºĽéĥ¨åĪĨ
+
+90702: Tokens: 36 characters: 70
+DADRIVGNIELKQATHNETFVGLDDKQYEIEPGDIVVCDEKGIIALVGIIGSKRTMVQPTTTNIFFEVVN
+
+90703: Tokens: 36 characters: 70
+KNEATELTFFEARLKNNKTSLKDILFLAKHGINAKGLYAIDLTNIALLVAGAPCHVYDKNKIGKSLSCSK
+
+90704: Tokens: 36 characters: 70
+ADYLLEVNNETNELLDRLSKKLRSLKFNHIRTYNLTSKKRAELLNLFKYQDPVVVSKPISETRQYYRQNI
+
+90705: Tokens: 36 characters: 70
+MLLSKKVIANFIPTITKIEDKKIVEALNAIGAEVESIKTFSMIDYLIIGKIFTIKKHPHAEKLNICSIQI
+
+90706: Tokens: 36 characters: 70
+SPSSSPSPTSPKNLDENIGVPNPRFEEIKKIISSEFTYKYNFRANEALLDAWVGKQNFPSLKDISQFRSD
+
+90707: Tokens: 36 characters: 70
+CNSETIKQTAKRFLINNFASKFMVKPISLLATDNCLNYLQNSLLTTDNIGKISHFSSSLKVEPFSKKLTV
+
+90708: Tokens: 36 characters: 70
+SLNRIEKNYLGYSKLQPVCKDLTFSFTNPASHFDQFANMIKRITGIESWKLISVFETMQNNQLITKYTVR
+
+90709: Tokens: 36 characters: 70
+FSGELEILGGKKVSVSDVLAIKDETGVISLASVMGCENSAVDENTKEVVFEVGLFDPLLVRHGAREIKMD
+
+90710: Tokens: 36 characters: 70
+NYTAYSSILSKKIAYAQRSQFALADFNANHRKITKSFQTNIQNLRETDFSVDFSSSQTSLASQKIPFLTR
+
+90711: Tokens: 36 characters: 99
+ç¾İåĳ³ãģĹãģĦãĤ³ãĥ¼ãĥĴãĥ¼ãĤĴåĮĤãģĦãģ§åĹħãģİåĪĨãģĳãĤĭäºĭãģĮåĩºæĿ¥ãĤĭãģ¨ãģĦãģĨçī¹æĬĢãĤĴæĮģãģ£ãģ¦ãģĦãģŁ
+
+90712: Tokens: 36 characters: 70
+EYDSKNIIILDKANLGDTEVYKYLNIDDTIFDISIPSSRPDWHGIRFLAKELAAYLNLKYVELIGRAKQT
+
+90713: Tokens: 36 characters: 70
+VEDFAADINKSGNQEEAISRISKYFPDFQRYIHELKDDPNNVLPFKKGKIFDFSITRRAGTNDFISLSAN
+
+90714: Tokens: 36 characters: 84
+çĶ±ä¾ĨèĩªåĤ³åħ¥msgçļĦå±¬æĢ§ä¾Ĩå¡«åħħå·²éħįç½®çļĦæ¨¡æĿ¿å¾Įè¼¸åĩºçļĦå¸¶æľīå±¬æĢ§çļĦmsg
+
+92452: Tokens: 18 characters: 52
+emodeuidgitsizedateckltlnmagicunamegnamedevmajdevmin
+
+92453: Tokens: 18 characters: 46
+Ġ======`-.____`-.___\_____/___.-`____.-'======
+
+92454: Tokens: 18 characters: 56
+PCãģ«æİ¥ç¶ļãģķãĤĮãģ¦ãģĦãĤĭãĤŃãĥ¼ãĥľãĥ¼ãĥīãģ®æķ°ãģ¨ç¨®é¡ŀ
+
+92455: Tokens: 18 characters: 36
+å¥ĩçķ°å¤ªéĥİå°ĳå¹´ãģ®å¦ĸæĢªçµµæĹ¥è¨ĺ
+
+92456: Tokens: 18 characters: 96
+ãĤ¯ãĥ©ãĤ¹ãĤ¿ãĥ¼ãģĮå®Łè¡ĮãģķãĤĮãģ¦ãģĦãĤĭãĤ¤ãĥ³ãĥķãĥ©ãĤ¹ãĥĪãĥ©ãĤ¯ãĥģãĥ£ãģ«ãĤĪãģ£ãģ¦çķ°ãģªãĤĬãģ¾ãģĻ
+
+92457: Tokens: 18 characters: 39
+å®ĥåĢĳå°ĩçĦ¡æ³ķåľ¨æŃ¤éłģéĿ¢çĻ¼æı®ä½ľçĶ¨
+
+92458: Tokens: 35 characters: 70
+YNASNFWVAEFINVNNNSKVEFNVYDPSPLKSIDLTFTINSNEAIASKISEINEISKSFSIMQIDSFTNA
+
+92459: Tokens: 35 characters: 68
+Ð¬Ð°Ð±Ð²Ð³ÒĳÐ´ÐµÑĶÐ¶Ð·Ð¸ÑĸÑĹÐ¹ÐºÐ»Ð¼Ð½Ð¾Ð¿ÑĢÑģÑĤÑĥÑĦÑħÑĨÑĩÑĪÑīÑİÑıÑĮ
+
+92460: Tokens: 35 characters: 70
+NFHKIRQLIGIEKKELTDQTIKKSLSQLGFKVDNQLLKIPSYRQDINTWQDISEEIVKLIDINKLKPIGI
+
+92461: Tokens: 35 characters: 70
+SLGYNEIRTFSLISSEMNILNPFNFESTVKLMTFVSKEREEVRNSIIPSLLESAEFNLKRKINNVSLFEH
+
+92462: Tokens: 35 characters: 100
+äºĪæľŁãģĽãģ¬BIOSãģ®èĩªåĭķæĽ´æĸ°ãĤĦãĤ·ãĤ¹ãĥĨãĥłãģĮèµ·åĭķãģĹãģªãģıãģªãĤĭä¸įåħ·åĲĪãģĮçĻºçĶŁãģĹãģ¦ãģĦãĤĭ
+
+92463: Tokens: 35 characters: 70
+GGSSSGTEQKGSSIPEENKKFILENTAKLDNLADLLLAFYYQAKRLNFASWSQLQDEDLDYQIQFEKEAN
+
+92464: Tokens: 35 characters: 70
+GIITIQTTATNVKKNHWIVAFVEGASKGEIVFGKKEMAGVVSNGMLASYSELGYDSSLLPFDPNGVILLD
+
+92465: Tokens: 35 characters: 99
+èĩªåĪĨãģĮæĸŃéłŃåı°ãģ§é¦ĸãĤĴåĪİãģŃãĤīãĤĮãĤĭãģ¨ãģĦãģĨæģĲãĤįãģĹãģĦæĤªå¤¢ãģ«ãģĨãģªãģķãĤĮå§ĭãĤģãģ¦ãģĦãģŁ
+
+92466: Tokens: 35 characters: 65
+BQoRESlLgUJERMpSoBARkbIUKEREpCwFChERKUuBQkREylKgEBGRshQoRESkrEStK
+
+92467: Tokens: 35 characters: 97
+éĿĻãģĭãģªä¸Ńãģ«ãĤĤæ¿ĢãģĹãģķãĤĴæĦŁãģĺãģķãģĽãĤĭãĤ¨ãĥ¢ãĥ¼ãĤ·ãĥ§ãĥĬãĥ«ãģªãĥŃãĥĥãĤ¯ãĤµãĤ¦ãĥ³ãĥīãģ®Liar
+
+92468: Tokens: 35 characters: 150
+ãĥ¬ãĤ¤ãĤ¢ãĤ¦ãĥĪãģ®ãĥĸãĥŃãĥĥãĤ¯ãĥĨãĥ¼ãĥĸãĥ«ãĥ¬ãĤ³ãĥ¼ãĥīãģ«èªŃãģ¿è¾¼ãĤĢåħĥãģ®ãĤªãĥĸãĤ¸ãĤ§ãĤ¯ãĥĪãĤĴãĤ³ãĥĶãĥ¼ãģĻãĤĭãģĵãģ¨ãģ§å®Łçı¾ãģ§ãģįãĤĭãģ¨æĢĿãģĦãģ¾ãģĻ
+
+92469: Tokens: 35 characters: 108
+ä»ĬæĹ¥ãģ¯ãĥ¬ãĥ¼ãĤ·ãĥ³ãĤ°ãĥĭãĥ¼ãĥ©ãĥ¼å¥³åŃĲé«ĺçĶŁéĥ¨éĸĢãģ®ãĤ¨ãĤŃãĤ·ãĥĵãĤ·ãĥ§ãĥ³ãĥ¬ãĥ¼ãĤ¹ãģĮéĸĭåĤ¬ãģķãĤĮãĤĭæĹ¥
+
+94023: Tokens: 34 characters: 65
+#-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+94024: Tokens: 34 characters: 61
+'//.*?$|(?<!\\)/\*.*?\*/|\'(\\.|[^\\\'])*\'|"(\\.|[^\\"])*"',
+
+94025: Tokens: 34 characters: 70
+SDNKFINIISDSPNLFDQTKVLNKYVIVAMEGAELPNGITVINRDIRGMNSSGLLCSYADLNPQSSEYLS
+
+94026: Tokens: 34 characters: 81
+éĤ£éº¼ä»ĸéĢıéģİæ°´ä¾Ĩæİ§åĪ¶æĪĳåĢĳäººé¡ŀçļĦæĸĩæĺİä¼¼ä¹İæĺ¯ä¸ĢåĢĭå¾ĪæľīæķĪçļĦçŃĸçķ¥
+
+94027: Tokens: 34 characters: 63
+åıªè¦ģæĮīä¸ĭçĽ¸æĩīçļĦæĮīéĪķä¸¦çĶ¨æ»ĳé¼łåľ¨åľĸçīĩä¸Ĭéģ¸åıĸåį³åı¯
+
+94028: Tokens: 34 characters: 108
+ãģĵãģ®ãĤ¢ãĤ¯ãĤ·ãĥĩãĥ³ãĥĪãģĮå¿ĥãĤĴéĸīãģĸãģĹãģ¦ãģĦãģŁãĤ¿ãĥ³ãĤ¿ãĥ³ãĤĴå¤§ãģįãģªæĪĲéķ·ãģ¸ãģ¨å°İãģıãģ®ãģ§ãģĤãģ£ãģŁ
+
+94029: Tokens: 34 characters: 66
+éĢĻæ¨£æľĥå»ºç«ĭæĽ´ä¹¾æ·¨ä¸ĶæĽ´å®¹æĺĵç¶ŃèŃ·åĴĮæĵ´åħħçļĦæĩīçĶ¨ç¨ĭå¼ı
+
+95990: Tokens: 17 characters: 26
+'\''"@(){}[],+=&^%#;|\'\''
+
+95991: Tokens: 17 characters: 61
+ĠãĤ¤ãĥ³ãĤ¹ãĤ¿ãĥ³ãĤ¹ãģ§ç®¡çĲĨãĤ³ãĥŀãĥ³ãĥīãĤĴåĳ¼ãģ³åĩºãģĹãģ¾ãģĻ
+
+95992: Tokens: 17 characters: 33
+sbcdhiksjaghgfhsghjawyeqsadfsazxx
+
+95993: Tokens: 17 characters: 39
+374652346956782346957823694857692364857
+
+95994: Tokens: 17 characters: 36
+ä¹ħæĪĳå®ĹäºĮãģ®æĦĽãģ®æķĻèĤ²å§Ķåĵ¡ä¼ļ
+
+95995: Tokens: 33 characters: 72
+çįħåŃĲç¥ŀãģ«ãĤĪãģ£ãģ¦åĤ·ä»ĺãģĳãĤīãĤĮãģŁäººãĢħãĤĴæķĳãģĦç¶ļãģĳãĤĭçĬ¬å±ĭæķ·
+
+95996: Tokens: 33 characters: 57
+ImNsaWVudElkIjoiMzAwMDAyMyIsImMzIjoicGhpbGFkZWxwaGlhLmNic
+
+95997: Tokens: 33 characters: 85
+drawéĸ¢æķ°åĨħãģ§redbuttonãģ®ãģ¿è¼ªéĥŃãģªãģĹãģ®èµ¤ãģ®åĨĨãģ®ãģ¿ãĤĴéģ©çĶ¨ãģķãģĽãģŁãģĦãģĮ
+
+95998: Tokens: 33 characters: 112
+æĪĳä»¬ä¹Łåı¯ä»¥åľ¨æĭŁåĲĪè¿ĩç¨ĭä¸Ńä½¿çĶ¨checkponitéĢīé¡¹å°Ĩæ¯ıä¸ĢæŃ¥çļĦç»ĵæŀľéĥ½åĪĨåĪ«åŃĺåħ¥ä¸Ģä¸ªç£ģçĽĺæĸĩä»¶ä¸Ń
+
+95999: Tokens: 33 characters: 102
+å°ıèª¬ãĤĴæĽ¸ãģĦãģŁãĤĬãĤ²ãĥ¼ãĥłãĤĴãĤĦãģ£ãģŁãĤĬãģĬéħĴãĤĴé£²ãĤĵãģłãĤĬç¢ºå®ļçĶ³åĳĬãĤĴãģĹãģŁãĤĬãģ¨ãģĦãģ£ãģŁ
+
+97445: Tokens: 32 characters: 54
+LCNkIYSLScMZWRKyEMKlyGFvQgjhJGQOWQghnIQkZCGEcBIyZSGEEE
+
+97446: Tokens: 32 characters: 77
+13891744915211034074451795021214165905772212241412891944830863846330766296736
+
+97447: Tokens: 32 characters: 90
+åĽ³éĿ¢ãģĮå°ıãģķãģĦåł´åĲĪãģ¯ãĥ¢ãĥĩãĥ«ç©ºéĸĵãģ«ä½ľåĽ³ãģķãĤĮãģŁåĽ³éĿ¢ãĤĴãģĿãģ®ãģ¾ãģ¾åį°åĪ·ãģĹ
+
+97448: Tokens: 32 characters: 90
+ä½łåĨįä¸Ģæ¬¡ç°¡åĸ®è·Łéļ¨è¦ıåīĩå¾ŀä¸Ĭèĩ³ä¸ĭçŁ¥éģĵä½łæī¾åĪ°ä¸ĢåĢĭåĮ¹éħįä½łçļĦè¨ªåķıæ¨¡å¼ıçļĦ
+
+97449: Tokens: 32 characters: 105
+éĸĭçĻºãĤĦåŁºæľ¬çļĦãģªãĤ·ãĤ¹ãĥĨãĥłç®¡çĲĨãģ®ãģŁãĤģãģ®ãĤ³ãĥŀãĥ³ãĥīãĥ©ãĤ¤ãĥ³ãĥĦãĥ¼ãĥ«ãģ¨ä½įç½®ãģ¥ãģĳãģ¦ãģĬãĤĬ
+
+97450: Tokens: 32 characters: 72
+è«ĭåľ¨éĢģåĩºåł±åĳĬåīįåĨįæ¬¡åķŁçĶ¨ä¸¦éĩįæĸ°è¼īåħ¥è©²ç¶²éłģä»¥åįĶåĬ©èª¿æŁ¥
+
+97451: Tokens: 32 characters: 101
+ãĥĢãĥ³ãĤ¹ãĥĬãĥ³ãĥĲãĥ¼ãģ¨ãĥŃãĥĥãĤ¯ãĤĴãĥŁãĥĥãĤ¯ãĤ¹ãģķãģĽãģŁãĤµãĤ¦ãĥ³ãĥīãģ§èĭ¥èĢħãģ«äººæ°ĹãĤĴèªĩãĤĭapple
+
+97452: Tokens: 32 characters: 85
+Ġåľ¨äºĮç»´å¹³éĿ¢ä¸Ĭè®¡ç®Ĺåĩºä¸¤ä¸ªçĶ±çĽ´çº¿æŀĦæĪĲçļĦçŁ©å½¢éĩįåıłåĲİå½¢æĪĲçļĦæĢ»éĿ¢ç§¯
+
+99815: Tokens: 31 characters: 77
+12723517038133731887338407189719511622662176727675373276651903807414909099441
+
+99816: Tokens: 31 characters: 271
+ĠâĶĮâĶĢâĶĢâĶ¬âĶĢâĶĢâĶĢâĶ¬âĶĢâĶĢâĶĢâĶ¬âĶĢâĶĢâĶĢâĶ¬âĶĢâĶĢâĶĢâĶ¬âĶĢâĶĢâĶĢâĶ¬âĶĢâĶĢâĶĢâĶ¬âĶĢâĶĢâĶĢâĶ¬âĶĢâĶĢâĶĢâĶ¬âĶĢâĶĢâĶĢâĶ¬âĶĢâĶĢâĶĢâĶ¬âĶĢâĶĢâĶĢâĶ¬âĶĢâĶĢâĶĢâĶ¬âĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĲâĶĮâĶĢâĶĢâĶĢâĶ¬âĶĢâĶĢâĶĢâĶ¬âĶĢâĶĢâĶĢâĶĲâĶĮâĶĢâĶĢâĶĢâĶ¬âĶĢâĶĢâĶĢâĶ¬âĶĢâĶĢâĶĢâĶ¬âĶĢâĶĢâĶĢâĶĲ
+
+99817: Tokens: 31 characters: 58
+ehCSkIUQLkWmLIQQwklIQhZCCCeRdtOxJGQhhItJwwNkSchCCNeSiOscOy
+
+99818: Tokens: 31 characters: 94
+Ġæµıè§ĪåĻ¨å¼Ģåıĳçİ¯å¢ĥä¸ŃåŃ¦åĪ°çļĦä¸ľè¥¿ä¹Łåı¯ä»¥çĶ¨äºİä¸įåıĹæµıè§ĪåĻ¨å¼ķæĵİé©±åĬ¨çļĦçİ¯å¢ĥä¸ĭ
+
+99819: Tokens: 31 characters: 57
+CyGEEAZGwlkIIYQwMBLOQgghhIGRcBZCCCEMjISzEEIIYWAknIUQQggDI
+
+99820: Tokens: 31 characters: 81
+ä¸Ĭå¸Ŀåı¯èĥ½çĶ¨åĲĦç¨®æĪĳåĢĳçĦ¡æ³ķçĲĨè§£çļĦæĸ¹å¼ıå½±éŁ¿æĪĳåĢĳçļĦçĶŁæ´»åįĥèĲ¬å¹´äºĨ
+
+99821: Tokens: 31 characters: 85
+AlexçŃīäººæıĲåĩºçļĦAlexNetç½ĳç»ľåľ¨ImageNetå¤§èµĽä¸Ĭä»¥è¿ľè¶ħç¬¬äºĮåĲįçļĦæĪĲç»©å¤ºåĨł
+
+99822: Tokens: 31 characters: 90
+ãģŁãģłãģĿãģĵãģ«ãģĦãĤĭãģłãģĳãģ§ä½ĵãģĭãĤīæ¯Ĵæ¶²ãĤĴæĴĴãģįæķ£ãĤīãģĹãģ¦ãģĹãģ¾ãģĨãĤ·ãĥ³ãĤ·ãĥ£ãģ¯
+
+99823: Tokens: 31 characters: 76
+4168783608814932154536427934509895782246573715297911553964171371032945126671
+
+99824: Tokens: 31 characters: 108
+ãĥĨãĥ³ãĤŃãĥ¼æľīãĤĬãĤŃãĥ¼ãĥľãĥ¼ãĥīãģ§åįĺãģ«ãĥĨãĥ³ãĤŃãĥ¼ãģĮä½¿ãĤıãĤĮãģªãģĭãģ£ãģŁãģĵãģ¨ãģ¨å¤§å·®ãģĤãĤĬãģ¾ãģĽãĤĵ
+
+99825: Tokens: 31 characters: 93
+æķ´åĤĻãģĻãĤĭãĤĤãģ®ãģĮãģĦãģªãģıãģªãģ£ãģŁæ©Łæ¢°ãģŁãģ¡ãģ¯å¾ĲãĢħãģ«ãģĿãģ®åĭķãģįãĤĴæŃ¢ãĤģãģ¦ãģĦãģı
+
+99826: Tokens: 31 characters: 93
+ãĥĩãĥ¢ãĥ³ãĤ¹ãĥĪãĥ¬ãĥ¼ãĤ·ãĥ§ãĥ³èµ°è¡Įãģ§çĦ¡çĲĨãģªç«¶ãĤĬåĲĪãģĦãĤĦè¿½ãģĦè¶ĬãģĹãģ¯ãģĹãģ¾ãģĽãĤĵãģĮ
+
+99827: Tokens: 31 characters: 63
+ä½ľä¸ºå¸¸é©»åĺīå®¾åıĤä¸İæ¹ĸåįĹåį«è§ĨçĶŁæ´»ä½ĵéªĮç§Ģç»¼èīºèĬĤçĽ®
+
+101378: Tokens: 30 characters: 52
+HBAuKeCyxBlQUPCiJdBQBRarSgiYIKIGQkBAhGDChBCmCIoggkPv
+
+101379: Tokens: 30 characters: 55
+MDEyMCAwMDAwMCBuCjAwMDAwMDAxNzkgMDAwMDAgbgowMDAwMDAwMzY
+
+101380: Tokens: 30 characters: 50
+UFAxEzARBgNVBAsMClVuaXQgVGVzdHMxCzAJBgNVBAMMAkNBMB
+
+101381: Tokens: 30 characters: 30
+âĳłâĳ¡âĳ¢âĳ£âĳ¤âĳ¥âĳ¦âĳ§âĳ¨âĳ©
+
+101382: Tokens: 30 characters: 54
+åĴ±ä»¬å½©èĻ¹èģĶçĽŁä¸Ńæ£ķèī²çļ®èĤ¤åĴĮåıĮæĢ§æģĭéĤ£ä¸¤ä½į
+
+101383: Tokens: 30 characters: 75
+è¤ĩéĽĳãģ«å»ºéĢłãģķãĤĮãģŁéĥ½å¸Ĥãģ¯ãģ¾ãĤĭãģ§è¿·è·¯ãģ®ãĤĪãģĨãģªå»ĥå¢Łãģ¨ãģªãĤĬ
+
+101384: Tokens: 30 characters: 66
+é¨ĴãĢħãģĹãģıãĤĤæ¥½ãģĹãģĦåľ°çįĦãģ®æ¯İæĹ¥ãģĮä»ĬåĨįãģ³å¹ķãĤĴéĸĭãģĳãĤĭ
+
+101385: Tokens: 30 characters: 82
+ĠãĥĢãĥ³ãĤ¸ãĥ§ãĥ³ãģ«åĩºä¼ļãģĦãĤĴæ±ĤãĤģãĤĭãģ®ãģ¯éĸĵéģķãģ£ãģ¦ãģĦãĤĭãģłãĤįãģĨãģĭå¤ĸä¼Ŀ
+
+101386: Tokens: 30 characters: 53
+QUFDQTtBQUNBRyxPQUFPQyxNQUFQLEdBQWdCSixRQUFRLGVBQVIsQ
+
+101387: Tokens: 30 characters: 102
+ãģ®ãĤ¢ãĥĭãĥ¡åĮĸãģ«ãģĤãģŁãģ£ãģ¦ãĥļãĥ¼ãĤ¸æķ°ãģĮå¢ĹãģĪãĤĭãģĵãģ¨ãģ«ãģªãģ£ãģŁçŃīãģ®äºĭæĥħãģĮãģĤãģ£ãģ¦ä¼ĳè¼ī
+
+101388: Tokens: 30 characters: 81
+è¡ĹãĤ³ãĥ³ãģ§ç´łæķµãģªå¹´ä¸Ĭãģ®å¥³æĢ§ãģ«åĩºä¼ļãģĦåĲĮæĢ§ãģªãģ®ãģ«æĨ§ãĤĮãģ¦ãģĹãģ¾ãģĨ
+
+101389: Tokens: 30 characters: 93
+ä½łä¹ŁæĹłæ³ķåľ¨ä»»ä½ķè®¡ç®Ĺæľºç§ĳåŃ¦ç®Ĺæ³ķä¸Ńæī¾åĪ°ä½¿çĶ¨äºĨè¿Ļä¸ªå¥ĩæĢªåŃĹèĬĤåºıåĪĹçļĦåľ°æĸ¹
+
+101390: Tokens: 30 characters: 81
+æĸ°åħ¥çĶŁãģ®ãĤµãĥ¼ãĤ¯ãĥ«åĭ§èªĺãģªãģ©ãģ§è³ĳãĤıãģĨäººãģĶãģ¿ãģ®ä¸Ńãģ§ãĤ¿ãĥ³ãĤ¿ãĥ³ãģ¯
+
+101391: Tokens: 30 characters: 66
+ä¸īæĺ¯å±ħæ°ĳèµĦäº§éħįç½®ä»İæĪ¿åľ°äº§å¸ĤåľºåĲĳèĤ¡å¸Ĥè½¬ç§»æĺ¯è¶ĭåĬ¿
+
+103919: Tokens: 29 characters: 53
+FCRETKUqAQEZGyFChERKQsBQoRESlLgUJERMpSoBARkbIUKEREpKz
+
+103920: Tokens: 29 characters: 195
+XfftsizLQkRERAKuiekCREREwpVCWERExBCFsIiIiCEKYREREUMUwiIiIoYohEVERAxRCIuIiBiiEBYRETFEISwiImKIQlhERMQQhbCIiIghCmERERFDFMIiIiKGKIRFREQMUQiLiIgYohAWERExRCEsIiJiiEJYRETEEIWwiIiIIQphERERQyJMFyAiIoYUFUF
+
+103921: Tokens: 29 characters: 47
+eUAYYWRMwCviouLddlllxHMgAUIZwBeMaUNWIdwBuAVzUcA
+
+103922: Tokens: 29 characters: 50
+vKUhSRkIYRLScMDZEnIQgjXYkrDGVkSshDCpaThfCwJWQjhWlz
+
+103923: Tokens: 29 characters: 51
+wQqMCgGCCsGAQUFBwMIBggrBgEFBQcDBAYIKwYBBQUHAwIGCCsG
+
+103924: Tokens: 29 characters: 81
+çĬ¬å±ĭæķ·å£±éĥİãģ¯ä¼ļç¤¾ãĤĦå®¶åºŃãģĭãĤīçĸİå¤ĸãģķãĤĮãģŁæĹ¥ãĢħãĤĴéĢģãģ£ãģ¦ãģĦãģŁãģĮ
+
+103925: Tokens: 29 characters: 64
+ĠåĽłåħ¨çĲĥèĤ¡å¸ĤæŃ¤æ¬¡æĺ¯åıĹçĸ«æĥħå½±åĵįå¸¦æĿ¥çļĦæģĲæħĮæĢ§ä¸ĭè·Į
+
+103926: Tokens: 29 characters: 76
+7937318970632701341203597196594272556916396164729705624521405069090520231616
+
+103927: Tokens: 29 characters: 115
+WebAudioAPIãģ§rangeãĥªãĤ¯ãĤ¨ãĤ¹ãĥĪãĤĴãĤ³ãĥ³ãĥĪãĥŃãĥ¼ãĥ«ãģĻãĤĭæĸ¹æ³ķãĤĴè¦ĭãĤĭãģĳãĤĭãģĵãģ¨ãģĮãģ§ãģįãģ¾ãģĽãĤĵãģ§ãģĹãģŁ
+
+103928: Tokens: 29 characters: 64
+å°ĩåľ¨åħ¶æĽ¿æıĽçļĦåĢ¼ä¸Ńè½īç¾©ä»»ä½ķéĿŀåŃĹæ¯įæķ¸åŃĹæĪĸHTMLå¯¦é«Ķ
+
+103929: Tokens: 29 characters: 78
+ãģ¨åĳ¼ãģ°ãĤĮãĤĭæŃ¦å°ĨãģŁãģ¡ãģĮå¤©ä¸ĭçµ±ä¸ĢãĤĴçĽ®æĮĩãģĻæĪ¦ä¹±ãģ®æĻĤä»£ãģ¨ãģªãĤĬ
+
+103930: Tokens: 29 characters: 72
+ä¸įä»ħè®©èĭŁåħ¨æĢ§åĳ½äºİä¹±ä¸ĸçļĦçŁ¥è¯Ĩä»½åŃĲå½»åºķä¸§å¤±äºĨå¼ĢåĲ¯æ°ĳæĻº
+
+103931: Tokens: 29 characters: 81
+åīįãģ®åŃ¦æł¡ãģ§çµĮé¨ĵãģĹãģŁãģĤãĤĭåĩºæĿ¥äºĭãģĮåİŁåĽłãģ§å¿ĥãĤĴéĸīãģĸãģĹãģ¦ãģĦãģŁãģĮ
+
+103932: Tokens: 29 characters: 96
+æĪĳä»¬è¦ģæĺİç¡®è®Ńç»ĥæ¨¡åŀĭçļĦçĽ®çļĦæĺ¯å¾ĹåĪ°å¯¹äºİæľªæĿ¥çļĦè§Ĥæµĭæķ°æį®çļĦèī¯å¥½çļĦé¢ĦæµĭæĢ§èĥ½
+
+103933: Tokens: 29 characters: 63
+æ¯Ľæ³½ä¸ľåľ¨æĶ¿åįıä¼ļè®®ä¸Ĭå®ļä¸ĭäºĨè¿Ļåľºå¤§åŀĭæīĭæľ¯çļĦæĸ¹æ¡Ī
+
+103934: Tokens: 29 characters: 76
+ĠcloningANGCTCTAGAATGGCAGAAGCGGATCCTAAAATGANGCGCGGCCGCCTACTTGTAGTACTTCCTATTT
+
+103935: Tokens: 29 characters: 51
+æ¨±æ¡ĥèĬ±ä¿Ŀæ¹¿éĿ¢éľľåĴĮæĻ¨éľ²èĪ¬åıĳèĥ¶çļĦé¦Ļæ°Ķä¸ĭ
+
+103936: Tokens: 29 characters: 96
+ãĥĸãĥ©ãĤ¦ãĤ¶ãģ¯èĩªåĭķçļĦãģ«ãĤ½ãĥ¼ãĤ¹ãĤĴèªŃãģ¿è¾¼ãĤĵãģ§åĨįçĶŁæºĸåĤĻãĤĴãģ¯ãģĺãĤģãģ¦ãģĹãģ¾ãģĦãģ¾ãģĻ
+
+103937: Tokens: 29 characters: 78
+ä¸īæĤªäººãģ®æĻĤç©ºãĤĴè¶ħãģĪãģŁéĢĨè¥²ãģ®ãĥŁãĥĥãĤ·ãĥ§ãĥ³ãģĮãģĦãģ¾åĨįãģ³å§ĭãģ¾ãĤĭ
+
+103938: Tokens: 29 characters: 122
+ç§ģãģ®çĴ°å¢ĥãģ§ãģ¯currentTimeãģ«è¨Ńå®ļãģĹãģŁæĻĤåĪ»ä»ĺè¿ĳãģĭãĤīèªŃãģ¿è¾¼ãģ¿ãģĮéĸĭå§ĭãģķãĤĮãĤĭãģĵãģ¨ãģĮç¢ºèªįãģ§ãģįãģ¾ãģĹãģŁ
+
+103939: Tokens: 29 characters: 75
+åħĪä»£ãģĮæ®ĭãģĹãģŁæĽ¸çī©ãģ§å¤ĸçķĮãģ®äºĭãĤĴåŃ¦ãģ¶ãĥīãĥŃãĥĥãĤ»ãĥ«ãģĬå¬¢æ§ĺãģ¨
+
+105944: Tokens: 28 characters: 54
+rUrGrArUrGrGrUrGrArUrCrUrUrUrCrUrGrUrArUrCrCrGrGrCrArA
+
+105945: Tokens: 28 characters: 69
+èĸĻåĪĩãģĪãĤĬãģªå½¹ãģ«ãģ¤ãģĦãģ¦ãģ¯ç¨®çĶ°æ¢¨æ²ĻãģĮåĸīãģ®æ²»çĻĤãģĭãĤīç´Ħ
+
+105946: Tokens: 28 characters: 55
+ĠrArCrCrUrUrCrUrUrGrUrCrCrUrUrUrGrGrUrGrUrGrArUrArCrArU
+
+105947: Tokens: 28 characters: 55
+ĠrUrUrUrArArArCrArUrArUrCrArCrArCrUrUrCrCrGrUrUrCrUrUrG
+
+105948: Tokens: 28 characters: 52
+Ġ/[\\-\\[\\]\\/\\{\\}\\(\\)\\*\\+\\?\\.\\\\^\\$\\|]/
+
+105949: Tokens: 28 characters: 72
+èĩªåĪĨãģ®æĦıãģ«èĥĮãģıäººãĢħãĤĴãģŁãģłãģŁãģłåĤ·ä»ĺãģĳãģ¦ãģĦãģıçįħåŃĲç¥ŀãģ¨
+
+105950: Tokens: 28 characters: 87
+ãģ¨ãģĵãĤįãģĮéĽĨãģ¾ãģ£ãģŁãĥ¡ãĥ³ãĥĲãĥ¼ãģ¯ä¸ĢçĻĸãĤĤäºĮçĻĸãĤĤãģĤãĤĭãĤ¢ãĥĭãĥ¡å¥½ãģįãģ°ãģĭãĤĬ
+
+105951: Tokens: 28 characters: 84
+ãģ¾ãģŁãĤĤãĤĦä¸Ĭåı¸ãģĭãĤīãģ®ãĥłãĥģãĥ£æĮ¯ãĤĬãģ§ãģĤãģ£ãģŁãģĮãģĿãģĵãģ¯æĤ²ãģĹãģįä¼ļç¤¾åĵ¡
+
+105952: Tokens: 28 characters: 103
+ä½łå°Ĩä»İCloudFoundryæĮģæľīçļĦæľįåĬ¡ä¸ŃæŀĦå»ºä¸Ģä¸ªèİ·åıĸè¯·æ±Ĥéħįé¢ĿçļĦæľįåĬ¡å¹¶ä¸Ķèĥ½ç¼ĵåŃĺåľ¨Pivotal
+
+105953: Tokens: 28 characters: 50
+OlNlcnZlckNlcnRpZmljYXRlVmFsaWRhdGlvbkNhbGxiYWNrID
+
+105954: Tokens: 28 characters: 90
+ä»ĸãģ®ãĤ¢ãĥĹãĥªãĤĴåĪ©çĶ¨ãģĹãģ¦ãģĦãĤĭåł´åĲĪãģ§ãĤĤãģĿãģ®ãĤ¦ãĤ£ãĥ³ãĥīãĤ¦ãģ®èĥĮå¾Įãģ«éļłãĤĮãģļ
+
+105955: Tokens: 28 characters: 90
+æľĪäººãģ«æĶ«ãĤıãĤĮãģĿãģĨãģ«ãģªãģ£ãģŁãģ¨ãģĵãĤįãĤĴãĤ·ãĥ³ãĤ·ãĥ£ãģ«åĬ©ãģĳãĤīãĤĮãģŁãĥķãĤ©ãĤ¹ãģ¯
+
+105956: Tokens: 28 characters: 69
+åĪ©çĶ¨å½¢å®¹è¯įçŁŃè¯ŃæĪĸåģ¶å°ĶçĶ¨åĲįè¯įæĪĸåĲįè¯įçŁŃè¯ŃæĿ¥åĳ½åĲįæİ¥åı£
+
+105957: Tokens: 28 characters: 63
+é£ŁæĪŁãģ§ãģķãĤīãģªãĤĭçłĶéĳ½ãĤĴéĩįãģŃãĤĭæĹ¥ãĢħãĤĴéĢģãĤĭåīµçľŁãģ¯
+
+108616: Tokens: 27 characters: 47
+dOkSJiYmapcjcpCEsygUYmNjOXnyZJowfvLkSZoWcZMmTbC
+
+108617: Tokens: 27 characters: 48
+gkhhFOQEbIQQjiLtJuPJSELIVyLjJCFEMJJSEIWQggnIadOx
+
+108618: Tokens: 27 characters: 48
+GAQYBMGUGCCsGAQUFBwEBBFkwVzAqBggrBgEFBQcwAoYeaHR
+
+108619: Tokens: 27 characters: 46
+tnKPhaHQAMJjfcvLwTtawyGrGFhWKzWlHKQLjNxuVftlLk
+
+108620: Tokens: 27 characters: 70
+ä¸Ģç§įåħĭæľįè¿Ļç§įçļĦç¼ºçĤ¹çļĦæ¨¡åŀĭè¯Ħä¼°æµģç¨ĭç§°ä¸ºKæĬĺäº¤åıīéªĮè¯ģ
+
+108621: Tokens: 27 characters: 90
+ãģ§çİĭåŃĲæİ¢ãģĹãĤĴãģĹãģªãģĮãĤīãĤ·ãĥ¥ãĥ¼ãĥ«ãģªä¼ļè©±ãĤĴç¹°ãĤĬåºĥãģĴãĤĭãĤ³ãĥŀæĴ®ãĤĬãĤ¢ãĥĭãĥ¡
+
+108622: Tokens: 27 characters: 63
+å¦Ĥæŀľä¸»è¦ģä¼ºæľįåĻ¨æİĽæİīçļĦè©±åľ¨ä»ĸåĢĳä¹ĭéĸĵå¾Īå®¹æĺĵåĪĩæıĽ
+
+108623: Tokens: 27 characters: 60
+åĨ³å®ļèµĦäº§ä»·æł¼æĸ¹åĲĳæľĢéĩįè¦ģçļĦåĽłç´łä¹ĭä¸Ģä¾¿æĺ¯ä¼°åĢ¼
+
+108624: Tokens: 27 characters: 96
+ãģ¾ãģŁãĤ³ãĥ¼ãĥ«ãĥĲãĥĥãĤ¯ãģ«ãģĹãģŁéĥ¨åĪĨãģĮéĿŀåĲĮæľŁéĢļä¿¡ãģ«å¯¾å¿ľãģ§ãģįãģŁãģ®ãģłãģ¨æĢĿãģĦãģ¾ãģĻ
+
+108625: Tokens: 27 characters: 99
+ãĥªãĥ¬ãĥ¼ãĤ·ãĥ§ãĥ³åħĪãģ®ãĥĹãĥŃãĥĳãĥĨãĤ£ãģ«ãĤ¢ãĤ¯ãĤ»ãĤ¹ãģĹãģŁãģ¨ãģįãģ«éģħå»¶èªŃãģ¿è¾¼ãģ¿ãģķãĤĮãģ¾ãģĻ
+
+108626: Tokens: 27 characters: 69
+éĻĦåĬłèŀ¢å¹ķæĵ·åľĸåĪ°åł±åĳĬä¸Ńåı¯ä»¥å¹«åĬ©æĪĳåĢĳæĽ´äºĨè§£åķıé¡ĮæīĢåľ¨
+
+108627: Tokens: 27 characters: 45
+ìĹ¬ìļ°ìĻĢëĬĶìĤ´ìķĦëıĦê³°íķĺê³łëĬĶëª»ìĤ´ê²łëĦ¤
+
+108628: Tokens: 27 characters: 66
+ä¸ĸçķĮãģ®åĿĩè¡¡ãĤĴå®ĪãĤĭãģ¹ãģıäººçŁ¥ãĤĮãģļæ´»åĭķãĤĴç¶ļãģĳãĤĭéĽĨåĽ£
+
+108629: Tokens: 27 characters: 65
+EfSZszYcYuAAAAAACEEEEIIIINOOOOOOUUUUYaaaaaaceeeeiiiinoooooouuuuyy
+
+108630: Tokens: 27 characters: 72
+å¦¹ãĥ¢ãĥİãģ®ä½ľåĵģãģ°ãģĭãĤĬãĤĴæĽ¸ãģįç¶ļãģĳãģ¦ãģĦãĤĭå¦¹ãĥĲãĤ«ãģ®å°ıèª¬å®¶
+
+108631: Tokens: 27 characters: 93
+ãģĿãģĨãģłãģ¨ãģĹãģ¦ãĤĤãĤĦãģ¯ãĤĬãĥĨãĥ³ãĤŃãĥ¼ãģ®æľīçĦ¡ãģ¯èŃĺåĪ¥ãģ§ãģįãģªãģĦãģĭãĤĤãģĹãĤĮãģ¾ãģĽãĤĵ
+
+108632: Tokens: 27 characters: 93
+ãģĶåŃĺçŁ¥ãģ®æĸ¹ãģĮãģĦãĤĮãģ°ãĥªãĥ³ãĤ¯ãģ§ãĤĤèī¯ãģĦãģ®ãģ§æķĻãģĪãģ¦ãģĦãģŁãģłãģĳãĤĮãģ°å¹¸ãģĦãģ§ãģĻ
+
+108633: Tokens: 27 characters: 52
+Ġçįİéĩĳä¸¦åıĥèĪĩåĮĹå¸ĤåºľèĪīè¾¦çļĦç¬¬äºĮéļİæ®µéģ¸æĭĶ
+
+108634: Tokens: 27 characters: 76
+åĽĽæĺ¯ç¤¾ä¿ĿåĴĮä¿ĿéĻ©ä»¥åıĬå¤ĸèµĦçŃīéķ¿æľŁèµĦéĩĳæŃ£åľ¨åĬłå¤§å¯¹AèĤ¡çļĦéħįç½®
+
+108635: Tokens: 27 characters: 63
+æĹ©åľ¨äºĶåĽĽæĹ¶æľŁéĥ½å·²ç»ıåĿ¦åĿ¦èį¡èį¡åľ°è°Īè¿ĩçļĦæ°ĳä¸»èĩªçĶ±
+
+110681: Tokens: 26 characters: 49
+"(\{\{[^}]+\}\}|[\[\]\.\*\+\{\}\(\)\$\^\\\|\?])",
+
+110682: Tokens: 26 characters: 43
+CjiBPvtSricOZaLjHRuLIlhcLCGXKqUswiDZVhdFezr
+
+110683: Tokens: 26 characters: 44
+VchLOQghhwMLCwihdujTGxhlPrmnRogVdunTByMgINzc
+
+110684: Tokens: 26 characters: 47
+ZfaTdsAAAAlSURBVAjXYxAyEmBUVmSAUiouCkwuTjDKxMWA
+
+110685: Tokens: 26 characters: 55
+bWcbaGaemyAaKgabeaakiabdcfaqnaaBaaaleaacqWGPbqAaeqaaaaa
+
+110686: Tokens: 26 characters: 85
+ĠãĤ«ãĥ¬ãĥ³ãĥĪåĽ³éĿ¢ãģ®ãĥĸãĥŃãĥĥãĤ¯ãĥĨãĥ¼ãĥĸãĥ«ãĤĴæĽ¸ãģįè¾¼ãģ¿ãĥ¢ãĥ¼ãĥīãģ§ãĤªãĥ¼ãĥĹãĥ³
+
+110687: Tokens: 26 characters: 85
+ĠãģĵãĤĮãģ§ãģĵãģ®ãĥĸãĥ©ãĥ³ãĥģãģ¯ãĥĹãĥ«ãĥªãĤ¯ãĤ¨ãĤ¹ãĥĪãĤĴéĸĭãģıæºĸåĤĻãģĮãģ§ãģįãģ¾ãģĹãģŁ
+
+110688: Tokens: 26 characters: 51
+ĠrArGrArArCrGrGrArArGrUrGrUrGrArUrArUrGrUrUrUrArArA
+
+110689: Tokens: 26 characters: 51
+ĠrGrCrCrGrGrArUrArCrArGrArArArGrArUrCrArCrCrArUrCrA
+
+110690: Tokens: 26 characters: 51
+ĠrGrUrArUrCrArCrArCrCrArArArGrGrArCrArArGrArArGrGrT
+
+110691: Tokens: 26 characters: 83
+DeviceIDãģĭãĤīãĤŃãĥ¼ãĥľãĥ¼ãĥīãģ®æ©Łç¨®ãĤĴåĪ¤åĪ¥ãģĻãĤĭãģĵãģ¨ãģĲãĤīãģĦãģ§ãģĹãĤĩãģĨãģĭ
+
+110692: Tokens: 26 characters: 72
+ãģĦãģ¤ãģ®éĸĵãģ«ãģĭä¸ĸçķĮãĤĴæ»ħãģ¼ãģĻå±ķéĸĭãģ«å·»ãģįè¾¼ãģ¾ãĤĮãģ¦ãģĹãģ¾ãģĨ
+
+110693: Tokens: 26 characters: 66
+ä¸ŃåŃ¦ãģ®éłĥãģ«ä¸Ģåº¦ãģ¯éģłãģıãģ®è¡Ĺãģ¸ãģ¨å¼ķãģ£è¶ĬãģĹãģŁåĲĮç´ļçĶŁ
+
+110694: Tokens: 26 characters: 66
+åį·ç§¯ç¥ŀç»ıç½ĳç»ľä¹ĥèĩ³æ·±åº¦åŃ¦ä¹łéĩįæĸ°å¼ķèµ·äºĨå¹¿æ³ĽçļĦåħ³æ³¨
+
+110695: Tokens: 26 characters: 47
+NYqiKAghhBDCYBRRuwAhhBBCpCXhLIQQQhgYCWchhBDCwEg
+
+110696: Tokens: 26 characters: 92
+æľ¬æ°Ĺãģ§èŃĺåĪ¥ãģĻãĤĭãģ®ãģ§ãģĤãĤĮãģ°BLUEPIXYãģķãĤĵãĤĤæıĲæ¡ĪãģķãĤĮãģ¦ãģĦãĤĭãĤĪãģĨãģ«WMIãģ®Win
+
+110697: Tokens: 26 characters: 66
+è¨Ĥéĸ±éģİæ¿¾æ¢Ŀä»¶éĽĨåı¯èĩªåĭķç§»éĻ¤èĪĩç¶²éłģåħ§å®¹çĦ¡éĹľçļĦå»£åĳĬ
+
+110698: Tokens: 26 characters: 54
+äººçļĦåħ§å¿ĥè£¡çĦ¡æŃ¢çĽ¡åľ°è·Łèĩªå·±èĻķæĸ¼æĪ°çĪŃçĭĢæħĭ
+
+110699: Tokens: 26 characters: 66
+ãģĿãĤĵãģªèĩ³æ¥µãģ¾ãģ£ãģ¨ãģĨãģªéĿĴæĺ¥ãĤĴè¬³æŃĮãģĹãģ¦ãģĦãģŁç¯łå´İéģ¥
+
+110700: Tokens: 26 characters: 75
+çµĤæľ«ä¸ĸçķĮãĤĴãģ»ãģ®ãģ¼ãģ®ãģ¨ãģķãģ¾ãĤĪãģĨãĥĿãĤ¹ãĥĪãĤ¢ãĥĿãĤ«ãĥªãĥĹãĤ¹ãĤĤãģ®
+
+110701: Tokens: 26 characters: 45
+å¤ļæµĨèĨľçĤİèĥ½ä½¿ä¼ļåİĮéĻĦè¿ĳçļĦèĸĦèĨľåıĳçĤİ
+
+110702: Tokens: 26 characters: 50
+CCCGEgZFwFkIIIQyMhLMQQghhYCSchRBCCANjrHYBQgghDMyDB
+
+110703: Tokens: 26 characters: 54
+ï½´ï¾ĭï¾ŀï¾ıï½¶ï¾Ľï¾Ĩï½¸ï¾ŀï¾Ĺï¾Ģï¾Ŀãģ§ãģĶãģĸãģĦãģ¾ãģĻ
+
+110704: Tokens: 26 characters: 42
+ï½¼ï½¬ï½²ãģªï¾Ĭï½°ï¾ĦãģĮï¾Ħï¾ŀï½·ï¾Ħï¾ŀï½·
+
+110705: Tokens: 26 characters: 63
+åĽłå¤ĸèµĦé¢ĦæľŁä¸ŃåĽ½ç»ıæµİä¼ļåľ¨ä¸ĭåįĬå¹´è¿İæĿ¥çĪĨåıĳæĢ§å¢ŀéķ¿
+
+110706: Tokens: 26 characters: 48
+mCgbcTSojQRiOuCdpoeONhvcflekYMlkqsLQAomGdaildhgP
+
+110707: Tokens: 26 characters: 99
+éĸĭçĻºèĢħãģĮãĤ³ãĥ¼ãĥīãĥ¬ãĥĵãĥ¥ãĥ¼ä¸Ńãģ«ãĤ¹ãĤ¿ãĤ¤ãĥ«ãģ®åķıé¡ĮãĤĴå¿ĥéħįãģĻãĤĭå¿ħè¦ģãģ¯ãģĤãĤĬãģ¾ãģĽãĤĵ
+
+110708: Tokens: 26 characters: 105
+ãĥĩãĤ£ãĤ¹ãĥĪãĥªãĥĵãĥ¥ãĥ¼ãĤ·ãĥ§ãĥ³åĨħéĥ¨ãģ®ãĤµãĥĿãĥ¼ãĥĪãģ¯ãĥĩãĤ£ãĤ¹ãĥĪãĥªãĥĵãĥ¥ãĥ¼ãĤ·ãĥ§ãĥ³ãģ®éħįå¸ĥåħĥãģĮ
+
+110709: Tokens: 26 characters: 87
+ä»ĬåŃ£ãģ®ãĥīãĥ©ãĤ¤ãĥĲãĥ¼ãģ¨ãĥĳãĥĥãĤ»ãĥ³ãĤ¸ãĥ£ãĥ¼ãĤĴãģ¿ãģªãģķãĤĵãģ«çŁ¥ãģ£ãģ¦ãģĦãģŁãģłãģı
+
+110710: Tokens: 26 characters: 70
+æīĢä»¥å¦Ĥæŀľä½łå°įperlçļĦè¦ıåīĩéģĭç®Ĺå¼ıä¸įçĨŁçļĦè©±å°±ä¸įè¦ģæĶ¹éģİéłŃ
+
+110711: Tokens: 26 characters: 49
+iIialDFCjkiogYZyBERHZGBHBHRERnIEREdkYEcEdERGcgRER
+
+110712: Tokens: 26 characters: 75
+åĮ»èĢħãģĭãĤīæľ«æľŁãĤ¬ãĥ³ãģ«ãĤĪãĤĭä½Ļåĳ½å®£åĳĬãĤĴåıĹãģĳèĩªæļ´èĩªæ£Ħãģ«ãģªãĤĭ
+
+110713: Tokens: 26 characters: 181
+ĠâĶľâĶĢâĶĢâĶĢâĶĢâĶĢâĶ´âĶĢâĶ¬âĶĢâĶ´âĶĢâĶ¬âĶĢâĶ´âĶĢâĶ¬âĶĢâĶ´âĶĢâĶ¬âĶĢâĶ´âĶĢâĶ¬âĶĢâĶ´âĶĢâĶ¬âĶĢâĶ´âĶĢâĶ¬âĶĢâĶ´âĶĢâĶ¬âĶĢâĶ´âĶĢâĶ¬âĶĢâĶ´âĶĢâĶ¬âĶĢâĶ´âĶĢâĶ¬âĶĢâĶ´âĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶ¤
+
+114501: Tokens: 25 characters: 43
+FCRKEIIIdQUiSKEEEJNkShCCCHUFIkihBBCTZEoQggh
+
+114502: Tokens: 25 characters: 42
+JlmQzyZjssyFCGbBXomntcCtfvPhBszxcHIXMDzpwj
+
+114503: Tokens: 25 characters: 43
+qOdDPLiupRiEiyUhsmEaHkLVHlnFtqZncDpWYWAOqAW
+
+114504: Tokens: 25 characters: 41
+tvvUVBQYHpUkSCVrBfpqSRsEgIKikpYdSoUcyePZu
+
+114505: Tokens: 25 characters: 36
+ÃĴÃ²ÃĵÃ³ÃĶÃ´ÃĸÃ¶ÅĲÅĳÅĴÅĵÃĺÃ¸ÃķÃµÅĮÅį
+
+114506: Tokens: 25 characters: 73
+Ġãĥĸãĥ©ãĤ¦ãĤ¶ãĥ¼ãģ®æĹ¢å®ļãģ®è¨ĢèªŀãĤĴãĤ¹ãĥļãĤ¤ãĥ³èªŀãģ«åĪĩãĤĬæĽ¿ãģĪãģ¾ãģĻ
+
+114507: Tokens: 25 characters: 64
+Ġæī©å±ķä¼ģä¸ļå®īåħ¨æµĭè¯ķä¸»åĬ¨è¯±å¯¼åŀĭå¼ĢæºĲèľľç½Ĳæ¡Ĩæŀ¶ç³»ç»Ł
+
+114508: Tokens: 25 characters: 45
+ggUmVwdWJsaWMxFzAVBgNVBAUTDklDQSAtIDEwNDkzOTg
+
+114509: Tokens: 25 characters: 41
+MMgKMEWjmioeBmLxkjMMgMkNGLyHNRZbjDBKIcaEW
+
+114510: Tokens: 25 characters: 47
+NTUzNSBmCjAwMDAwMDAwMDkgMDAwMDAgbgowMDAwMDAwMDc
+
+114511: Tokens: 25 characters: 44
+AXgpYBGFIzyFkLGRIhNCXQkxgSVttaQfVtVjwDfAJKBm
+
+114512: Tokens: 25 characters: 102
+ãģĵãĤĮãģ¾ãģ§ãģ«äººå½¢ãĤ¢ãĥĭãĥ¡ãĥ¼ãĤ·ãĥ§ãĥ³ãĤĦæµ·å¤ĸåĲĪä½ľãģ®ãĤ¢ãĥĭãĥ¡ãģ¯ä½ķåº¦ãģĭä½ľãĤīãĤĮãģ¦ãģĦãĤĭãģĮ
+
+114513: Tokens: 25 characters: 75
+ãģĬå¯ºãģ§åĲĮæ£²çĶŁæ´»ãĤĴãģĻãĤĭãģĵãģ¨ãģ«ãģªãĤĭãģ¨ãģĦãģĨè¡ĿæĴĥçļĦãģªå±ķéĸĭãģ®
+
+114514: Tokens: 25 characters: 93
+ãģĬãĤĪãģ³WindowsãĤ³ãĥŀãĥ³ãĥīãĥ©ãĤ¤ãĥ³ãģĭãĤīãģ®LinuxãĥĹãĥŃãĤ»ãĤ¹ãģ®èµ·åĭķãģ«å¯¾å¿ľãģĹãģ¦ãģĦãĤĭ
+
+114515: Tokens: 25 characters: 57
+æĪĲä¸ºæİĮæı¡çĶŁæŃ»äºĪå¤ºå¤§æĿĥçļĦç»Łæ²»èĢħæīĭä¸ŃçļĦçİ©åģ¶
+
+114516: Tokens: 25 characters: 45
+tLgcIeYycAVxQUVGRMjMzCWYgSAhnABfElDYQXIQzgAui
+
+114517: Tokens: 25 characters: 57
+æ¡¥æ¢ģä¸ĵå®¶èĮħä»¥åįĩä¸Ģåı£æ°Ķç»Ļèĩªå·±æĪ´ä¸ĬèĩªçĶ±ä¸»ä¹ī
+
+114518: Tokens: 25 characters: 76
+å¹´ãģ«ãģĭãģĳãģ¦TOHOãĤ·ãĥįãĥŀãĤºãģ§ãĤ¢ãĥĭãĥ¡æĺłçĶ»ãģ®å¹ķéĸĵãģ«ä¸ĬæĺłãģķãĤĮãģŁ
+
+114519: Tokens: 25 characters: 51
+ç¥ŀæ§ĺãģ«éģ£ãģĪãĤĭçĭĲãģ£å¨ĺãģŁãģ¡ãģĮåĥįãģıæ¸©æ³īå®¿
+
+114520: Tokens: 25 characters: 69
+æľŁOVAãģ§ä»£å½¹ãĤĴåĭĻãĤģãģŁéĩĳåħĥå¯¿åŃĲãģĮå¼ķãģįç¶ļãģįèµ·çĶ¨ãģķãĤĮãĤĭ
+
+114521: Tokens: 25 characters: 72
+è¥¿å°¾ç¶Ńæĸ°ãģ¨äººæ°Ĺæ¼«çĶ»å®¶ãģ«ãĤĪãĤĭãĤ³ãĥ©ãĥľèªŃåĪĩãģ®ä¼ģçĶ»ãģ®ä¸Ńãģ§
+
+114522: Tokens: 25 characters: 54
+çĶ±æĹ¶ä»»åĮĹäº¬å¤§åŃ¦æł¡éķ¿çļĦé©¬å¯ħåĪĿéħįåĲĪåĶ±åıĮç°§
+
+114523: Tokens: 25 characters: 66
+ä¸»äººåħ¬ãģ®äººéĸĵãĤŃãĥİãģ¨è¨ĢèĳīãĤĴè©±ãģĻäºĮè¼ªè»ĬãĤ¨ãĥ«ãĥ¡ãĤ¹ãģ¯
+
+114524: Tokens: 25 characters: 111
+ãĥŃãĥ¼ãĤ«ãĥ©ãĤ¤ãĤºãģķãĤĮãģŁãĥªãĤ½ãĥ¼ãĤ¹ãĤĴä¸ĢæĦıãģ«èŃĺåĪ¥ãģĻãĤĭãģŁãĤģãģ«ä½¿çĶ¨ãģķãĤĮãĤĭèŃĺåĪ¥åŃĲãģĮãģĤãĤĬãģ¾ãģĻ
+
+114525: Tokens: 25 characters: 41
+lkMhrQWmNQUKNwFvZcSvCekClOKYWnVzoAbFYrNqs
+
+114526: Tokens: 25 characters: 48
+CCGGFJNyFEMIKSbgLIYQVknAXQggrJOEuhBBWSMJdCCGskIS
+
+114527: Tokens: 25 characters: 72
+å®Łåľ¨ãģ®éŁ³æ¥½å®¶ãģ¨åĲĮãģĺåĲįåīįãĤĴåĲįä¹ĹãĤĭå½¼ãĤīãģ¯ãĤĦãģ£ãģ±ãĤĬå¤©æīį
+
+114528: Tokens: 25 characters: 80
+ãģĿãģ®åŁ·äºĭãĤ²ãĥĩãĥĴãĥĪãĥĭãĤ¹ãģĮç¹°ãĤĬåºĥãģĴãĤĭæĹ¥å¸¸ãĤĴæııãģĦãģŁSFãĤ³ãĥ¡ãĥĩãĤ£
+
+114529: Tokens: 25 characters: 72
+ãģĿãģ®åĬłèŃ·ãģ®ãĤĤãģ¨ãģ§æ§ĺãĢħãģªç¨®æĹıãģĮå¹³åĴĮãģ«æļ®ãĤīãģĹãģ¦ãģĦãģŁãģĮ
+
+114530: Tokens: 25 characters: 78
+çµĲæľĪãģ®è¡Ģãģ«æľĪçīĻæĹıãĤĴè¦ļéĨĴãģķãģĽãĤĭåĬĽãģĮãģĤãĤĭãģ¨ãģĦãģĨãģĵãģ¨ãģĮç¹ĶçĶ°
+
+116786: Tokens: 24 characters: 84
+Ġadverseeffectssuchasthoserelatedtohostimmuneresponsetoahumanantibodygeneratedinanon
+
+116787: Tokens: 24 characters: 45
+ovVWGdkbraFfGaIgEsFcfCDUwHVggaykenyYcWNRWkTGf
+
+116788: Tokens: 24 characters: 81
+itemTableãģ«åĽºå®ļãģ®ãĥĩãĥ¼ãĤ¿ãĤĴãĤ»ãĥĥãĥĪãģĻãĤĭãģ¨ç¶ºéºĹãģ«æııçĶ»ãģķãĤĮãĤĭãģ®ãģ§
+
+116789: Tokens: 24 characters: 57
+çĶĺå¿ĥä¸ºç¾İåĽ½åĪ½åŃĲæīĭä½ľå¸®åĩ¶çļĦæīĢè°ĵç§ĳåŃ¦å·¥ä½ľèĢħ
+
+116790: Tokens: 24 characters: 75
+èĩªåĪĨãģĮæĽ¸ãģĦãģŁdrawéĸ¢æķ°åĨħãģ®ifæĸĩãģĮæĢªãģĹãģĦãģ¨èĢĥãģĪãģ¦ãģĦãģ¾ãģĻãģĮ
+
+116791: Tokens: 24 characters: 63
+èĩªçĶ±æ°Ĺãģ¾ãģ¾ãģªéĽªé¬¼ãģªãģ©ãģªãģ©æĸ°ãģŁãģªéĿ¢ãĢħãĤĤåĬłãĤıãĤĬ
+
+116792: Tokens: 24 characters: 66
+åį°åĪ·å¯¾è±¡ãģ¨ãģªãĤĭåĽ³éĿ¢ãģ«ãģ¯åĽ³æŀłãģĮåŃĺåľ¨ãģĻãĤĭãģ®ãģ§ãģĻãģĮ
+
+116793: Tokens: 24 characters: 66
+åŃĲç±»æĭ¥æľīçļĦæĪĲåĳĺæķ°çĽ®å¤§äºİçŃīäºİçĪ¶ç±»æĭ¥æľīçļĦæĪĲåĳĺæķ°çĽ®
+
+116794: Tokens: 24 characters: 75
+ç§Ĵåľ°çĤ¹ãģ¾ãģ§ãĥŃãĥ¼ãĥīãģĮåĪ°éģĶãģĻãĤĭãģ¾ãģ§å¾ħæ©ŁæĻĤéĸĵãģĮçĻºçĶŁãģĹãģ¾ãģĻ
+
+116795: Tokens: 24 characters: 84
+ä¸Ĭè¨ĺãģ®ãĤĪãģĨãģªåł´åĲĪãģ®ãĥĩãĥĲãĥĥãĤ°æĸ¹æ³ķãģªãģ©ãĤĤåĩºæĿ¥ãĤĮãģ°çŁ¥ãĤĬãģŁãģĦãģ§ãģĻ
+
+116796: Tokens: 24 characters: 72
+å¦Ĥæľīäººè¦ģæĪĳåľ¨åħ±äº§ä¸»ä¹īä¸İæ³ķè¥¿æĸ¯ä¸»ä¹īäºĮèĢħä¹ĭä¸ŃéĢīæĭ©åħ¶ä¸Ģ
+
+116797: Tokens: 24 characters: 66
+ãģĤãģĦãĤĤãģĭãĤıãĤīãģļäº¡èĢħãģ§ãģĤãģµãĤĮè¿Ķãģ£ãģ¦ãģĦãĤĭåľ°çįĦãģ§ãģ¯
+
+116798: Tokens: 24 characters: 62
+ä½łå¿ħéłĪpushåĪ°ä¸Ńå¿ĥä¼ºæľįåĻ¨ä¸¦ä¸Ķåı«åħ¶ä»ĸäººå¾ŀéĤ£è£¡pull
+
+116799: Tokens: 24 characters: 69
+ãĥªãĥªãĤ£ãģ¨ãģ®åĩºä¼ļãģĦãĤĴãģįãģ£ãģĭãģĳãģ«ä¿¡éł¼ãģĻãĤĭä»²éĸĵãĤĤãģ§ãģį
+
+116800: Tokens: 24 characters: 81
+ãĥĹãĥŃãĤ°ãĥ¬ãĥĥãĤ·ãĥĸãģªãĥŃãĥĥãĤ¯ãĤµãĤ¦ãĥ³ãĥīãģ§çĭ¬çī¹ãģ®ä¸ĸçķĮè¦³ãĤĴè¡¨çı¾ãģĻãĤĭ
+
+116801: Tokens: 24 characters: 75
+ãģĿãĤĵãģªçĬ¶æħĭãĤĴæīĵçł´ãģĹãĤĪãģĨãģ¨å¥®éĹĺãģĻãĤĭæľĽãģ®åĬ©ãģĳãģ«ãģªãĤĮãģ°ãģ¨
+
+116802: Tokens: 24 characters: 57
+ä»¥çŁ¥è¯Ĩä»½åŃĲèº«ä»½åĴĮçģµéŃĤåĿļæĮģæĬĹäºīèĢħå·²ä¸įå¤ļè§ģ
+
+116803: Tokens: 24 characters: 54
+è¿ĩäºĨåĩłå¤©åİ»åĬŀåħ¬å®¤äº¤ä½ľä¸ļåĲ¬è§ģè¯ŃæĸĩèĢģå¸Īè¯´
+
+116804: Tokens: 24 characters: 66
+åĩ¦çĲĨãģ®ä¸Ģãģ¤ãģ«åĽ³éĿ¢ãĤĴåį°åĪ·ãģĻãĤĭæ©Łèĥ½ãģĮãģĤãĤĭãģ®ãģ§ãģĻãģĮ
+
+116805: Tokens: 24 characters: 72
+å°ıãģķãģªåħ±åĲĮä½ĵãĤĴå½¢æĪĲãģĹç©ıãĤĦãģĭãģ«éģİãģĶãģĹãģ¦ãģĦãģŁãģ®ãģ§ãģĤãĤĭ
+
+116806: Tokens: 24 characters: 63
+ä¹Łå°±æĺ¯èĥ½å¤łåľ¨æ··åĲĪæ¨¡å¼ıä¸ŃéĸĭåķŁåıĬç·¨è¼¯ä½¿çĶ¨èĢħä»ĭéĿ¢
+
+116807: Tokens: 24 characters: 58
+6241404453009944988075920570460257174401823773723234978026
+
+116808: Tokens: 24 characters: 62
+ä¹ĭåĲİä½ľä¸ºåı²ä¸Ĭé¦ĸä½įäºļæ´²æ¨¡çī¹çĻ»ä¸ĬGivenchyåħ¨çĲĥå¹¿åĳĬ
+
+116809: Tokens: 24 characters: 42
+JyEIIlyJHWQghhJOQnXpCCOEkZMpCCCGchExZCCGEk
+
+116810: Tokens: 24 characters: 63
+ãĤµãĥ©ãĥªãĥ¼ãĥŀãĥ³ãģ®ãĤĪãģĨãģ«åĥįãģıåĨĴéĻºèĢħãģ®å§¿ãģĮãģĤãģ£ãģŁ
+
+116811: Tokens: 24 characters: 69
+ãģ¤ãģĦãģ«è¬İãģ®ä¸Ĭåı¸ãĤªãĥ¤ãĥĢãĥ¼ãĥŀãģĭãĤīæĸ°ãģŁãģªæĮĩä»¤ãģĮä¸ĭãģ£ãģŁ
+
+116812: Tokens: 24 characters: 54
+æĢĿæĥ³æĪĸèĢħèº«ä½ĵçļĦçī¢ç¬¼æīįåĪļåĪļæīĵå¼Ģä¸ĢæĿ¡ç¼ĿéļĻ
+
+116813: Tokens: 24 characters: 66
+ãĥģãĤ»ãģĮãĤ¨ãĤ¢ãĥªãĤ¹ãģ®ãĤĤãģ¨ãģ¸æĿ¥ãĤĭãģ¾ãģ§ãģ®åīįæĹ¥èŃļãĤĴæııãģı
+
+116814: Tokens: 24 characters: 37
+fWAXLzeLkZbVBJdYVchsoeYtrXPIjXzybJmMF
+
+116815: Tokens: 24 characters: 88
+ĠãĤĴä½¿çĶ¨ãģĹãģ¦ãĤ°ãĥ©ãĥķãģ¨ãĥªãĤ¹ãĥĪãĥ¬ãĥĿãĥ¼ãĥĪãĤĴä½ľæĪĲãģĻãĤĭæīĭéłĨãĤĴç´¹ä»ĭãģĹãģ¾ãģĻ
+
+116816: Tokens: 24 characters: 75
+ãĥıãĥ¯ãĤ¤ãģ§ãģ§ãģįãģŁåıĭäººãģŁãģ¡ãĤĴåĲ«ãĤģãģŁä»²éĸĵéģĶãģ®åĬ©åĬĽãĤĤãģĤãģ£ãģ¦
+
+116817: Tokens: 24 characters: 41
+dKVOmsGPHDtvWKcOXTmuLSEBNnTqVVatWUVBQYHUp
+
+120352: Tokens: 23 characters: 39
+jedgtIsomRmWUzqwwqlFeZpxrLcsCwLrtcrDtMk
+
+120353: Tokens: 23 characters: 38
+tEEUIIoaZIFCGEEGqKRBFCCKGmSBQhhBBqikQR
+
+120354: Tokens: 23 characters: 41
+wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB
+
+120355: Tokens: 23 characters: 32
+ÃĪÃ¨ÃīÃ©ÃĬÃªÃĭÃ«ÄĴÄĵÄĸÄĹÄĺÄĻÄļÄĽ
+
+120356: Tokens: 23 characters: 23
+áµĽáµīÊ³á¶¦á¶łá¶¦áµīáµĪ
+
+120357: Tokens: 23 characters: 101
+Ġwhichwaslateridentifiedbyusandotherstobeassociatedwithanunnaturalglycosaminoglycancontaminantspecies
+
+120358: Tokens: 23 characters: 66
+ĠGAGGATCCCCGGGTACCGGTGCAGTGGCACGCTTGACAGTGATTTTTTTCCTGGGATTTGGGAGC
+
+120359: Tokens: 23 characters: 41
+cmVhbQpCVAovRjEgMjQgVGYKMTAwIDEwMCBUZAooU
+
+120360: Tokens: 23 characters: 69
+éĢĨåĲĳå·¥ç¨ĭå¸ĪçļĦä¸Ģä¸ªä¸»è¦ģçļĦä»»åĬ¡æĺ¯è¿ħéĢŁå®ļä½įåĪ°çĽ®æłĩä»£çłģ
+
+120361: Tokens: 23 characters: 39
+dmqXJPIpaTkLIXKFRqNhwYIFTJkyhaioKLXLyXX
+
+120362: Tokens: 23 characters: 79
+ãĤĴä½¿çĶ¨ãģĹãģ¦AutoCADãģ®ãĤ½ãĥ¼ãĤ¹ãĤĴç§»æ¤įãģĻãĤĭä½ľæ¥ŃãĤĴè¡Įãģ£ãģ¦ãģĬãĤĬãģ¾ãģĻ
+
+120363: Tokens: 23 characters: 66
+æĪĳä¹Łç»Ļä¸ĢäºĽå¸¦æľīåıĺéŁ³ç¬¦åı·çļĦåŃĹç¬¦æłĩæ³¨äºĨçº¢èī²ä¸ĭåĪĴçº¿
+
+120364: Tokens: 23 characters: 63
+å¥ĹçĶ¨åĪ°æŃ¤éłģéĿ¢ä¸ŃçļĦæ¢Ŀä»¶æľīéĥ¨ä»½æĺ¯çĶ±ä½¿çĶ¨èĢħå®ļç¾©çļĦ
+
+120365: Tokens: 23 characters: 93
+æľ¬ãĥĵãĥ«ãĥīãģ§ãģ¯ãĥįãĥĥãĥĪãĥ¯ãĥ¼ãĤ¯çĬ¶æ³ģãģ®è¨Ńå®ļçĶ»éĿ¢ãģĮãĤ¢ãĥĥãĥĹãĥĩãĥ¼ãĥĪãģķãĤĮãģŁãģ»ãģĭ
+
+120366: Tokens: 23 characters: 54
+é«ĺæł¡çĶŁãģ®éŁ³ç¾½æŃĮèĭĹãģĮå¤§å®¶ãĤĴåĭĻãĤģãĤĭæ´ĭé¤¨ãģ«
+
+120367: Tokens: 23 characters: 89
+QuoteResponseæĬĵåıĸäºĨä¸Ģä¸ªè¯·æ±Ĥä¸ŃQuoteæľįåĬ¡ä¸ŃåıĳéĢģçļĦå®Įæķ´çļĦresponseè´Łè½½ä¿¡æģ¯
+
+120368: Tokens: 23 characters: 78
+æĪĳä»¬åľ¨å°ıç¨ĭåºıå¼Ģåıĳè¿ĩç¨ĭä¸Ńæĺ¯åĲ¦å¯¹å°ıç¨ĭåºıå¤´éĥ¨å¯¼èĪªæłıæľīè¿ĩæĬ±æĢ¨
+
+120369: Tokens: 23 characters: 72
+ãģŁãģ¶ãĤĵåĪĿæŃ©çļĦãģªãģ¨ãģĵãĤįãģ§éĸĵéģķãģ£ãģ¦ãģĦãĤĭãģ¨æĢĿãģĦãģ¾ãģĻãģ®ãģ§
+
+120370: Tokens: 23 characters: 57
+ãģĿãĤĵãģªå½¼ãĤīãĤĴæ¸©ãģĭãģıè¦ĭå®ĪãĤĭä¼ĬæľĪãģ®ç¾©çĲĨãģ®å¼Ł
+
+120371: Tokens: 23 characters: 85
+è®¾ç½®çº¿ç¨ĭæ±łåħ³éĹŃçļĦæĹ¶åĢĻçŃīå¾ħæīĢæľīä»»åĬ¡éĥ½å®ĮæĪĲåĨįç»§ç»ŃéĶĢæ¯ģåħ¶ä»ĸçļĦBean
+
+120372: Tokens: 23 characters: 42
+æıŃç©¿æĬķæľºæĶ¿å®¢å¼łä¸ľèįªçļĦåıįåĬ¨æľ¬è´¨
+
+120373: Tokens: 23 characters: 75
+å°Ĩä¸įèĥ½åĨįè®¿éĹ®åĪ°è¯¥åŁŁåĲįæĮĩåĲĳçļĦä¸ĩç»´ç½ĳæľįåĬ¡åĻ¨ä¸ĬçļĦçľŁå®ŀåĨħå®¹
+
+120374: Tokens: 23 characters: 75
+ãģ©ãģ®ãĤĪãģĨãģ«ãĥĩãĥĲãĥĥãĤ°ãģĹãģ¦ãģĦãģĳãģ°èī¯ãģĦãģ®ãģĭãģĮãĤıãģĭãĤĬãģ¾ãģĽãĤĵ
+
+120375: Tokens: 23 characters: 70
+RESULTä¹ĭå¤ĸçļĦå¸¸è§ĦæĢ§èĥ½æĹ¥å¿Ĺä¼ļåĪĩèĩ³NebulaTechç±»åŀĭè¡Įä¸ºæĹ¥å¿Ĺ
+
+120376: Tokens: 23 characters: 60
+åıªæľīçĤºè¨İè«ĸä¸²ä½ľè£ľåħħæĻĤæīįæĩīè©²ä½¿çĶ¨éĮ¯èª¤åĽŀåł±åĻ¨
+
+120377: Tokens: 23 characters: 85
+ãĥĸãĥ¬ãĥ¼ãĤ¯ãģ§æŃ¢ãĤģãģ¦å®Łè¡ĮãģĹãģ¦ãĤĤãĤ¨ãĥ©ãĥ¼ãģ«ãģ¯ãģªãĤīãģªãģĦãģĮNameãģ®ä¸Ńèº«ãģĮ
+
+120378: Tokens: 23 characters: 93
+ãĥŃãĥ¼ãĤ«ãĥ©ãĤ¤ãĤºãģķãĤĮãģŁãĥ©ãĥĻãĥ«ãĤĴçĶ»éĿ¢ä¸Ĭãģ§ç°¡åįĺãģ«è¦ĭãģ¤ãģĳãĤĭãģĵãģ¨ãģĮãģ§ãģįãģ¾ãģĻ
+
+120379: Tokens: 23 characters: 48
+æĽ¾ç»ıæĬĦå½ķè¿ĩèĭ±åĽ½æĶ¿æ²»çĲĨè®ºå®¶æŁ¯äº¨è¯Ńå½ķ
+
+120380: Tokens: 23 characters: 81
+å¿«éĢŁèİ·çŁ¥åĵªä¸ªåĩ½æķ°åľ¨ä»Ģä¹ĪæĥħåĨµä¸ĭæĬ¥åĳĬäºĨéĶĻè¯¯ä¿¡æģ¯æĺ¯åı¯ä»¥åģļåĪ°çļĦ
+
+120381: Tokens: 23 characters: 58
+çĭ¬ãĤĬèĩªä½ľãģ®ãĥīãĥŃãĥ¼ãĥ³KAKAãģ®æĶ¹èī¯ãģ«ä½Ļå¿µãģĮãģªãģĦ
+
+120382: Tokens: 23 characters: 57
+ãģĿãĤĮãģ¯çµ¡ãģ¿åĲĪãģĨéĻ°è¬Ģãģ¨çŃĸçķ¥ãģ®å§ĭãģ¾ãĤĬãģłãģ£ãģŁ
+
+120383: Tokens: 23 characters: 72
+å§īå¦¹ãģ¨åĩºä¼ļãģ£ãģŁãģĵãģ¨ãģĭãĤīå°ĳãģĹãģļãģ¤å¤īãĤıãĤĬãģ¯ãģĺãĤģãģ¦ãģĦãģı
+
+120384: Tokens: 23 characters: 54
+è¿ĻéĩĮç»¿èī²çļĦåĪĨåī²çº¿åĬªåĬĽåİ»åŃ¦ä¹łåĻªå£°çļĦè§Ħå¾ĭ
+
+120385: Tokens: 23 characters: 87
+è¿ĻéĩĮä½¿çĶ¨æ¨¡è¿Ĳç®Ĺç¬¦çļĦä¸»è¦ģåİŁåĽłæĺ¯è¿Ļä¸ªåĵĪå¸Įè¡¨è¦ģå¤ĦçĲĨçļĦæĺ¯æķ´æķ°åĢ¼çļĦéĶ®
+
+120386: Tokens: 23 characters: 73
+ĠçĨĶæĸŃåĻ¨æ¨¡å¼ıå°±åĥıæĺ¯éĤ£äºĽå®¹æĺĵå¯¼èĩ´éĶĻè¯¯çļĦæĵįä½ľçļĦä¸Ģç§įä»£çĲĨ
+
+120387: Tokens: 23 characters: 102
+åİŁä½ľãģ¯ãĤ³ãĥŁãĥĥãĤ¯ãĥķãĤ§ãĤ¹ãĤ¿ãģ»ãģĭéĽ»åŃĲæ¼«çĶ»ãĤµãĤ¤ãĥĪãģ§éĢ£è¼īä¸Ńãģ®ãĥĨãĤ£ãĥ¼ãĥ³ãĤºãĥ©ãĥĸæ¼«çĶ»
+
+120388: Tokens: 23 characters: 69
+çĶ·åŃĲçĶŁå¾Ĵãģ§ãģĤãĤĭå®ĹäºĮãģ«ãģłãģĳãģ¯ãģĦãģ¤ãĤĤæīĭãĤĴçĦ¼ãģĦãģ¦ãģĦãģŁ
+
+123455: Tokens: 22 characters: 40
+EshBBCGBgJZyGEEMLASDgLIYQQBkbCWQghhDAwEs
+
+123456: Tokens: 22 characters: 40
+aqpcyGGHbqycqGGYbGCcqGGNbWzdaWfqaqaaiGbc
+
+123457: Tokens: 22 characters: 39
+kqaXmSHZscSQgjtoOMSRXYzsHezgwghhHbQqYki
+
+123458: Tokens: 22 characters: 40
+kZeXxwcffEBKSgpHjhwxXVJQUAiLSMCUlZUxadIk
+
+123459: Tokens: 22 characters: 37
+yQhZCCGcRIqPkIUQIlWptDvOlIQshHAtBqOjI
+
+123460: Tokens: 22 characters: 67
+ĠéľĢè¦ģæĽ´æĸ°æĤ¨çļĦéģİæ¿¾æ¢Ŀä»¶éĽĨä¾Ĩç¢ºå®ļéĢĻåĢĭåķıé¡Įä»įæľªè§£æ±º
+
+123461: Tokens: 22 characters: 91
+ĠãĤ³ãĥ¼ãĥīãĤ¹ãĤ¿ãĤ¤ãĥ«ãģ«å¾ĵãģ£ãģ¦ãĥķãĤ¡ãĤ¤ãĥ«ãĤĴèĩªåĭķçļĦãģ«ãĥķãĤ©ãĥ¼ãĥŀãĥĥãĥĪãģĻãĤĭãģ«ãģ¯
+
+123462: Tokens: 22 characters: 58
+ĠèĢĮä¸Ķæ¯ıåĢĭåľ¨ä¼ºæľįåĻ¨ä¸ĬçļĦuseridéĥ½æĺ¯ä¸ĢåĢĭæ½Ľåľ¨çļĦ
+
+123463: Tokens: 22 characters: 55
+Ġå®ŀçİ°ä¸Ģä¸ªæİ§ä»¶æ°´å¹³å±ħä¸ŃæĪĸåŀĤçĽ´å±ħä¸ŃæĢİä¹Īå¼Ħ
+
+123464: Tokens: 22 characters: 72
+ĠæīĢæľīçļĦéĶ®çĽĺäºĭä»¶éĥ½çĶ±KeyListenerçĽĳåĲ¬æİ¥åı£çļĦçĽĳåĲ¬èĢħæĿ¥å¤ĦçĲĨ
+
+123465: Tokens: 22 characters: 69
+104090140190123456789101112131415161718192021222324252627282930313233
+
+123466: Tokens: 22 characters: 104
+Ġcharacterizethesemixturesascomprehensivelyaspossiblefromthestandpointofchemicalandbiologicalequivalence
+
+123467: Tokens: 22 characters: 37
+IGePXuqXZJQWeFtOaeQOYFCZJurqyuJiYnStf
+
+123468: Tokens: 22 characters: 41
+ABuhcIjDghQgZAAAAAaIAACPQAAAaAZAAIDDghgAB
+
+123469: Tokens: 22 characters: 48
+ãģ®æŃ´åı²èª¿æŁ»ãģ®éĤªéŃĶãĤĴãģĻãĤĭæĤªçİīãĥĪãĥªãĤª
+
+123470: Tokens: 22 characters: 101
+Ġversionsofsuchcomplexbiopharmaceuticalmixturesisthereforeinconstantneedfornewtechnologiestodefineand
+
+123471: Tokens: 22 characters: 46
+Ġë¦°ëĵľë¨¼ìķĦìĭľìķĦìĿ¸ë²łìĬ¤íĬ¸ë¨¼íĬ¸ë¡ľë¶ĢíĦ°
+
+123472: Tokens: 22 characters: 45
+çĶĺãģıæ¿ĢãģĹãģıéŃĤéľĩãģĪãĤĭãĥĲãĥ³ãĥīæģĭæĦĽADV
+
+123473: Tokens: 22 characters: 60
+ãģ§éĮ¦ç¹ĶçĽ£çĿ£ãģ®ãĤĤãģ¨åĬ©çĽ£çĿ£ãĤĴåĭĻãĤģãģŁèĬ±äºķå®ıåĴĮãģ§
+
+123474: Tokens: 22 characters: 51
+ãģ¯æŃ¤èĬ±äºŃãģ«å¥īåħ¬ãģ«ãģįãģŁæĸ°äººä»²å±ħãģ®æŁļãģ¨
+
+123475: Tokens: 22 characters: 66
+å¦Ĥæŀľä½łå·²ç¶ĵè®ĢæĪĸèĢħå¯«è¨ªåķıéģİäºĨä»»ä½ķåľ¨åĢīåº«è£¡çļĦåıĥèĢĥ
+
+123476: Tokens: 22 characters: 75
+åĽ³éĿ¢ãģĮå¤§ãģįãģĦåł´åĲĪãģ®ãĥ¬ãĤ¤ãĤ¢ãĤ¦ãĥĪç©ºéĸĵãģ«ç§»åĭķãĤĴè¡ĮãģĨåĩ¦çĲĨãģ§
+
+123477: Tokens: 22 characters: 75
+åĽ³éĿ¢ãģĮå¤§ãģįãģĦåł´åĲĪãģ¯ãĥ¬ãĤ¤ãĤ¢ãĤ¦ãĥĪç©ºéĸĵãģ«åĽ³éĿ¢ãĤĴç§»åĭķãģķãģĽãģ¦
+
+123478: Tokens: 22 characters: 58
+Ġæ¯ıä¸ªçŁ©å½¢çĶ±åħ¶å·¦ä¸ĭé¡¶çĤ¹åĴĮåı³ä¸Ĭé¡¶çĤ¹åĿĲæłĩè¡¨ç¤º
+
+123479: Tokens: 22 characters: 75
+æľīæĹ¶çĲĨè§£åĩ½æķ°çļĦåĬŁèĥ½éĢļè¿ĩè§Ĥå¯Łåĩ½æķ°çļĦè¾ĵåħ¥ä¸İè¾ĵåĩºå°±è¶³å¤ŁäºĨ
+
+123480: Tokens: 22 characters: 48
+æĪĳåĲ¬è¿ĩå¾Īå¤ļçĻĮçĹĩçĹħäººä¸įèį¯èĢĮæĦĪçļĦæķħäºĭ
+
+123481: Tokens: 22 characters: 63
+ãģĭãģªãĤĬãĥıãĥģãĥ£ãĥ¡ãĥģãĥ£ãģ§èĩªçĶ±å¥ĶæĶ¾ãģªä½ľé¢¨ãģĮçī¹å¾´çļĦ
+
+123482: Tokens: 22 characters: 81
+æľ¬æ¡Īä¾ĭå°Ĩè¯¦ç»Ĩä»ĭç»įä½¿çĶ¨ModelArtsèĩªåĬ¨åŃ¦ä¹łå£°éŁ³åĪĨç±»è¯ĨåĪ«åĬ¨çī©åı«å£°
+
+123483: Tokens: 22 characters: 92
+ç§ĴãģĭãĤīåĨįçĶŁãĤĴéĸĭå§ĭãģĻãĤĭãģ®ãģ¯currentTimeãĤĴæĮĩå®ļãģĻãĤĭãģĵãģ¨ãģ§å®Łçı¾ãģ§ãģįãģ¾ãģĹãģŁ
+
+123484: Tokens: 22 characters: 72
+äººãĢħãģ¯èĩªåĪĨãģŁãģ¡ãģªãĤĬãģ®æ³ķãĤĦå¸¸èŃĺãĤĴãĤĤãģ£ãģ¦æļ®ãĤīãģĹãģ¦ãģĦãģ¦
+
+123485: Tokens: 22 characters: 78
+USBãģ«ãģ¦ãĥĨãĥ³ãĤŃãĥ¼æľīãĤĬãģ®ãĤŃãĥ¼ãĥľãĥ¼ãĥīãģĮæİ¥ç¶ļãģķãĤĮãģŁãģĭãģ©ãģĨãģĭãĤĴ
+
+123486: Tokens: 22 characters: 79
+DearDreamãģ®ãĥ©ãĤ¤ãĥĲãĥ«ãģ¨ãģĹãģ¦CDãĥĩãĥĵãĥ¥ãĥ¼ãĤĴæŀľãģŁãģĹãģŁKUFORUNEãĤĤãģ¾ãģŁ
+
+123487: Tokens: 22 characters: 51
+å°ıå±ıå¹ķå°ĨæĮīåĪĨè¾¨çİĩå®½åº¦åĲĮæ¯Ķä¾ĭæĶ¾å¤§ç¼©å°ı
+
+123488: Tokens: 22 characters: 75
+ãģ§ãģĻãģ®ãģ§åĮºåĪ¥ãģĻãĤĭæ©Łæ§ĭãģ¯çĶ¨æĦıãģķãĤĮãģ¦ãģĦãģªãģĦãģ¨æĢĿãĤıãĤĮãģ¾ãģĻ
+
+123489: Tokens: 22 characters: 48
+è´¾æ·ĳèĭ±åĴĮä¸Ģå¹²åŃ¦çĶŁéĥ½è¢«å®īæİĴè½®çķªä¸Ĭåľº
+
+123490: Tokens: 22 characters: 36
+KlkWGcxTBNszgnWGUzjCblIsIswDdZlwXcfP
+
+123491: Tokens: 22 characters: 84
+å¾ĹåĪ°çļĦæµĭè¯ķåĩĨç¡®çİĩèĥ½å¤ŁæĽ´å¥½çļĦä¼°è®¡æ¨¡åŀĭå¯¹äºİæľªçŁ¥æķ°æį®çļĦé¢ĦæµĭæķĪæŀľ
+
+123492: Tokens: 22 characters: 63
+æĮĩä»¤ãģ®ãģ¾ãģ¾ãģ«æ§ĺãĢħãģªæĻĤä»£ãģ¸ãģ¨åĲĳãģĭãģĨãĤ¢ãĤ¯ãĥĢãĥ¼ãĥŀ
+
+123493: Tokens: 22 characters: 36
+XDTIwMDcxNDAzMzUwMFoXDTIxMDcxNDAzMDk
+
+123494: Tokens: 22 characters: 76
+protectionç³»ç»Łä¸ºä»Ģä¹Īè¦ģè®¾ç½®æ¨¡ç³ĬèĢĮéļ¾æĩĤçļĦéĶĻè¯¯ä¿¡æģ¯æĪĸéĶĻè¯¯çłģ
+
+123495: Tokens: 22 characters: 76
+æ²¡æľīäººä¼ļä¸ºè½¯ä»¶çł´è§£èĢħä»ħä»ħéĢļè¿ĩéĶĻè¯¯ä¿¡æģ¯å°±å¿«éĢŁæī¾åĪ°äºĨcopy
+
+123496: Tokens: 22 characters: 78
+ãģ©ãģ®è¨Ģèªŀãģ«ãģ¤ãģĦãģ¦ãĤĤãĥ¦ãĥ¼ãĤ¶ãĥ¼ãģĮèĩªåĪĨãģ§ç¿»è¨³ãĤĴæıĲä¾Ľãģ§ãģįãģ¾ãģĻ
+
+123497: Tokens: 22 characters: 36
+KsPovvFRrqvuZKzENuXbwmOQjheYtkOWsBBK
+
+123498: Tokens: 22 characters: 48
+ï¾Įï¾Łï¾ĺï¾Ŀï½±ï¾Ĺï¾ĵï½°ï¾Ħï¾ŀãģ§ãģĶãģĸãģĦãģ¾ãģĻ
+
+123499: Tokens: 22 characters: 60
+åīµçľŁãģĮåįģåĤĳãģ¨åĭĿè²łãģĻãĤĭãģŁãĤģãģ«çĽ®ãĤĴãģ¤ãģĳãģŁãģ®ãģ¯
+
+123500: Tokens: 22 characters: 78
+å®ĥå®ļä¹īäºĨä¸įåĲĮèĩªçĦ¶è¯Ńè¨ĢçļĦæĸĩæľ¬æķ°æį®åľ¨åĽ½éĻħéĹ´äº¤æį¢çļĦç»Łä¸Ģæĸ¹å¼ı
+
+123501: Tokens: 22 characters: 60
+åĽłçĤºéĤĦä¸įæ¸ħæ¥ļæĺ¯åĵªä½įæ¢Ŀä»¶éĽĨä½ľèĢħéľĢè¦ģåģļåĩºä¿®æŃ£
+
+123502: Tokens: 22 characters: 63
+æĹłèĢ»åľ°åĲĳç¾İåĽ½çī©çĲĨçķĮçļĦåŃ¦éĺĢå¯Ĩç«ĭæł¹è¯·æ±Ĥå·¥ä½ľæľºä¼ļ
+
+123503: Tokens: 22 characters: 89
+å¤īæĽ´ãģĹãģªãģĦåĪĹãĤĤåħĥãģ®ãĥĨãĥ¼ãĥĸãĥ«ãģ¨åĲĮãģĺDataTypeãģ§ãģĤãĤĭãģĵãģ¨ãĤĴç¢ºèªįãģĹãģ¾ãģĻ
+
+123504: Tokens: 22 characters: 48
+éľĢä½¿çĶ¨åĮĹå¸Ĥåºľå¸ĤæĶ¿ç¶²ç«Ļå¸¸è¦ĭåķıçŃĶéĸĭçĻ¼
+
+123505: Tokens: 22 characters: 81
+æīĢä»¥çĶ¨æĪ·ç¨ĭåºıè¦ģä¹Īæ´¾çĶŁä¸Ģä¸ªThreadçļĦåŃĲç±»å¹¶åľ¨åŃĲç±»éĩĮéĩįæĸ°å®ļä¹īrun
+
+123506: Tokens: 22 characters: 56
+å®¹åĻ¨PanelåĴĮAppletç¼ºçľģä½¿çĶ¨çļĦå¸ĥå±Ģç¼ĸè¾ĳçŃĸçķ¥æĺ¯
+
+123507: Tokens: 22 characters: 38
+XkZZPnZYRshDCpRhiPRItbZCELIRwKTJCFkIIJ
+
+123508: Tokens: 22 characters: 81
+ç¹°ãĤĬåºĥãģĴãĤīãĤĮãĤĭãĤĦãĤĬãģ¨ãĤĬãģ«ãģ¯å¤§ãģįãģªå½±éŁ¿ãģ¯ãģªãģĦãģĭãĤĤãģĹãĤĮãģªãģĦ
+
+127917: Tokens: 21 characters: 36
+bTGGjdCnilhlmuUCzWeFjTQSihQmaPHbdsIn
+
+127918: Tokens: 21 characters: 38
+iPlGrgRFciwyESGUOMjQOaYkBGdqXoIkHBmxPL
+
+127919: Tokens: 21 characters: 38
+mQKVkBNuTVXGtMBlpCdpinnXwLAlytanmvHGNO
+
+127920: Tokens: 21 characters: 36
+nRBFCCKGmSBQhhBBqikQRQgihpkgUIYQQavr
+
+127921: Tokens: 21 characters: 28
+ÃĻÃ¹ÃļÃºÃĽÃ»ÃľÃ¼Å°Å±Å®Å¯ÅªÅ«
+
+127922: Tokens: 21 characters: 57
+ç©¶æ¥µãģ®éģ¸æĬŀãĤĴè¿«ãĤīãĤĮãĤĭãĤ¢ãĤ¯ãĤ·ãĥ§ãĥĻãĥ³ãĥģãĥ£ãĥ¼
+
+127923: Tokens: 21 characters: 51
+é§¿æ²³æ¹¾ãģ®ãģĭãģŁãģĻãģ¿ãģ«ãģĤãĤĭå°ıãģķãģªé«ĺæł¡ãģ§
+
+127924: Tokens: 21 characters: 54
+éŃĤãĤĴæıºãģķãģ¶ãĤĭãĥĲãĥĪãĥ«ãĥŃãĤ¤ãĥ¤ãĥ«ãģĮéĸĭæĪ¦ãģĻãĤĭ
+
+127925: Tokens: 21 characters: 49
+Ġåı¯å¹«åĬ©æĤ¨å°ĩæĤ¨çļĦæª¢è¦ĸèĪĩæĤ¨çļĦæ¨¡åŀĭåĪĨéĸĭ
+
+127926: Tokens: 21 characters: 55
+ĠãģĿãģĵãģ«ãģ¿ãģķãģ¨åĲįä¹ĹãĤĭä¸įæĢĿèŃ°ãģªå°ĳå¥³ãģĮçı¾ãĤĮ
+
+127927: Tokens: 21 characters: 55
+Ġçģ«çĭĲæµıè§ĪåĻ¨ä¸Ńè°ĥåĩºèıľåįķæłıçļĦå¿«æį·éĶ®æĺ¯åĵªä¸ª
+
+127928: Tokens: 21 characters: 35
+dfJLhJBIrEEicSWiCwSVIugVVpUtWovqhRX
+
+127929: Tokens: 21 characters: 38
+BAQEFAASCAmIwggJeAgEAAoGBANrJVXuOfVlAy
+
+127930: Tokens: 21 characters: 66
+æľĽãģĮæĢĿãģĦãĤĤãģĹãģªãģĭãģ£ãģŁå¤§ãģįãģªåĭķãģįãĤĴãĤĤãģŁãĤīãģĻäºĭãģ«
+
+127931: Tokens: 21 characters: 45
+äº¡èĢħãģ¸ãģ®åĳµè²¬ãĤĦçįĦåįĴãģŁãģ¡ãģ®æĮĩå°İãģ«
+
+127932: Tokens: 21 characters: 42
+äºļçĳŁçİĭåľĨæ¡ĮæŃ¦å£«ä¸ŃçļĦç¬¬ä¸Ģä½įåĭĩå£«
+
+127933: Tokens: 21 characters: 72
+APIãģĮåıĹãģĳä»ĺãģĳãĤĭãĥĲãĥĥãĥķãĤ¡ãĥ¼ãĤµãĤ¤ãĤºãģ¨ãģĹãģ¦ãģ®åĪ¶éĻĲãģªãģ®ãģ§
+
+127934: Tokens: 21 characters: 57
+ä¸ĢæĻ©ãģ§æ¶Īå¤±ãģĹãģŁç´ĲèĤ²ãģ®ä»£ãĤıãĤĬãģ«åĩºçı¾ãģĹãģŁè¡Ĺ
+
+127935: Tokens: 21 characters: 40
+SFghLBLCMjIyuOaaaxgyZIjpUkSCUrCPhDUdLRKi
+
+127936: Tokens: 21 characters: 38
+dmwYQMAGzZskPmmQjUmJibMmzePcePGkZiYqHY
+
+127937: Tokens: 21 characters: 66
+ãģªãĤĵãģ¨ãģªãģıåįĴæ¥ŃãģĹãģ¦ãģĦãģıãģ®ãģłãģ¨èª°ãĤĤãģĮæĢĿãģ£ãģ¦ãģĦãģŁ
+
+127938: Tokens: 21 characters: 54
+ãģĻãģ¹ãģ¦ãģ¯åģ¥ãĤĦãģĭãģ§åĨĨæºĢãģªæģĭäººãģ§ãģĤãĤĭãģŁãĤģ
+
+127939: Tokens: 21 characters: 66
+åĽ³éĿ¢ãģĮå°ıãģķãģĦåł´åĲĪãģ®åį°åĪ·ãģ¯æŃ£å¸¸ãģ«ãģ§ãģįãĤĭãģ®ãģ§ãģĻãģĮ
+
+127940: Tokens: 21 characters: 40
+Ġæ°ĳåĽ½æĹ¶æľŁå¿§åĽ½å¿§æ°ĳçļĦè°¦è°¦åĲĽåŃĲ
+
+127941: Tokens: 21 characters: 66
+å¯¾çħ§çļĦãģ«ãĥ¡ãĤ«ãĤĦãĥŃãĥľãĥĥãĥĪãģ®æ´»èºįãģĻãĤĭä½ľåĵģãģ¯å°ĳãģªãģı
+
+127942: Tokens: 21 characters: 40
+RsMDAkbWluaUNhcnQkUmVmZXJlbmNlTnVtYmVyTG
+
+127943: Tokens: 21 characters: 39
+ä½łçļĦæĥħç»ªè®©åĦ¿èĮ¶éħļèĥºåĪĨæ³Įå¢ŀåĬł
+
+127944: Tokens: 21 characters: 69
+è¿Ļç§įåĪĨåī²è®Ńç»ĥåĴĮæµĭè¯ķæķ°æį®éĽĨçļĦæ¨¡åŀĭè¯Ħä¼°æµģç¨ĭçļĦç¼ºçĤ¹æĺ¯
+
+127945: Tokens: 21 characters: 48
+åĪ°äºĨæĸ°ä¸ŃåĽ½éĥ½è¢«æ³¨å°ĦäºĨæĶ¿æ²»çĭĤçĬ¬çĹħæ¯Ĵ
+
+127946: Tokens: 21 characters: 42
+ĠTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK
+
+127947: Tokens: 21 characters: 45
+ä»ĸå¿ĥä¸ŃçļĦæ©Ħæ¦ĦçĲĥæ¢¦ä¹ĭéĺŁåľŁå´©çĵ¦è§£äºĨ
+
+127948: Tokens: 21 characters: 45
+åį¡çī¹çº³åľ¨å®¾å¤ķæ³ķå°¼äºļå¯¹éĺµè¾¾çī¹èĮħæĸ¯
+
+127949: Tokens: 21 characters: 63
+ĠhomologTGGTTAGTCTTTCCTAATCCGGTCTATTTCTTTTTCCATTCCATTGCPositive
+
+127950: Tokens: 21 characters: 43
+DYQGAEASNQQTSKQEMQMPNMESQNSGSSSSAPAAAAAKAAK
+
+127951: Tokens: 21 characters: 63
+æľĪãģ®çķªçµĦæĶ¹ç·¨æľŁãģ«æĸ°ãģŁãģ«å§ĭãģ¾ãĤĭãĤ¢ãĥĭãĥ¡ãģ®æľ¬æķ°ãģ¯
+
+127952: Tokens: 21 characters: 51
+çķ«éĿ¢ä¸ŃéĸĵçļĦå¤§æ¨ĵéłĤç«¯å°±åĥıæĺ¯ä»ĸçļĦæĦŁæĩīåįĢ
+
+127953: Tokens: 21 characters: 82
+JavaScriptãģ§ä¸ĭè¨ĺãģ®ãĤĪãģĨãģªè¨Īç®ĹãĤĴãģĻãĤĭãģŁãĤģãģ«åıĸå¾ĹãģĹãģŁãģĦãģ®ãģ§ãģĻãģĮ
+
+127954: Tokens: 21 characters: 37
+IWQriWNJyPJSELIVyLXKBeCCGcRBrOxxgcHUB
+
+127955: Tokens: 21 characters: 54
+åķıé¡Įè§£æ±ºãģ¨è³ŀéĩĳç¨¼ãģİãģ®çĶŁæ¥Ńãģ«æĺİãģĳæļ®ãĤĮãĤĭ
+
+127956: Tokens: 21 characters: 73
+ãĥīãĤŃãĥ¥ãĥ¡ãĥ³ãĥĪãģ«ãģ¯relatedãģ§åĳ¼ãģ³åĩºãģĻæ§ĺãģ«æĽ¸ãģĭãĤĮãģ¦ãģĦãģ¾ãģĻ
+
+127957: Tokens: 21 characters: 54
+ãĤ¨ãĥªãĥĢãĥĬãģ§åĴĴå¼ıå£«äºĭåĭĻæīĢãĤĴæ§ĭãģĪãĤĭå½¼ãĤīãģ«
+
+127958: Tokens: 21 characters: 63
+ãĤ¨ãĥĭãĥĥãĤ¯ãĤ¹ãģĮéĢ²ãĤģãĤĭç·ıåĲĪãĤ¨ãĥ³ãĤ¿ãĥ¼ãĥĨãĤ¤ãĥ³ãĥ¡ãĥ³ãĥĪ
+
+127959: Tokens: 21 characters: 69
+æīĭãģ«åħ¥ãĤĮãģŁåĬĽãĤĴå·±ãģ®æĢĿãģĨãģĮãģ¾ãģ¾ãģ«è¡Įä½¿ãģĹå§ĭãĤģãģ¦ãģĦãģŁ
+
+127960: Tokens: 21 characters: 48
+çī¹è£½ï¾ĭï¾ŀï½°ï¾Įï½¼ï¾ģï½Ńï½°ãģ§ãģĶãģĸãģĦãģ¾ãģĻ
+
+127961: Tokens: 21 characters: 57
+èĢĮä¸įåĥıé»ĳèī²çļĦåĪĨåī²çº¿åİ»åŃ¦ä¹łæķ°æį®ä¿¡åı·çļĦè§Ħå¾ĭ
+
+127962: Tokens: 21 characters: 51
+ä½Ĩèĭ¥åķıé¡Įä¸įå¤ªæĺİé¡¯æĻĤéĤĦæĺ¯å»ºèŃ°æĤ¨éĢĻéº¼åģļ
+
+127963: Tokens: 21 characters: 63
+åİŁä½ľèĢħãģ®ç¾½æµ·éĩİãĥģãĤ«ãģ¯æĸ°æĪ¿æĺŃä¹ĭçĽ£çĿ£ãģ®ãĥķãĤ¡ãĥ³ãģ§
+
+127964: Tokens: 21 characters: 60
+æŁļãĤĴåıĸãĤĬå·»ãģıä»²éĸĵãģŁãģ¡ãģ¨ãģ®å¿ĥæ¸©ãģ¾ãĤĭçī©èªŀãģ§ãģĻ
+
+127965: Tokens: 21 characters: 22
+ĠáīłáĪļáĮĪáĮ¥áĪĿáĭİáīµ
+
+127966: Tokens: 21 characters: 72
+ä¸īçĻ¾æŃ³ãĤĴçĽ®åīįãģ«ãģĹãģ¦ãĤĦãģ£ãģ¨åĪĿãĤģãģ¦ãģ®ä»ķäºĭãģĮä¸İãģĪãĤīãĤĮãĤĭ
+
+127967: Tokens: 21 characters: 57
+ä¿Ŀè¯ģå°Ĩå½ĵåīįå±ĤçļĦåħĥç´łåľ¨åĨħå¾ªçİ¯ä¸Ńåħ¨éĥ¨æ¶ĪèĢĹæİī
+
+127968: Tokens: 21 characters: 38
+VYgkakApCTUsbaNwvgFokpLTglgRICyGkElkhU
+
+127969: Tokens: 21 characters: 60
+çī©è³ªãģ®çĶŁæĪĲãĤĴè¶ħåİŁçĲĨçļĦãģ«è¡ĮãģĨãģŁãĤģãģ®æĬĢè¡ĵä½ĵç³»
+
+127970: Tokens: 21 characters: 57
+æĤłä¹ħãģ®æĻĤãĤĴçĶŁãģįãĤĭéŃĶæ³ķä½¿ãģĦãģ¨ãģ®æļ®ãģĹãģ®ä¸Ńãģ§
+
+127971: Tokens: 21 characters: 57
+è«ĭåľ¨éĩįæĸ°è¼īåħ¥éłģéĿ¢å¾Įæ¸¬è©¦éĮ¯èª¤æĺ¯åĲ¦ä»įçĦ¶åŃĺåľ¨
+
+127972: Tokens: 21 characters: 39
+LlJtGvUCqvettgZPYLGQnSIJIfwBiLBPaxFVIVb
+
+127973: Tokens: 21 characters: 57
+éĥ¨åĪĨç¾İèĤ¡å¸ĤåľºèµĦéĩĳåı¯èĥ½ä¼ļå¤ĸæµģåĪ°ä¼°åĢ¼è¾ĥä½İçļĦ
+
+127974: Tokens: 21 characters: 57
+è¿Ļæł·çļĦåĩ½æķ°éĢļå¸¸ä¼ļç»ĺåĪ¶ä¸Ģä¸ªæ¼Ĥäº®çļĦæıĲéĹ®çªĹåı£
+
+127975: Tokens: 21 characters: 42
+çĮ«éĿĻéĿĻåľ°çľĭçĿĢæ¼Ĥäº®åĴĮèĵĿèī²çļĦçļ®çĲĥ
+
+127976: Tokens: 21 characters: 40
+jTSMFCGxftFKDqhsyjnVXXunkFXRTQxQqqQJnEek
+
+127977: Tokens: 21 characters: 37
+FDFNyWOzXBkSYIrlKznFlquUrMvXOhUulPNDQ
+
+127978: Tokens: 21 characters: 72
+ãĥ¤ãĥ³ãĤ°ãĤ¢ãĥĭãĥŀãĥ«ãģ§ãĤĦãĤĦä¸įå®ļæľŁãģ«éĢ£è¼īä¸Ńãģ®äººæ°Ĺä½ľãģĮåİŁä½ľ
+
+130979: Tokens: 20 characters: 35
+MHAhlyqhdXaGgURRFUbsIIYQQBiAoCGbNAj
+
+130980: Tokens: 20 characters: 33
+TITJkygUqVKzJkzhwEDBlCsWDHeeOMNZs
+
+130981: Tokens: 20 characters: 36
+YFLKNDANKPLTNQTIELITNNLKLQCEKLKIKLDI
+
+130982: Tokens: 20 characters: 36
+fTjADFiKcAbTBlDZgPcIZQBscdgFYjzVnAGc
+
+130983: Tokens: 20 characters: 68
+iZWQuanMiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhLXZlbWJhLXpvbmU
+
+130984: Tokens: 20 characters: 37
+jtsMSLEDdCKvXrZXVPCGpCnkQaTuKJkbvExxo
+
+130985: Tokens: 20 characters: 33
+pZddKKWSKOoJGwiClJSfZmDFFRDXteVJT
+
+130986: Tokens: 20 characters: 34
+rTUxXFonhiAXktFMaVXxYyaqrQIFZZBhcB
+
+130987: Tokens: 20 characters: 28
+ÃĮÃ¬ÃįÃŃÃİÃ®Ä°Ä±ÃıÃ¯ÄªÄ«Ä®Ä¯
+
+130988: Tokens: 20 characters: 42
+é¼ĵèµ·åĭĩæ°ĶåĲĳæĿĳèĬ±äºĮä¸«æ·±æĥħè¡¨çĻ½äºĨ
+
+130989: Tokens: 20 characters: 100
+ĠãĤ¤ãĥ³ãĥķãĥ©ãĤ¹ãĥĪãĥ©ãĤ¯ãĥģãĥ£ãĤĴç®¡çĲĨãģĻãĤĭãģŁãĤģãģ®ãĤ³ãĥŀãĥ³ãĥīãģ®ä¸Ģè¦§ãģĮåĲ«ãģ¾ãĤĮãģ¦ãģĦãģ¾ãģĻ
+
+130990: Tokens: 20 characters: 51
+Ġç»ĻåĬ¨æĢģçļĦå±ŀæĢ§èµĭåĢ¼æĹ¶kvoè§Ĥå¯ŁimageçļĦåıĺåĮĸ
+
+130991: Tokens: 20 characters: 53
+likeCGGATCATCCCGGCATTGATTCACCTCCGATTCACAACTCANegative
+
+130992: Tokens: 20 characters: 64
+smtpmailbouncedebiankdemlsubscribertechcsminingorglistsdebianorg
+
+130993: Tokens: 20 characters: 45
+ä¸¦åı¯è®ĵæĤ¨æĵģæľīæĽ´èĸĦçļĦä½¿çĶ¨èĢħä»ĭéĿ¢å±¤
+
+130994: Tokens: 20 characters: 36
+DLghwdMKQpTJbPebqdsMqcUXbIyrXeOfafuB
+
+130995: Tokens: 20 characters: 57
+ãģĹãģłãģĦãģ«å¤§ãģįãģªãģĨãģŃãĤĬãģ«é£²ãģ¿è¾¼ãģ¾ãĤĮãģ¦ãĤĨãģı
+
+130996: Tokens: 20 characters: 66
+åħħå®ŁãģĹãģŁçĶŁæ´»ãĤĴæ±ĤãĤģãģ¦ãĥįãĥĥãĥĪãģ®ä¸ĸçķĮãģ¸ãģ¨æĹħç«ĭãģ£ãģŁ
+
+130997: Tokens: 20 characters: 54
+åľ¨æĪĳè¿ĺæĺ¯å°ıå±ģåŃ©çļĦæĹ¶åĢĻå°±æľīå¤§äººåĸĬæĪĳåıĶäºĨ
+
+130998: Tokens: 20 characters: 45
+ãģ«æ¼ĤçĿĢãģĹãģŁå»ĥå¢ŁèĪ¹ãĤĴèª¿æŁ»ãģĻãĤĭä¸Ńãģ§
+
+130999: Tokens: 20 characters: 52
+åĴĮä¸ĢåĢĭopensshçĽ¸å®¹çļĦsshä¼ºæľįåĻ¨å·²ç¶ĵè£Ŀå¥½äºĨ
+
+131000: Tokens: 20 characters: 81
+ãģ¨ãĤĦãĤĭãģ¨ãĥľãĤ¿ãĥ³ãĤªãĥĸãĤ¸ãĤ§ãĤ¯ãĥĪãģ®ãĤĪãģĨãģªãĤĤãģ®ãģĮè¡¨ç¤ºãģķãĤĮãģ¾ãģĹãģŁ
+
+131001: Tokens: 20 characters: 35
+MIHYBggrBgEFBQcCAjCByxqByFRlbnRvIGt
+
+131002: Tokens: 20 characters: 60
+å¥¥æīĭãĤĨãģĪãģ«æľĢåĪĿãģ¯ä¸įå®īãģłãĤīãģĳãģ®èıľä¹ĥãģłãģ£ãģŁãģĮ
+
+131003: Tokens: 20 characters: 59
+ĠputativeTGGTCAGGTAATGGTGGTTCTCTCTCCCTCATCTGGCAAACANegative
+
+131004: Tokens: 20 characters: 42
+à¸Ħà¸§à¸²à¸¡à¸«à¸²à¸¢à¸Ļà¸°à¸Ĥà¸Ńà¸ĩà¹Ģà¸ª
+
+131005: Tokens: 20 characters: 48
+æŃ´åı²ä¸Ĭãģ®åģīäººãģŁãģ¡ãģĮæĮģãģ¤ç¥ŀç§ĺãģ®ãģĬå®Ŀ
+
+131006: Tokens: 20 characters: 54
+åĮĪçīĻåĪ©è¯Ńä½¿çĶ¨ä¸ĢäºĽæĭīä¸ģç¬¦åı·åĬłä¸ĬåıĺéŁ³æłĩå¿Ĺ
+
+131007: Tokens: 20 characters: 74
+ä¸ºABç±»çļĦä¸Ģä¸ªæĹłå½¢å¼ıåıĤæķ°æĹłè¿ĶåĽŀåĢ¼çļĦæĸ¹æ³ķmethodä¹¦åĨĻæĸ¹æ³ķå¤´
+
+131008: Tokens: 20 characters: 57
+å®ļå¹´ãĤĴéĸĵè¿ĳãģ«è¿İãģĪãĤĭåĨ´ãģĪãģªãģĦãĤµãĥ©ãĥªãĥ¼ãĥŀãĥ³
+
+131009: Tokens: 20 characters: 51
+ä¸Ĭæµ·åĽ½éĻħéĩĳèŀįä¸İç»ıæµİçłĶç©¶éĻ¢çī¹èģĺçłĶç©¶åĳĺ
+
+131010: Tokens: 20 characters: 57
+ãģĤãģĭãĤīãģķãģ¾ãģ«æ¹§ãģįåĩºãĤĭãĤ¨ãĤŃãĤµãĤ¤ãĥĪãģªæĢ§çŁ¥èŃĺ
+
+131011: Tokens: 20 characters: 57
+é¡¾åĲįæĢĿä¹īå°±æĺ¯æŀľæĸŃçļĦåİ»çĮľæµĭä¸Ģä¸ªæľªçŁ¥çļĦäºĭçī©
+
+131012: Tokens: 20 characters: 48
+æĮ¯ãĤĬåĽŀãģķãĤĮãģªãģĮãĤīãĤĤä»²éĸĵãģ«è§¦çĻºãģķãĤĮ
+
+131013: Tokens: 20 characters: 90
+LinuxãģĭãĤīãģ®WindowsãĥķãĤ¡ãĤ¤ãĥ«ãĤ·ãĤ¹ãĥĨãĥłä¸Ĭãģ«ãģĤãĤĭãĥķãĤ¡ãĤ¤ãĥ«ãģ¸ãģ®ãĤ¢ãĤ¯ãĤ»ãĤ¹ãĤĦ
+
+131014: Tokens: 20 characters: 69
+èĦļæľ¬ãģ¯åİŁä½ľãĤ²ãĥ¼ãĥłãĤ·ãĥĬãĥªãĤªãĤĴåŁ·çŃĨãģĹãģŁæŃ£çĶ°å´ĩãģĮæĭħå½ĵ
+
+131015: Tokens: 20 characters: 72
+IDAåıįæ±ĩç¼ĸåĻ¨åı¯ä»¥å±ķç¤ºæĮĩå®ļåŃĹç¬¦ä¸²è¢«åĵªä¸ªåĩ½æķ°åľ¨åĵªéĩĮä½¿çĶ¨
+
+131016: Tokens: 20 characters: 57
+å½ĵæĻĤãģ®åĽ½åĨħæľĢé«ĺé¡įãĤĴè¨ĺéĮ²ãģĹãģ¦è©±é¡Įãģ¨ãģªãģ£ãģŁ
+
+131017: Tokens: 20 characters: 39
+èĤīçĬ¶çĺ¤çĹħä¼ļå¯¼èĩ´èĦ¾åĴĮèĤĿçļĦæįŁä¼¤
+
+131018: Tokens: 20 characters: 63
+æľĢè¿ĳãģ¯èĭ¦æĪ¦ãģĹãģ¦ãģĦãĤĭãģ¨è¨ĢãĤıãģĸãĤĭãĤĴå¾ĹãģªãģĦçĬ¶æħĭãģ«
+
+131019: Tokens: 20 characters: 82
+æİ¥ä¸ĭæĿ¥ä½łåı¯ä»¥éĢļè¿ĩallprojectsåĴĮsubprojectsæĸ¹æ³ķæĿ¥æĶ¹åĸĦä½łçļĦæŀĦå»ºä»£çłģ
+
+131020: Tokens: 20 characters: 45
+åĬłä¸Ĭè¨Ńç½®è¨±åı¯è®ĬæĪĲç®¡çĲĨåĵ¡çļĦèĭ¦å·®äºĭ
+
+131021: Tokens: 20 characters: 45
+çĽ®åīįçĭĢæħĭä¸ĭä¸įæľĥéĺ»æĵĭä»»ä½ķç¶²éłģåħ§å®¹
+
+131022: Tokens: 20 characters: 72
+ãģ©ãĤĵãģªé¡ĺãģĦãģ§ãĤĤãģŁãģ£ãģŁãģ²ãģ¨ãģ¤ãģłãģĳåı¶ãģĪãĤĭãģĵãģ¨ãģĮãģ§ãģįãĤĭ
+
+131023: Tokens: 20 characters: 48
+æ¯ĶéĻ¶æŁıä¸ºåį¡çī¹çº³æĴĴçļĦè°İè¿ĺè¿ŁäºĨåįĬå°ıæĹ¶
+
+131024: Tokens: 20 characters: 60
+å¤ĸéĥ¨ãģ¨ãģ®æİ¥è§¦ãģĮãģ¾ãģ£ãģŁãģıçĦ¡ãģĦãģĵãģ®å³¶ãģ®äººåı£ãģ¯
+
+131025: Tokens: 20 characters: 38
+QgENBBIWEDkyMDMwMzAwMDAwMTEyNzMwDgYDVR
+
+131026: Tokens: 20 characters: 33
+VtUngHjfhdWFZZwJYREnNFuOzkhiUnYqf
+
+131027: Tokens: 20 characters: 347
+âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦âĢ¦..
+
+131028: Tokens: 20 characters: 72
+è¿Ļä¸ªç»Ħä»¶æĪĳå°Ŀè¯ķä½¿çĶ¨npmåıĳå¸ĥæĪĲä¸Ģä¸ªå¼ĢæºĲç»Ħä»¶ä¾Ľå¤§å®¶ä½¿çĶ¨
+
+131029: Tokens: 20 characters: 51
+èģĬèģĬåį¡çī¹çº³å½ĵåĪĿæĢİä¹Īå·®çĤ¹æĬĬæīĭæľ¯å®¤çĤ¸äºĨ
+
+131030: Tokens: 20 characters: 57
+çı¾ä¸ĸãģ¸ãģ®è¦ĸå¯Łãģ¨å¤§å¿ĻãģĹãģ®æĹ¥ãĢħãĤĴéĢģãģ£ãģ¦ãģĦãģŁ
+
+131031: Tokens: 20 characters: 78
+ãģĵãģ®å¤¢ãģĮãģĭãģĪãĤīãĤĮãģªãģĦãģ®ãģªãĤīãĤ¢ãĥĭãĥ¡åĮĸãģ¯ãģ§ãģįãģªãģıãģ¦ãĤĤãģĦãģĦ
+
+131032: Tokens: 20 characters: 66
+ãģ¨ãģĦãģĨäºĮäººä¸ĢçµĦãģ§è¡ĮãģĨãĥ¢ãĥ¼ãĤ¿ãĥ¼ãĤ¹ãĥĿãĥ¼ãĥĦãĤĴé¡ĮæĿĲãģ«
+
+131033: Tokens: 20 characters: 45
+éĢĻäºĽå¿ĥéĿĪçļĦéģĭä½ľçµķéĿŀå±¬æĸ¼æĦıèŃĺå±¤éĿ¢
+
+131034: Tokens: 20 characters: 87
+ç¼ĸçłģæĸ¹æ³ķå¤ļçĶ¨äºİéľĢè¦ģå°ĨäºĮè¿ĽåĪ¶æķ°æį®ä»¥æĸĩæľ¬åŃĹç¬¦ä¸²çļĦå½¢å¼ıä¼łè¾ĵçļĦæĥħåĨµ
+
+131035: Tokens: 20 characters: 57
+ä»ĬåŃ£åĦªåĭĿãĤĴçĭĻãģ£ãģ¦æĪ¦ãģĨå¥³åŃĲãĥ¬ãĥ¼ãĤµãĥ¼ãģŁãģ¡ãģĮ
+
+131036: Tokens: 20 characters: 36
+åİĭæ¦¨åĬ³åĬ¨äººæ°ĳè¡Ģæ±ĹçļĦåī¥åīĬèĢħ
+
+131037: Tokens: 20 characters: 60
+ãĥģãĤ»ãģ¯å¤§åĪĩãģªä½ķãģĭãĤĴå°ĳãģĹãģļãģ¤åıĸãĤĬæĪ»ãģĹãģ¦ãģĦãģı
+
+131038: Tokens: 20 characters: 54
+èĩªæĪĳæľĥåģļçļĦäºĭå°±æĺ¯è¬Ľä¸Ģå¥ĹéĹľæĸ¼èĩªå·±çļĦæķħäºĭ
+
+131039: Tokens: 20 characters: 54
+ä¸ĭéĿ¢çļĦæĸĩåŃĹæĸ¹å¡Ĭåı¯ä»¥è®ĵæĤ¨è¼¸åħ¥é¡įå¤ĸçļĦè¨»è§£
+
+131040: Tokens: 20 characters: 63
+åįģäºĮå¹´ãģ«ä¸Ģåº¦éĸĭåĤ¬ãģķãĤĮãĤĭç¬¬åįģäºĮåĽŀçĽ®ãģ®åįģäºĮå¤§æĪ¦
+
+131041: Tokens: 20 characters: 63
+å¸ĮæľĽæľīåĲĮæł·æľ´ç´łæĥ³æ³ķçļĦå¼ĢåıĳèĢħåĬłåħ¥æĪĳä»¬ä¸Ģèµ·å®ĮåĸĦ
+
+131042: Tokens: 20 characters: 49
+Ġæĺ¯ä¸ĢåĢĭä¾¿æį·åı¥æ³ķå¦ĤæŀľåıĥèĢĥæŃ£åīĩæ²ĴæľīçĶ¨
+
+131043: Tokens: 20 characters: 65
+æļĹé»Ĵãĥ©ãĤ¤ãĥĪãĥİãĥĻãĥ«ãģ®å§ĭç¥ĸãģ«ãģĹãģ¦æľĢçµĤä½ľTVãĤ¢ãĥĭãĥ¡åĮĸ
+
+131044: Tokens: 20 characters: 75
+ãĤ½ãĥ¼ãĤ¹ãĤ³ãĥ¼ãĥīãģ®ãģ©ãģĵãģĭãģĮéĸĵéģķãģ£ãģ¦ãģĦãĤĭãģ®ãģłãģ¨æĢĿãģĦãģ¾ãģĻãģĮ
+
+131045: Tokens: 20 characters: 39
+åı¦ä¸ĢéĤĬåīĩè¢«åıĹèī¯å¿ĥåļ´åİ²çļĦèŃ´è²¬
+
+131046: Tokens: 20 characters: 69
+Ġå¦Ĥæŀľèµ·å§ĭçĤ¹çļĦåı³ä¸ĭè§ĴxåĿĲæłĩå°ıäºİç»ĵæĿŁçĤ¹çļĦåı³ä¸ĭè§ĴxåĿĲæłĩ
+
+131047: Tokens: 20 characters: 45
+åĳ¨æģ©æĿ¥æİĪæĦıé©¬å¯ħåĪĿç»Ļä»ĸåĨĻäºĨä¸Ģå°ģä¿¡
+
+131048: Tokens: 20 characters: 90
+ãĤ³ãĥ³ãĥĨãĥ³ãĥĦå®ļç¾©ãģĬãĤĪãģ³ãĤµãĥĿãĥ¼ãĥĪãģĻãĤĭä»»æĦıãģ®è¨Ģèªŀãģ«å¯¾ãģĹãģ¦è¨Ńå®ļãģĹãģ¾ãģĻ
+
+131049: Tokens: 20 characters: 42
+è¿ĻäºĽåĬ¨æĳĩåŁºæľ¬äººæĢ§çļĦä¾®è¾±ä¸İæįŁå®³
+
+131050: Tokens: 20 characters: 33
+rKHWBYRThvFpDjtrQSlrDucYCRDLBwXTp
+
+131051: Tokens: 20 characters: 43
+çŁŃæľŁåĨ²åĩ»éļ¾æĶ¹AèĤ¡ä¸Ńéķ¿æľŁåĲĳå¥½è¶ĭåĬ¿
+
+131052: Tokens: 20 characters: 59
+åħ«ä»£æĭĵãģĮåĩºæ¼ĶãģĹãģ¦è¦ĭãģ©ãģĵãĤįãĤĴèªŀãĤĭæĶ¾éĢģè¨ĺå¿µSP
+
+136708: Tokens: 19 characters: 45
+EACERAAMBAAICAgMBAAAAAAAAAAABAhEDIRJBMVETImEU
+
+136709: Tokens: 19 characters: 30
+HJGQUnmZUjCGsLqjRYKcZVmMGTOGhx
+
+136710: Tokens: 19 characters: 34
+JuaWExEjAQBgNVBAcMCUxvcyBHYXRvczEU
+
+136711: Tokens: 19 characters: 33
+LMrPdyOqiJSFoALJjKhasMIpuAuaXluRS
+
+136712: Tokens: 19 characters: 38
+MGTNGgllkmYSzEELkgkWLFpGQkMCECRPULkXkQ
+
+136713: Tokens: 19 characters: 33
+OZEkGrMAAAMrklEQVRfPKfbUSICqEXxFo
+
+136714: Tokens: 19 characters: 52
+TGTGTGTCGAAGCAATTGATCTGTTGGAAGATTTGTCAATATCAPositive
+
+136715: Tokens: 19 characters: 72
+WSLãģ®ãĥªãĥªãĥ¼ãĤ¹å½ĵåĪĿãģĭãĤīãĤµãĥĿãĥ¼ãĥĪãģĹãģ¦ãģĦãģŁUbuntuãģ«åĬłãģĪãģ¦
+
+136716: Tokens: 19 characters: 33
+ZmxpeCBJbmMxLTArBgNVBAsMJFBsYXRmb
+
+136717: Tokens: 19 characters: 36
+aUoCwvthThiYuzLkEaOVBOWiAMphEVERAxRY
+
+136718: Tokens: 19 characters: 31
+fvyYwMBAfRgHBgZSvHjxNPeJGzVqhLm
+
+136719: Tokens: 19 characters: 33
+kulpqYSzIBFCGcAHlhvBqxFOAPwwHozYC
+
+136720: Tokens: 19 characters: 33
+vAQgVFRBvnQoJrxHXfyYNKCnDWVJzdrjv
+
+136721: Tokens: 19 characters: 33
+wxxgSYJWTGGGOMMQFmCZkxxhhjTIBZQmY
+
+136722: Tokens: 19 characters: 42
+æĲºå¸¦çļĦçĹħèıĮæ²ĻèĿĩå°±æĺ¯æĪªçĦ¶ä¸įåĲĮçļĦ
+
+136723: Tokens: 19 characters: 70
+Ġä»İèĢĮéĺ²æŃ¢åºĶçĶ¨ç¨ĭåºıä¸įæĸŃåľ°å°Ŀè¯ķæī§è¡Įåı¯èĥ½ä¼ļå¤±è´¥çļĦæĵįä½ľ
+
+136724: Tokens: 19 characters: 67
+Ġç¼ĸçłģæĶ¯æĮģçļĦåı¯æīĵåį°åŃĹç¬¦åĴĮæİ§åĪ¶åŃĹç¬¦çļĦéĽĨåĲĪä¹Łè¢«åı«åģļ
+
+136725: Tokens: 19 characters: 37
+atRoyZIjVJaEDNFaBPxDOCJiOpgIleQRwRkaG
+
+136726: Tokens: 19 characters: 34
+unlAydnXJaIyFxSoCgjPXHraeYtisWdrQC
+
+136727: Tokens: 19 characters: 33
+INzcstkClsCgYBhyMVdeVyzfnKSHcydvf
+
+136728: Tokens: 19 characters: 60
+ĠproteinTGCGAACTTAAGGAAAAAGAAGCAGTAATGCTTGTCGGGAGCCTPositive
+
+136729: Tokens: 19 characters: 59
+ĠproteinTGGTGTTTTTCCATTTGCCTTCTCTAGAACGTAAGGGTATTCANegative
+
+136730: Tokens: 19 characters: 62
+Ġfinalç±»ä¸ŃçļĦå±ŀæĢ§åĴĮæĸ¹æ³ķéĥ½å¿ħé¡»è¢«finalä¿®é¥°ç¬¦ä¿®é¥°
+
+136731: Tokens: 19 characters: 31
+THXxdQEYzlpSiXDNazXUhWGWmVxraxq
+
+136732: Tokens: 19 characters: 63
+ĠmemberGGCAGGAAGATACAATAAATGTACAGCAGTATCGTGATTTCATTTGGTNegative
+
+136733: Tokens: 19 characters: 65
+smtpmailbouncedebianusermlsubscribertechcsminingorglistsdebianorg
+
+136734: Tokens: 19 characters: 57
+ForminGGGATAACGCTCTTCCATATGGACATGTCTGACAGAGGGTGCANegative
+
+136735: Tokens: 19 characters: 32
+HLLLaZLEZEGUgiLhLgFCxYwbNgwmjTRf
+
+136736: Tokens: 19 characters: 66
+ĠdehydrogenaseACCTTGACTGGTACACTTTTTCAAGTGATGACGGACAATTGTGTPositive
+
+136737: Tokens: 19 characters: 84
+ãĤ·ãĥ§ãĥ¼ãĥĪãĤ¢ãĥĭãĥ¡ãģ§ãģ¯ãģªãģĦåľ°ä¸Ĭæ³¢ãĤ¢ãĥĭãĥ¡ãģ®çĽ£çĿ£ãģ¯ä»ĬåĽŀãģĮåĪĿãģ¨ãģªãĤĭ
+
+136738: Tokens: 19 characters: 36
+åĬ³ä¼¦æĸ¯ä¸ĢçĽ´åĸľæ¬¢æĬĬä¸ľè¥¿çĤ¸é£ŀ
+
+136739: Tokens: 19 characters: 54
+ãģ¯çĶŁæ´»ãģ®ãģĤãĤīãĤĨãĤĭåĪĨéĩİãģ«æģ©æģµãĤĴãĤĤãģŁãĤīãģĹ
+
+136740: Tokens: 19 characters: 57
+å¦Ĥæŀľå®ĥåľ¨ä¸Ģæ®µæĹ¶éĹ´åĨħä¾¦æµĭåĪ°è®¸å¤ļç±»ä¼¼çļĦéĶĻè¯¯
+
+136741: Tokens: 19 characters: 60
+ãģĻãģĵãģĹåīįãģ®è³ªåķıãģ§ãģĻãģĮåĽŀçŃĶãģķãģĽãģ¦ãĤĤãĤīãģĦãģ¾ãģĻ
+
+136742: Tokens: 19 characters: 59
+ĠsynthaseTGGCACCATTTTTAAACAACAACAGTCAGAAGCACACTGTGAPositive
+
+136743: Tokens: 19 characters: 60
+ĠsynthaseGGTGGGGGCTTTTGTCTTCTACTACATCTTCTGAGGTAACACCNegative
+
+136744: Tokens: 19 characters: 49
+ä¸Ńæĭīä¸ģç¬¦åı·åľ¨HiewåĴĮFARä¸Ńçľĭä¸Ĭåİ»æıĴåħ¥äºĨ
+
+136745: Tokens: 19 characters: 42
+æĪĳå°±ä¼ļè§īå¾Ĺè¿ĻæĹłå¼Ĥäºİæŀªæ¯Ļä¸İç»ŀåĪĳ
+
+136746: Tokens: 19 characters: 45
+æĪĳç¡®å®ļæŁ¯å¸Ŀä¸Ģå®ļä¼ļåģıåĲĳéĤ£ä¸ªèĢģå®¶ä¼Ļ
+
+136747: Tokens: 19 characters: 72
+åİŁåĪĻä¸Ĭåıªè¦ģæºĲåĢ¼åľ¨çĽ®æłĩç±»åŀĭçļĦåı¯è¡¨ç¤ºèĮĥåĽ´åĨħå°±æĺ¯åĲĪæ³ķçļĦ
+
+136748: Tokens: 19 characters: 58
+ĠputativeCGGCCAATGTATCAAGACTCGAACGAATTCAACAACCGCGTPositive
+
+136749: Tokens: 19 characters: 57
+ĠputativeGCACGCCCATACCTTGTCAAATCAATGCCAAGCCCATCCAPositive
+
+136750: Tokens: 19 characters: 59
+ĠputativeGGGTGAGTTTCCTAAGAGGTCCCAAATCACATGGCCAAACGCPositive
+
+136751: Tokens: 19 characters: 60
+ĠputativeTCCCTTCTGCGGTTTTCCTCTGTTGCAAACTTCTCCTTGTAGGPositive
+
+136752: Tokens: 19 characters: 64
+ĠpolymeraseACAACAGGGACATGATTTCATCAACACTAAACCCTTCTGTGCACAPositive
+
+136753: Tokens: 19 characters: 54
+ãĥ«ãĥĳãĥ³ãģ«å°İãģĭãĤĮãģ¦ãĤ«ãĥ«ãĥĩãĤ£ãĤ¢ãģ¯æ©Łéĭ¼éĥ½å¸Ĥ
+
+136754: Tokens: 19 characters: 66
+Ġ30414093201713378043612608166064768844377641568960512000000000000
+
+136755: Tokens: 19 characters: 48
+è§¦ãĤĮãģŁãĤĤãģ®ãĤĴæº¶ãģĭãģĻçĮĽæ¯ĴãĤĴæĮģãģ¤å°ĳå¥³
+
+136756: Tokens: 19 characters: 48
+ãģ¾ãģķãģ«æŃ£çľŁæŃ£éĬĺãģ®èĲ½ãģ¡ãģĵãģ¼ãĤĮãģłãģ£ãģŁ
+
+136757: Tokens: 19 characters: 74
+IJCADãģ§å¤ĸéĥ¨ãģ®åĽ³éĿ¢ãģĭãĤīãĥ¬ãĤ¤ãĤ¢ãĤ¦ãĥĪãĤĴèªŃãģ¿è¾¼ãĤĢãģ®ãģ§ãģĤãĤĮãģ°
+
+136758: Tokens: 19 characters: 72
+äººãģ¯åľ°éģĵãģªãĤ¢ãĤ¤ãĥīãĥ«æ´»åĭķãģ«è¿½ãĤıãĤĮãĤĭæĹ¥ãĢħãģĮç¶ļãģĦãģ¦ãģĦãģŁ
+
+136759: Tokens: 19 characters: 54
+éľĢè¦ģä¸Ģä¸ªæĹłåı¯æķĳèį¯æµªæ¼«ä¸»ä¹īèĢħè¯´æľįåı¦ä¸Ģä¸ª
+
+136760: Tokens: 19 characters: 48
+æĪĳä»¬ä¸ĢçĽ´è®©ä»ĸåı«æĪĳä»¬çĲĨæŁ¥å¾·åĴĮæľ±èİīäºļ
+
+136761: Tokens: 19 characters: 64
+æĪĳä»¬åıªéľĢè¦ģçĶ»ä¸Ģä¸ªçŃīé«ĺçļĦviewæ¨¡æĭŁå¯¼èĪªæłıå°±å®ĮäºĭäºĨ
+
+136762: Tokens: 19 characters: 72
+æĪĳä»¬éĢīåıĸäººèĦ¸æ£ĢæµĭçļĦBlazeFaceæ¨¡åŀĭä½ľä¸ºç¥ŀç»ıç½ĳç»ľæĲľç´¢ç¤ºä¾ĭ
+
+136763: Tokens: 19 characters: 49
+8773044356719480057597965448120393463423922987617
+
+136764: Tokens: 19 characters: 63
+çĶŁãģįçī©ãģķãģĪãĤĤãģĦãģªãģıãģªãģ£ãģŁçµĤãĤıãĤĬãĤĴè¿İãģĪãģŁä¸ĸçķĮ
+
+136765: Tokens: 19 characters: 54
+çĶŁæ´»åľ¨ä¸ŃåĽ½å¤§éĻĨçļĦçŁ¥è¯Ĩä»½åŃĲå·²æĪĲæĥĬå¼ĵä¹ĭé¸Ł
+
+136766: Tokens: 19 characters: 70
+åĪ°çĽ®åīįä¸ºæŃ¢ä½łå·²ç»ıæĬĬToDoé¡¹çĽ®æł¹æį®åĬŁèĥ½æĭĨåĪĨæĪĲå¤ļä¸ªæ¨¡åĿĹ
+
+136767: Tokens: 19 characters: 42
+å»ºèŃ°æĤ¨è¼¸åħ¥æľīæķĪçļĦéĽ»åŃĲéĥµä»¶ä½įåĿĢ
+
+136768: Tokens: 19 characters: 51
+éĻĦåĬłçĽ®åīįåķŁçĶ¨çļĦæĵ´åħħå¥Ĺä»¶åĪĹè¡¨èĩ³åł±åĳĬä¸Ń
+
+136769: Tokens: 19 characters: 45
+éĻĨå®ļä¸Ģåī¯ä¸»ä»»åĴĮèĥ¡ä¹Ķæľ¨åħĪçĶŁä¸ºæķĻå¸Ī
+
+136770: Tokens: 19 characters: 48
+ä»ĸçļĦèĭ±æĸĩå§ĵæ°ıä½¿ä»ĸæ··æ·ĨäºĨèĩªå·±çļĦèº«ä»½
+
+136771: Tokens: 19 characters: 81
+çİ°åľ¨æĪĳä»¬éľĢè¦ģä½¿çĶ¨ä¸Ģç§įåº¦éĩıæĸ¹å¼ıæĿ¥è¯Ħä»·æĪĳä»¬çļĦæ¨¡åŀĭçļĦè¿Ĳè¡ĮæĥħåĨµ
+
+136772: Tokens: 19 characters: 81
+æĹ¥ãģĭãĤīãĤ¹ãĥŀãĥ¼ãĥĪãĥķãĤ©ãĥ³åĲĳãģĳãĤ²ãĥ¼ãĥłãģ®å±ķéĸĭãģĮãĤ¹ãĤ¿ãĥ¼ãĥĪãģĹãģ¦ãģĦãģ¦
+
+136773: Tokens: 19 characters: 67
+å®ļä¹īäºĨBlazeFaceçĶ±åįķblazeæ¨¡åĿĹåĪ°åıĮblazeæ¨¡åĿĹçļĦè¿ĩæ¸¡åĮºéĹ´
+
+136774: Tokens: 19 characters: 48
+æĪĸèĢħå¦ĤæŀľæŁĲäºĽæĶ¹è®ĬåīĽå¥½ä¸įå°įå°±æľĥå´©æ½°
+
+136775: Tokens: 19 characters: 69
+éĢļéģĵçŃīç±»åŀĭä¸İåĨħéĥ¨åħ·ä½ĵçļĦåħĥç´łç±»åŀĭåĴĮéķ¿åº¦çŃīå±ŀæĢ§æľīåħ³
+
+136776: Tokens: 19 characters: 87
+èĦļæľ¬ãĤĴæĭħå½ĵãģĹãģ¦ãģĦãĤĭãģ¿ãģĨãĤīãģķãģ¶ãĤįãģĨãģ¯åĪĿãģ®ãĥĨãĥ¬ãĥĵãĤ·ãĥªãĥ¼ãĤºçĽ£çĿ£ãģ§
+
+136777: Tokens: 19 characters: 66
+æľĪåĪĬãĤ³ãĥŁãĥĥãĤ¯ãĥĲãĥ¼ãĤºãģ§å¾©æ´»ãģĹãģŁãģ¨ãģĦãģĨçµĮç·¯ãģĮãģĤãĤĭ
+
+136778: Tokens: 19 characters: 39
+åŁ¹èĤ²åĩºçļĦè¶ħæĪĳåį»æľīèĳĹä¸įåģĩè¾Ńèī²
+
+136779: Tokens: 19 characters: 60
+æ¬¡ãģĭãĤīæ¬¡ãģ¸ãģ¨å¥ĩæĥ³å¤©å¤ĸãģªåĩºæĿ¥äºĭãĤĴå¼ķãģįèµ·ãģĵãģĻ
+
+136780: Tokens: 19 characters: 42
+å¸¸èŃĺãĤĴè¶ħãģĪãģŁä¸įæĿ¡çĲĨãģĮèĵ®ãĤĴè¥²ãģĨ
+
+136781: Tokens: 19 characters: 34
+Ġï¾Ĭï½¯ï½¼ï½Ńãģ¨ï½¶ï¾Ĩï½ºï¾Ľãģ§ãģĻ
+
+136782: Tokens: 19 characters: 42
+è¶ħæĪĳåħ¶å¯¦åŁºæľ¬ä¸Ĭæĺ¯æľīåĢĴéĮ¯çļĦåĤ¾åĲĳ
+
+136783: Tokens: 19 characters: 76
+pressedãĤĴä½ľãģ£ãģ¦æĿ¡ä»¶åĪĨå²ĲãģķãģĽãĤĮãģ°ãģĦãģĦãģ®ãģ§ãģ¯ãģªãģĦãģ§ãģĻãģĭãģŃ
+
+136784: Tokens: 19 characters: 42
+qPCRCATGTCAGCGCCGTTAACCACCTGCTGCCGGGTGTAGh
+
+136785: Tokens: 19 characters: 42
+æĮĩæķ°åĴĮéŁ©åĽ½ç»¼åĲĪæĮĩæķ°è·Įå¹ħåĿĩè¶ħè¿ĩ
+
+136786: Tokens: 19 characters: 54
+éĽªå§«ãģ«æĮĳæĪ¦ãģĻãĤĭæĹ¥ãĢħãĤĴéĢģãĤĭåĪĢå¤ªãģłãģ£ãģŁãģĮ
+
+136787: Tokens: 19 characters: 60
+ãĥīãĥŃãĥĥãĤ»ãĥ«ãģ®å§¿ãĤĤãģĿãĤĮãģ«åĲĪãĤıãģĽãģ¦å¹¼ãģĭãģ£ãģŁãģĮ
+
+136788: Tokens: 19 characters: 73
+oooooooooOOOOOOOOOOORRrrrrrrrrrrrrreewwwwwaaaaaaaaaaaaaaaaayyyyyyyyyyyyyy
+
+136789: Tokens: 19 characters: 78
+ä½Ĩä¸įçŁ¥éģĵå®ŀéĻħä¸Ĭä½¿çĶ¨äºĨåĵªä¸ªåĩ½æķ°å¹¶ä¸Ķæľīè®¸å¤ļçļĦåĩ½æķ°çļĦæĥħåĨµä¸ĭ
+
+136790: Tokens: 19 characters: 42
+ä½ĨæĪĳä»¬ä¸įæĥ³æµªè´¹æĹ¶éĹ´åİ»çºłç¼łé¬¼éŃĤ
+
+136791: Tokens: 19 characters: 51
+å¤ĸçķĮãģĭãĤīéļĶçµ¶ãģķãĤĮãģŁåºĥå¤§ãģªå±ĭæķ·ãģ®ä¸Ńãģ§
+
+136792: Tokens: 19 characters: 96
+sqliteãĥĩãĥ¼ãĤ¿ãĥĻãĥ¼ãĤ¹ãĤĴèªŃãģ¿è¾¼ãĤĵãģ§ãĥªãĤ¹ãĥĪå½¢å¼ıãģ§åĩºåĬĽãģĹãĤĪãģĨãģ¨ãģĹãģ¦ãģĦãģ¾ãģĻãģĮ
+
+136793: Tokens: 19 characters: 36
+çŃĸè¬Ģãģ¨æ®ºæĪ®ãģ®æ¸¦å·»ãģıæĪ¦åł´ãģ§
+
+136794: Tokens: 19 characters: 63
+ä»İè¯Ńæ³ķåĨħå®¹ä¸Ńè¯»åıĸè¯Ńæ³ķè§ĦåĪĻå¹¶æĺłå°ĦåĪ°åĪĽå»ºçļĦåŃĹåħ¸
+
+136795: Tokens: 19 characters: 31
+ĠìĦ¸ì½°ìĿ´ìĸ´ìºĲíĶ¼íĦ¸ë¡ľë¶ĢíĦ°
+
+136796: Tokens: 19 characters: 45
+éĢĻåĢĭæ®ĺéħ·çļĦç¨ĭåº¦åıªæľīæľ¬æĪĳåı¯ä»¥æī¹æķµ
+
+136797: Tokens: 19 characters: 51
+çĭ¬ãĤĬå¤ľãģ«å¼ķãģįãģĵãĤĤãĤĬå¿ĥãĤĴéĸīãģĸãģĹãģ¦ãģĦãģŁ
+
+136798: Tokens: 19 characters: 39
+æ·±åľ³è¯ģåĪ¸äº¤æĺĵæīĢæĪĲä»½èĤ¡ä»·æĮĩæķ°
+
+136799: Tokens: 19 characters: 75
+éĻĲå®ļçīĪãģ«ãģ¯ãĥĨãĥ¬ãĥĵãĤ¢ãĥĭãĥ¡ãģ«åħĪé§Ĩãģĳãģ¦OADãģĮåĲĮæ¢±ãģķãĤĮãģ¦ãģĦãĤĭ
+
+136800: Tokens: 19 characters: 73
+Ġæĺ¯çĶ±ä¸Ģä¸ªæĪĸå¤ļä¸ªç¬¦åĲĪä¸ĭè¿°æł¼å¼ıçļĦåŃĹç¬¦ä¸²è¿ŀæİ¥èµ·æĿ¥å½¢æĪĲçļĦ
+
+136801: Tokens: 19 characters: 57
+ãģĤãģªãģŁãģ¨ãĥ¬ãĥĵãĥ¥ãĤ¢ãĥ¼ãģ®æĻĤéĸĵãģĮç¯Ģç´ĦãģķãĤĮãģ¾ãģĻ
+
+136802: Tokens: 19 characters: 46
+Ġä½łçĶļèĩ³ä¸įçĶ¨è®Ģèĩªå¸¶çļĦéĤ£ä¸Ģå¤§åłĨæĸĩæªĶ
+
+136803: Tokens: 19 characters: 66
+ãģĿãĤĮãģŀãĤĮãģ®æĥ³ãģĦãĤĴèĥ¸ãģ«ãĤ¢ãĤ¤ãĥīãĥ«ãģ«è»¢èģ·ãģĹãģŁå½¼ãĤīãģĮ
+
+136804: Tokens: 19 characters: 60
+åİŁä½ľãģ¯åĲĮä½ľèĢħãģ®æīĭãģ«ãĤĪãĤĬéĢ±åĪĬå°ĳå¹´ãĥŀãĤ¬ãĤ¸ãĥ³ãģ§
+
+140462: Tokens: 18 characters: 28
+AFrKujlTpUBRyWuyGSRZJHZtQkAz
+
+140463: Tokens: 18 characters: 34
+EOASsCegKpARGBFYHPgsyCRIFdQTDwQHBu
+
+140464: Tokens: 18 characters: 30
+FpoJWUQUZExwEjJjjDHBxUcjKRsdra
+
+140465: Tokens: 18 characters: 31
+JSAggFOnTqldiiggpOUshBDZcOfOHRo
+
+140466: Tokens: 18 characters: 29
+JHzhWiLkjHiHmXXKmdHfaozXacWCm
+
+140467: Tokens: 18 characters: 34
+JgfEKyYSplfAgMBAAECgYBaPvwkyCTKYSD
+
+140468: Tokens: 18 characters: 29
+KIQkeYQJVCUukIWzyaLkuetBZslgG
+
+140469: Tokens: 18 characters: 33
+QohFaskXdLgwLOELLQkjnnVbVnQxehtIq
+
+140470: Tokens: 18 characters: 30
+QdmPexNMgvscrieaagMLkIYZmnRGPv
+
+140471: Tokens: 18 characters: 33
+RKEIIIdQUiSKEEEJNkShCCCHUVGqikDRa
+
+140472: Tokens: 18 characters: 31
+VWVqaCggIlJSVZXRLCWEeNVUpLSxUTE
+
+140473: Tokens: 18 characters: 74
+WSLä¸Ĭãģ§åĪ©çĶ¨åı¯èĥ½ãģªLinuxãĥĩãĤ£ãĤ¹ãĥĪãĥªãĥĵãĥ¥ãĥ¼ãĤ·ãĥ§ãĥ³ãģ¨ãģĹãģ¦ãģ¯
+
+140474: Tokens: 18 characters: 33
+eHqAUoaGhsawpdWitmfHxBAoUeonmrTvG
+
+140475: Tokens: 18 characters: 34
+iWYkrdyyNitaRFaftlwFHAFZKCYuKkcrPU
+
+140476: Tokens: 18 characters: 31
+kIGluIHRoZSBQQVRFTlRTIGZpbGUgaW
+
+140477: Tokens: 18 characters: 31
+oLVokZWVZVCQAiXAGwsOyZdLChZLLJZ
+
+140478: Tokens: 18 characters: 29
+rBEJEmoDZOIUCCTaDPgWefcpGYbzX
+
+140479: Tokens: 18 characters: 34
+sKDoCDWBwRIMOciaTkLIUQhFhUVRcOGDZk
+
+140480: Tokens: 18 characters: 27
+tJSDRkyxOpygLDGyBmAJKmkpETx
+
+140481: Tokens: 18 characters: 33
+uRAkDhHQmZMJloloAvZUuFqtldxrKNqPZ
+
+140482: Tokens: 18 characters: 32
+vHvTehKlSIlGLqgQCgGBJQAAYOoICCQw
+
+140483: Tokens: 18 characters: 32
+xQyBanWGpQqafOKzDXFuyoZlgXeDYjbF
+
+140484: Tokens: 18 characters: 20
+ËĮpÉĴlÉªËĪÉ¡lÉĴsÉªÉĻ
+
+140485: Tokens: 18 characters: 18
+àºģàºĦàº°àºªàº²àº§
+
+140486: Tokens: 18 characters: 58
+Ġãģ«ãĥĹãĥŃãĤ°ãĥ©ãĥłãĤĴè²¼ãĤĬä»ĺãģĳãĤĮãģ°åĭķãģıãģ®ãģ§ãģĻãģŃ
+
+140487: Tokens: 18 characters: 58
+ĠãĥīãĤŃãĥ¥ãĥ¡ãĥ³ãĥĪãģĭãĤīãģ®æĬľç²ĭãģ§åĽŀçŃĶãģĦãģŁãģĹãģ¾ãģĻ
+
+140488: Tokens: 18 characters: 58
+ĠåĪ¤æĸŃå½ĵåīįçļĦç§»åĬ¨æĺ¯æ»ļåĬ¨è¿ĺæĺ¯ç»Ħä»¶çļĦå·¦åı³ç§»åĬ¨
+
+140489: Tokens: 18 characters: 40
+Ġå¾®èĻķçĲĨåĻ¨ä¸ĬçļĦéĿŀå°įç¨±å¤ļèĻķçĲĨåº«
+
+140490: Tokens: 18 characters: 52
+Ġåħģè¨±ä½łå®ļç¾©è¨ªåķıè¨±åı¯èĢĮä¸įåıªä½ľçĶ¨æĸ¼åĢīåº«
+
+140491: Tokens: 18 characters: 30
+acAXebEOTdMWAtuBxpqmJWiaNkwplQ
+
+140492: Tokens: 18 characters: 40
+ĠgctagCTGCAGgaccagaaagagcaagagccaatattct
+
+140493: Tokens: 18 characters: 38
+ĠUUUUAAAAAGAUACUUCUGUAACUUAAGAAACCUGGC
+
+140494: Tokens: 18 characters: 33
+oryiCGBOeMzIkjnHMohUfHOFJOmRJtzqy
+
+140495: Tokens: 18 characters: 30
+loQshHAtMkIWQggnkYbzsSRkIYRrkZ
+
+140496: Tokens: 18 characters: 98
+ĠWehaveextensiveexperienceincharacterizingcomplexbiopharmaceuticalmixturesintermsoftheirstructural
+
+140497: Tokens: 18 characters: 31
+ItVVSSmQRMFDtoEYSIYmgvVNSpqSMgX
+
+140498: Tokens: 18 characters: 33
+ngBPrwtHrhAYaqeguuDJXwAKbstHrhAGq
+
+140499: Tokens: 18 characters: 35
+brOVWHFNGUQHOjzDWIcRAYESUbVCsHrfAHE
+
+140500: Tokens: 18 characters: 56
+ĠproteinGGCCTCATAACACCGTGGAATTACCAGCAGCATTGATCGANegative
+
+140501: Tokens: 18 characters: 56
+ĠproteinTCCCAGCATACTCGTCCAACCCTCAACCTAGGCATGCCAANegative
+
+140502: Tokens: 18 characters: 56
+ĠproteinTTGTCCTCCTCCTCAGATGAACCACCAGCAAGAACGTCAANegative
+
+140503: Tokens: 18 characters: 61
+NameãĥĹãĥŃãĥĳãĥĨãĤ£ãģ«åī²ãĤĬå½ĵãģ¦ãĤĭãģĵãģ¨ãģ¯åĩºæĿ¥ãģ¾ãģĽãĤĵ
+
+140504: Tokens: 18 characters: 40
+0426997930679377659475472878147783717395
+
+140505: Tokens: 18 characters: 31
+HeaycJeFegdzYPCOEKLncfAPTNscycf
+
+140506: Tokens: 18 characters: 66
+Ġworkingimpatientmoodyexcitableimpulsivecalmimaginativeseriouseasy
+
+140507: Tokens: 18 characters: 59
+ĠfactorACAGTCATACTAGATGAAGGCGGTGATGCAATGTGGTCAGATGANegative
+
+140508: Tokens: 18 characters: 33
+|\\.|-|/|\\\\|,|\\$|\\!|\\?|:|;';
+
+140509: Tokens: 18 characters: 67
+despitethefactthatheparinhasbeenqualitycontrolledandusedinclinicfor
+
+140510: Tokens: 18 characters: 56
+likeAGTAAGGTCAAATGTGGAGCCAAGAACGTTAATACTGGCCATCGNegative
+
+140511: Tokens: 18 characters: 29
+PsjCTllJAsgGIJJxojJJCWfjByDhO
+
+140512: Tokens: 18 characters: 78
+jsãģ®ãĤ¿ãĤ°ãģĮãģĤãĤĭãģ®ãģ«æĹ¥æľ¬ãģ®stackoverflowãģ¯ãĤ¿ãĤ°ãģĮãģªãģĦãĤĪãģĨãģ§ãģĻ
+
+140513: Tokens: 18 characters: 27
+._%+-/!#$%&''*=?^_`{|}~]+@[
+
+140514: Tokens: 18 characters: 37
+AAUCAUAUUUUGUCUUUAGGUAAAAGCUUUGGUUUGU
+
+140515: Tokens: 18 characters: 33
+nsVwCIOoBAWCSGWZWkqWsRBFMIiISQvLw
+
+140516: Tokens: 18 characters: 32
+UsgsxzGnaqWqZRCitEErpxVTcNlRnufq
+
+140517: Tokens: 18 characters: 33
+BIeZxtiUTdxuZaciaIzclUGpQsKZNQMaZ
+
+140518: Tokens: 18 characters: 54
+ä»²éĸĵãģŁãģ¡ãģ®æ¥½ãģĹãģĦãģĬè©±ãģĮèģŀãģĵãģĪãģ¦ãģįãģ¾ãģĻ
+
+140519: Tokens: 18 characters: 32
+FIQYgJuNyijYZTtwDkDDyqutwXavBJFM
+
+140520: Tokens: 18 characters: 31
+BEwARgMpAwVKwvsBiLNzFjfuTNjxozh
+
+140521: Tokens: 18 characters: 86
+ãģ®CGåĪ¶ä½ľãĤĴæīĭãģĮãģĳãģŁãĥĢãĥ³ãĥĩãĥ©ãĤ¤ãĤªãĥ³ãĤ¢ãĥĭãĥ¡ãĥ¼ãĤ·ãĥ§ãĥ³ãĤ¹ãĤ¿ãĤ¸ãĤªLLCãģ¨
+
+140522: Tokens: 18 characters: 50
+ãģ®RyzenæĲŃè¼īãĥ¢ãĥĩãĥ«ãģ§ãĤĤæİ¡çĶ¨ãģķãĤĮãģ¦ãģĬãĤĬ
+
+140523: Tokens: 18 characters: 29
+NRKzkArvElcZDYeNNlOqJKEUWOuCI
+
+140524: Tokens: 18 characters: 40
+0161306887856867703966368609788673005312
+
+140525: Tokens: 18 characters: 60
+åľ¨æľ¬æĮĩåįĹä¸Ńå°Ĩä¼ļè¯¦ç»Ĩæ¶īçĮİåĪ°è¿Ļä¸¤ä¸ªä¸»è¦ģçļĦå±ŀæĢ§
+
+140526: Tokens: 18 characters: 69
+åľ¨ç½ĳé¡µçļĦæĸĩæľ¬æ¡Ĩä¸Ńè¾ĵåħ¥æĸĩåŃĹè¿Ļæł·çļĦæĵįä½ľå°±ä¸įä¼ļè¢«å½ķåĪ¶
+
+140527: Tokens: 18 characters: 36
+ä¸ĢéĤĬå¾Ĵåĭŀåľ°å°įæĬĹæ®ĺå¿įçļĦæľ¬æĪĳ
+
+140528: Tokens: 18 characters: 42
+çĶļèĩ³æĺ¯è®©ä½łåĺ²ç¬ĳåĪ«çļĦåĮ»çĶŁçļĦæľºä¼ļ
+
+140529: Tokens: 18 characters: 39
+çĶļèĩ³è¢«å¥īä¸ºå¾·é«ĺæľĽéĩįçļĦå¤§å¸Īä»¬
+
+140530: Tokens: 18 characters: 51
+ãģ§æııãģĭãĤĮãģŁçī©èªŀãģ«æĸ°è¦ıè¦ģç´łãĤĴå¤ļæķ°åĬłãģĪ
+
+140531: Tokens: 18 characters: 58
+WindowsãĥĳãĤ¹ãģ®æŃ£ç¢ºãģªéķ·ãģķãĤĴæķ°ãģĪãģŁãģĦãģ®ãģ§ãģĻãģĮ
+
+140532: Tokens: 18 characters: 54
+å¦Ĥæŀľè¶ħè¿ĩè¿Ļä¸ªæĹ¶åĢĻè¿ĺæ²¡æľīéĶĢæ¯ģå°±å¼ºåĪ¶éĶĢæ¯ģ
+
+140533: Tokens: 18 characters: 54
+ãģªãģ©å¹ħåºĥãģĦä½ľåĵģãģ§æ´»èºįãģĹãģ¦ãģĦãĤĭåĲīçĶ°çİ²åŃĲ
+
+140534: Tokens: 18 characters: 63
+ãĤ¹ãĤ¯ãĥ¼ãĥ«ãĤ¢ãĤ¤ãĥīãĥ«ãĥķãĤ§ãĤ¹ãĥĨãĤ£ãĥĲãĥ«æĸ°æĥħåł±çĻºè¡¨ä¼ļ
+
+140535: Tokens: 18 characters: 42
+æľīåı¯èĥ½åľ¨æŁĲä¸ªå²Ľä¸ĬæĦŁæŁĵäºĨç±»é¼»çĸ½
+
+140536: Tokens: 18 characters: 51
+æĪĳåİŁä»¥ä¸ºä½łæĺ¯ä¸ºäºĨæİ©æĬ¤åį¡çī¹çº³æīįè¯´è°İçļĦ
+
+140537: Tokens: 18 characters: 36
+æĪĳéĽĩäºĨä¸Ģä½įæĤ²çĹĽå¿ĥçĲĨåĴ¨è¯¢å¸Ī
+
+140538: Tokens: 18 characters: 39
+å¾Ģå¾ĢæĽ´çĶļäºİå¯¹éķ¿æľŁç»ıæµİçļĦå½±åĵį
+
+140539: Tokens: 18 characters: 57
+ĠputativeACACTGAGATGCATGCACCATACCTGGTTTTGGCTGTGTTPositive
+
+140540: Tokens: 18 characters: 57
+ĠputativeGGGGGCTAGTCTTCTCTTCTGGCAACAAGGTGGAAAGACGNegative
+
+140541: Tokens: 18 characters: 57
+ĠputativeACAACACCCATCGACTTCCCTGCAGAGCCAGATTTCAGGTPositive
+
+140542: Tokens: 18 characters: 58
+ĠputativeAGAGCACTAACCTCTTTAGCAGACTGCAAAGACCCCACAGAPositive
+
+140543: Tokens: 18 characters: 57
+ĠputativeGCTGCAGCAATGTAATTGGACCTCTGACCATCATCGCTGANegative
+
+140544: Tokens: 18 characters: 63
+æľ¬é¡¹çĽ®ä¸ŃçļĦæĸĩç«łä¼ļåĽ´ç»ķåįķé¡µåºĶçĶ¨ä¸İå¤ļé¡µåºĶçĶ¨å±ķå¼Ģ
+
+140545: Tokens: 18 characters: 69
+ãĤ¯ãĥ©ãĥ³ãĥģãĥŃãĥ¼ãĥ«ãģ§äººæ°ĹãĤĴåįļãģĹãģ¦ãģĦãĤĭãĤ¤ãĥ©ãĤ¹ãĥĪãĥİãĥĻãĥ«
+
+140546: Tokens: 18 characters: 42
+å¦ĤåĮĹä¸Ģçİ¯è·¯åĴĮéĺľéĺ³è·¯çļĦäº¤åıīè·¯åı£
+
+140547: Tokens: 18 characters: 39
+ä½łè¦ģæĺ¯æĥ³é¡ºçĿĢéĺ²çģ«æ¢¯çĪ¬åĪ°äºĶæ¥¼
+
+140548: Tokens: 18 characters: 42
+ä½łå¯¹ç§»æ¤įå§Ķåĳĺä¼ļæĴĴè¿ĩå¤ļå°ĳæ¬¡è°İäºĨ
+
+140549: Tokens: 18 characters: 60
+äººéĸĵãģĮçĶŁãĤĵãģłæĸĩåĮĸãĤĴå¥ªãģĦåİ»ãģ£ãģ¦ãģĦãģ£ãģ¦ãģĹãģ¾ãģĨ
+
+140550: Tokens: 18 characters: 38
+MFhGRsnTrSUREylKgEBGRshQoRESkLAUKEREpS
+
+140551: Tokens: 18 characters: 40
+0758940798066644065961909929041162570229
+
+140552: Tokens: 18 characters: 60
+çĶŁãģ¾ãĤĮãģªãģĮãĤīãģ«éŃĶæ³ķãģĮä½¿ãģĪãģªãģĦå°ĳå¹´ãĤ¢ãĤ¹ãĤ¿ãģ¯
+
+140553: Tokens: 18 characters: 54
+ä»ĸèªįçĤºèĩªæĪĳåĪĨè£ĤçĤºæĦıèŃĺèĪĩæ½ĽæĦıèŃĺåħ©åĢĭéĥ¨åĪĨ
+
+140554: Tokens: 18 characters: 33
+JTJGMDIlMkYxNSUyRnNwYWNlLWhhcnBvb
+
+140555: Tokens: 18 characters: 57
+é»ĺè®¤è´¦æĪ·æĺ¯ä¸įåħ·å¤ĩå¯¹è¯¥æĸĩä»¶å¤¹çļĦåĨĻåħ¥æĿĥéĻĲçļĦ
+
+140556: Tokens: 18 characters: 45
+ä»¥ä¾¿æİĴéĻ¤åĽłå¥Ĺä»¶è¡ĿçªģæīĢçĶ¢çĶŁçļĦåķıé¡Į
+
+140557: Tokens: 18 characters: 62
+MERCHANTçļĦåĨħå®¹é«ĺåº¦ä¸įèĥ½é«ĺäºİéĴ±åĮħè¦ģæ±ĤçļĦå±ķä½įé«ĺåº¦
+
+140558: Tokens: 18 characters: 40
+ĠtaagcaCCCGGGtcgagcatatgattattctgctcactg
+
+140559: Tokens: 18 characters: 31
+GyYMAAyMiApCQzNYYJhbCISDjJyoIJE
+
+140560: Tokens: 18 characters: 33
+å°ıåŀĭè»Ĭè¼Ľåľ¨éĲµéģĵä¸ĬæĮ¯åĭķæĲĸ
+
+140561: Tokens: 18 characters: 42
+å°±å½ĵè¿Ļæĺ¯åĵ¥æĸ¯è¾¾é»İåĬłéĨĴéħĴæŀľæ±ģåĲ§
+
+140562: Tokens: 18 characters: 45
+çĦ¶å¾Įåģĩè£Ŀæĺ¯å¾Ģèĩªå·±æĥ³åİ»çļĦåľ°æĸ¹åīįéĢ²
+
+140563: Tokens: 18 characters: 54
+åĲĮæ¨£çļĦéłģéĿ¢æ¯ıåĢĭäººçľĭåĪ°çļĦæĥħæ³ģåı¯èĥ½éĥ½ä¸įåĲĮ
+
+140564: Tokens: 18 characters: 48
+ä¹Łå°±æĺ¯èĩªæĪĳçĦ¡æ³ķæī¾åĪ°åĲĪéģ©çļĦå¦¥åįĶè¾¦æ³ķ
+
+140565: Tokens: 18 characters: 69
+è®Ńç»ĥå¾ĹåĪ°çļĦæ¨¡åŀĭä¼ļåľ¨çĽ¸åĲĮçļĦæķ°æį®éĽĨä¸Ńæī¾åĪ°çĽ¸åĲĮçļĦè§Ĥæµĭ
+
+140566: Tokens: 18 characters: 33
+ZXIiOiJjYnNkaWdpdGFsbWVkaWEuZDEuc
+
+140567: Tokens: 18 characters: 31
+KlTmjVrltauXasvvviCYAbQoxHOuKDk
+
+140568: Tokens: 18 characters: 52
+qPCRGGAAACCAGGAAGCCTAGCAGATCATAGATTAACATTTTCGAGAGCAA
+
+140569: Tokens: 18 characters: 51
+ä½ķãģĭãĤ¢ãĥīãĥĲãĤ¤ãĤ¹ãĤĴéłĤãģĳãģŁãĤīå¬īãģĹãģĦãģ§ãģĻ
+
+140570: Tokens: 18 characters: 39
+åł±åĲįæŃ¤çµĦå°ĩæľīæ©Łæľĥçį²å¾Ĺé¡įå¤ĸçļĦ
+
+140571: Tokens: 18 characters: 31
+QRFMTAmVuMBMGBgQAjkYBBjAJBgcEAI
+
+140572: Tokens: 18 characters: 32
+OmTBmSkpKYMWMGkZGRWTpHQSfhLIQQBm
+
+140573: Tokens: 18 characters: 39
+çľŁæĺ¯åľ¨ä»ĸèĥĮåĲİçĭłçĭłç»ĻäºĨä¸ĢåĪĢåķĬ
+
+140574: Tokens: 18 characters: 69
+KGgoAAAANSUhEUgAAAZEAAAEPCAYAAACDTflkAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
+
+140575: Tokens: 18 characters: 42
+ãĤªãĥ¼ãĥĬãĥ¼ãģ®å¤©è¦ĭãģĮä¸ĢåĮ¹ãģ®æŁ´çĬ¬ãĤĴ
+
+140576: Tokens: 18 characters: 72
+æĥ³è±¡ä¸Ģä¸ĭæĪĳä»¬éľĢè¦ģä¾Ŀèµĸäºİåľ¨ä»£çłģè¿Ĳè¡Įè¿ĩç¨ĭä¸Ńèİ·å¾ĹçļĦåıĺéĩı
+
+140577: Tokens: 18 characters: 42
+çĦ¡æĦıèŃĺåħ¶å¯¦éģįä½Īå¿ĥéĿĪçļĦæ¯ıåĢĭè§ĴèĲ½
+
+140578: Tokens: 18 characters: 66
+èĢĮæĺ¯çĶ±äºİè®¸å¤ļåºĵéĢļå¸¸éĥ½ä¼ļéĿĻæĢģéĵ¾æİ¥åĪ°åı¯æī§è¡Įæĸĩä»¶ä¸Ń
+
+140579: Tokens: 18 characters: 36
+ä½Ĩåħ¶å¯¦å®ĥæĺ¯èĢ³ä¸Ńä¸Ģç¨®çĭĤçĨ±çļĦ
+
+140580: Tokens: 18 characters: 32
+PgplbmRvYmoKeHJlZgowIDgKMDAwMDAw
+
+140581: Tokens: 18 characters: 32
+VmIPgIZwDnRfMRIPhYcwbQocbGRjmdTh
+
+140582: Tokens: 18 characters: 94
+ĠHeterogeneityandcomplexityofbiopharmaceuticalagentsdevelopedoverthepastdecadeorsocanbedefined
+
+140583: Tokens: 18 characters: 31
+qzInTZpkcUUyHKlzFpEhFxoaSkFBAXl
+
+140584: Tokens: 18 characters: 66
+çĶ¨äºİçĽ´æİ¥å°Ĩæĸ°æķ°æį®æĭ¼æİ¥åľ¨æĹ§æķ°æį®ä¹ĭåĲİçļĦtableViewåĪ·æĸ°
+
+140585: Tokens: 18 characters: 66
+çĶ¨äºİçĽ´æİ¥å°Ĩæĸ°æķ°æį®æıĴåľ¨æĹ§æķ°æį®åīįéĿ¢çļĦtableViewçļĦåĪ·æĸ°
+
+140586: Tokens: 18 characters: 69
+çı¾åľ¨ãģ©ãģĵãģĭãĤīãģ©ãģĵãģ¾ãģ§ãĤĴèªŃãģ¿è¾¼ãĤĵãģłãģĭãĤĴç¤ºãģĻãĤĤãģ®ãģ§
+
+140587: Tokens: 18 characters: 34
+FQOBQDxUOJkBCSQPnQJqgYKoOqoUNQPfQj
+
+140588: Tokens: 18 characters: 60
+ãģĵãģ®å¾ħæ©ŁæĻĤéĸĵãĤĴãģªãģıãģĻãģŁãĤģãģ«ä»»æĦıãģ®ç¯ĦåĽ²ãģłãģĳ
+
+140589: Tokens: 18 characters: 33
+(?<='[^']+\{)[^\{\}]+(?=\}[^']+')
+
+140590: Tokens: 18 characters: 36
+MIIEpgIBAAKCAQEAvcKfLNKnJXnwPyllrNOM
+
+140591: Tokens: 18 characters: 55
+ĠgRNAACCGGCGCCTCTTCAGCAACCCCATAAACATGGGGTTGCTGAAGAGGCGC
+
+140592: Tokens: 18 characters: 82
+ãģ¨ãģĦãģĨãĤ¿ãĤ¤ãĥĪãĥ«ãģ§ãĤ³ãĥŁãĥĥãĤ¯çĻ¾åĲĪå§«Sãģ«éĢ£è¼īãģķãĤĮãģ¦ãģĦãģŁä½ľåĵģãģłãģĮ
+
+140593: Tokens: 18 characters: 42
+è«ĭç¢ºå®ļæĤ¨å·²éĢ£ä¸Ĭç¶²è·¯å¾ĮåĨįè©¦ä¸Ģæ¬¡
+
+140594: Tokens: 18 characters: 54
+ä»ĬåĽŀãģ¯ãģķãĤīãģ«å¹¼ãģıè¦ĭãģĪãĤĭå§¿ãģ«ãģªãģ£ãģ¦ãģĬãĤĬ
+
+140595: Tokens: 18 characters: 48
+ä»Ĭå¾Įãģ¨ãĤĤå®ľãģĹãģıãģĬé¡ĺãģĦçĶ³ãģĹãģĤãģĴãģ¾ãģĻ
+
+140596: Tokens: 18 characters: 31
+UWqDCIHARtKyxvTurKVwMkAkuZTRNKD
+
+140597: Tokens: 18 characters: 45
+æĬĬä»ĸåĴĮä»ĸå¼±å°ıçļĦåħįçĸ«ç³»ç»Łéĥ½æĶ¾åĢĴäºĨ
+
+140598: Tokens: 18 characters: 32
+iYbjNjBLzXGKRkEkAjLJMoZkKSHCbadw
+
+140599: Tokens: 18 characters: 33
+æĦŁæ¿Ģæ¶ķéĽ¶çļĦå£°éŁ³åĵįå½»ç¥ŀå·ŀ
+
+140600: Tokens: 18 characters: 69
+ãĥļãĥ¼ãĤ¸ä¸Ĭãģ®ä»»æĦıãģ®ãĥĨãĤŃãĤ¹ãĥĪãĤĴãĤ«ãĤ¹ãĤ¿ãĥŀãĤ¤ãĤºãģ§ãģįãģ¾ãģĻ
+
+140601: Tokens: 18 characters: 69
+è®©éĢļè¿ĩåĪĨäº«è¿Ľåħ¥äºĮçº§é¡µéĿ¢çļĦçĶ¨æĪ·èĥ½å¤Łè½»æĿ¾åľ°è¿ĶåĽŀé¦ĸé¡µ
+
+140602: Tokens: 18 characters: 45
+ä½Ĩæĺ¯åĲİæĿ¥ä¸Ģæĥ³åħ»çĮªçļĦä¹Łå¾Ĺè¿Ľåİ»åĸĤçĮª
+
+140603: Tokens: 18 characters: 42
+ä½Ĩæĺ¯ä¹Łæľªåħįæ²¦ä¸ºå½ĵå±Ģæĸ°æĶ¿çļĦèĦĤç²ī
+
+140604: Tokens: 18 characters: 57
+ä½Ĩæĺ¯æŃ¤åĩĨåĪĻä¼ĺåħĪäºİä¸ĭéĿ¢çļĦæĽ´å¸¸è§ģçļĦéĽĨåĲĪåİŁåĪĻ
+
+140605: Tokens: 18 characters: 66
+Ġåľ¨dumpsæĹ¶å°Ĩç±»å®ŀä¾ĭçļĦåħ¨éĥ¨å±ŀæĢ§è¦ĨçĽĸæ¨¡ç³Ĭèİ·åıĸçļĦå±ŀæĢ§
+
+140606: Tokens: 18 characters: 95
+Ġå¦ĤæŀľViewControllerä¸ŃåĮħåĲ«scrollViewå¹¶ä¸Ķä½łæĥ³scrollViewæ»ĳåĬ¨åĴĮæĭĸæĭ½æīĭåĬ¿åĲĮæĹ¶åŃĺåľ¨
+
+140607: Tokens: 18 characters: 66
+ãģ¨ãģĹãģ¦æģĲãĤĮãĤīãĤĮãģŁåĬĽãĤĴèĩªåľ¨ãģ«æĵįãĤĭãģĵãģ¨ãģ«æĪĲåĬŁãģĹãģŁ
+
+140608: Tokens: 18 characters: 66
+ä¸ŃåĽ½ãģ§å®ŁéļĽãģ«éĸĭåĤ¬ãģķãĤĮãģ¦ãģĦãĤĭãĥŃãĥľãĥĥãĥĪãĤ³ãĥ³ãĥĨãĤ¹ãĥĪ
+
+140609: Tokens: 18 characters: 66
+ãģĵãĤĮãģ®çľŁãĤĵä¸Ńãģ®æĻĤåĪ»ãģĭãĤīåĨįçĶŁãĤĴéĸĭå§ĭãģĻãĤĭãĤĤãģ®ãģ§ãģĻ
+
+140610: Tokens: 18 characters: 66
+ĠribonucleoproteinTGATGAGCTCGGAGGAGTCAAAGTGGCTGGGATTCAAGGGNegative
+
+140611: Tokens: 18 characters: 31
+dKckwsZIEUddIzWigZPMaRVEHCiWQVM
+
+140612: Tokens: 18 characters: 32
+ÃĢÃłÃģÃ¡ÃĤÃ¢ÃĦÃ¤ÃĨÃ¦ÃĥÃ£ÃħÃ¥ÄĢÄģ
+
+140613: Tokens: 18 characters: 39
+æ¸ħæ´Ĺç¾İå¸ĿæĸĩåĮĸä¾µçķ¥ç»ĻæĪĳçļĦä½Ļæ¯Ĵ
+
+140614: Tokens: 18 characters: 87
+æĹ¥æľ¬ãģ®ãĤ¯ãĥªãĤ¨ãĤ¤ãĤ¿ãĥ¼ãģ®æīĭãģ«ãĤĪãģ£ãģ¦çĶŁãģ¿åĩºãģķãĤĮãģŁãĤªãĥªãĤ¸ãĥĬãĥ«ãĤ¢ãĥĭãĥ¡
+
+140615: Tokens: 18 characters: 36
+ä¸ĩåĪ©å¯Įè¾¾èĳ£äºĭéķ¿èĥ¡ä¼Łæ¶Ľè®¤ä¸º
+
+147136: Tokens: 17 characters: 40
+6137509299975896444366910142953486229089
+
+147137: Tokens: 17 characters: 29
+BTEwgVEVTVCBQREYgRklMRSkgVGoK
+
+147138: Tokens: 17 characters: 32
+CQQDgNLxVcByrVgmRmTPTwLhSfIveOqE
+
+147139: Tokens: 17 characters: 31
+GtdGcQCpEWVynmtpFBBfyiGEMIBsXgd
+
+147140: Tokens: 17 characters: 33
+IijoWTBnRUpAnziRnZJFITJjxgzKlSvHJ
+
+147141: Tokens: 17 characters: 29
+JPRTCCGcXjLeMaQKcFFrfVlrHQqsA
+
+147142: Tokens: 17 characters: 34
+RCYLKQGDKTYTTKEINQIFDELIDLMKTKQILI
+
+147143: Tokens: 17 characters: 28
+WOTQGQJNItBlxmyRVVFJUJCCPiwD
+
+147144: Tokens: 17 characters: 29
+ZdfFMxiKwpnEbFMamoqTqeTsrKygK
+
+147145: Tokens: 17 characters: 33
+bKVIiLAsiyFDhtClSxcyMzNNlyMSEkpLS
+
+147146: Tokens: 17 characters: 26
+fMaEwzctfRPABcCRcAqEXlHVTc
+
+147147: Tokens: 17 characters: 29
+gGlgDZKqVIvNOsGPNJaFwVmAtMiyu
+
+147148: Tokens: 17 characters: 29
+jFFuFeotwgYzQHsAJiSoCmoNCFdhN
+
+147149: Tokens: 17 characters: 29
+jJZMQQghNUmaiKFJdNBqYbntdYDjw
+
+147150: Tokens: 17 characters: 29
+kajFoMWqqYUGGdFrzjUnLidShXatn
+
+147151: Tokens: 17 characters: 31
+kSeSUMDNQwzCyJCQlKIIlIfsFMDNUFR
+
+147152: Tokens: 17 characters: 28
+lBcLGVnewRziqRKSZGtHtsraWjrF
+
+147153: Tokens: 17 characters: 29
+sLYGvggQKxhhDCYHAzLdROUSRRbGz
+
+147154: Tokens: 17 characters: 29
+sNYxkisSWlXNtRpEoRoHWQOwjTzMi
+
+147155: Tokens: 17 characters: 29
+tWsEBPhTuPBLfDhyGGFhYfTtPxAfn
+
+147156: Tokens: 17 characters: 31
+wKSgRigPfAQcKLqAZXnPbdsCVChBmRn
+
+147157: Tokens: 17 characters: 31
+wKXwXXEcZcyNEomxjWPmNBpagMZQuNu
+
+147158: Tokens: 17 characters: 27
+xPskxHcdpApHqjBpUUFgCwtnYvR
+
+147159: Tokens: 17 characters: 24
+æ®ĸæ°ĳåĨĽæĪĺå£«éķŃå°Ħæŀª
+
+147160: Tokens: 17 characters: 45
+é¬¼çķľç¨İçĲĨå£«ãģ®å¤§éĩİãĤ¢ãĤ·ãĥ¥ãĥªãĥ¼ãģªãģ©
+
+147161: Tokens: 17 characters: 48
+éŃļãģ«ãģªãģ£ãģŁãĤĬå®ĩå®ĻäººãģĮãĤĦãģ£ãģ¦ãģįãģŁãĤĬ
+
+147162: Tokens: 17 characters: 32
+ĠèĵĿé²¸æĻºäºĳPaaSå¹³åı°ç¤¾åĮºçīĪ
+
+147163: Tokens: 17 characters: 64
+Ġåı¯ä»¥éĢļè¿ĩåĳ½ä»¤è¡Įæİ¥åı£æİ§åĪ¶è¾¾åĪ°ç½ĳé¡µèĩªåĬ¨åĮĸçļĦçĽ®çļĦ
+
+147164: Tokens: 17 characters: 34
+Ġè¨Ńè¨Īå·¥åħ·åĲĪä½µéĩįè¤ĩç¨ĭå¼ıç¢¼
+
+147165: Tokens: 17 characters: 58
+Ġè®Ńç»ĥåĩĨç¡®åº¦éļıçĿĢæ¨¡åŀĭå¤įæĿĤåº¦æĽ´åĬłå¤įæĿĤèĢĮåįĩé«ĺ
+
+147166: Tokens: 17 characters: 46
+Ġè¿Ļä¸ªç»Ħä»¶åľ¨éĥ¨åĪĨå®īåįĵæľºä¸Ĭåį¡é¡¿æĺİæĺ¾
+
+147167: Tokens: 17 characters: 64
+Ġåı¯èĥ½ä¸įæĶ¯æĮģåĮħåĲ«åįĥçº§æķ°éĩıä»¥ä¸Ĭæĸĩä»¶çļĦæĸĩä»¶å¤¹å±ķç¤º
+
+147168: Tokens: 17 characters: 55
+ĠæĿ¾æīĭåĲİçļĦç§»åĬ¨çī¹æĢ§åĨ³å®ļæľĢç»Īåģľåľ¨åĵªä¸ªä½įç½®
+
+147169: Tokens: 17 characters: 43
+Ġåħģè¨±çĶ¨æĪ¶åīµå»ºåĢīåº«åŁºæĸ¼èĲ¬çĶ¨åŃĹåħĥ
+
+147170: Tokens: 17 characters: 30
+asgLIQphESfSpSSOtXfvXhYuXEhOTg
+
+147171: Tokens: 17 characters: 61
+apcwormsViewfinderintelligrowthAppletonfertilizerNewscastings
+
+147172: Tokens: 17 characters: 59
+ĠGlorrrrrrrrrrrrrrrrrRRRRRRRRRRRRRRYYYYYYYYYYYYYYYYYYYYYYYY
+
+147173: Tokens: 17 characters: 38
+ĠGUUAAAUUAUGUUCUUAACUGUAACCAGUUUUUUUUU
+
+147174: Tokens: 17 characters: 42
+ĠGitoliteåı¯ä»¥å¹«åĬ©ä½łç¶ŃèŃ·å¤ļåĢĭéı¡åĥı
+
+147175: Tokens: 17 characters: 38
+ĠUUGGGGGUUAACUUUGCUUAAUUCCUCAGGCUUUGCG
+
+147176: Tokens: 17 characters: 40
+4081010052046954634553943552788268789300
+
+147177: Tokens: 17 characters: 62
+ĠproteinACCGAGTCGAAAGAGGAAGCAAGGGCAGAGTCGAGCTTTCNegativeFigure
+
+147178: Tokens: 17 characters: 60
+ãĥĽãĥ©ãĥ¼ãģ¨ãģĦãģĨåĲįåīįãĤĴéĻ¤ãģĦãģ¦åħ±éĢļçĤ¹ãģ¯ãģªãģĦãģ®ãģ§
+
+147179: Tokens: 17 characters: 40
+0211779059468954864077781851186554895605
+
+147180: Tokens: 17 characters: 32
+TRKQSBYpJTASKOWxRmBmXLOnileFTpLN
+
+147181: Tokens: 17 characters: 48
+CAACGAGGCTGACCGAAAGACTCCACTCGCCCATCTTCTCPositive
+
+147182: Tokens: 17 characters: 33
+çļĦæ©Ħæ¦ĦçĲĥèµĽä¸ŃèĦ±åħīäºĨè¡£æľį
+
+147183: Tokens: 17 characters: 35
+ubeWWLgUpZwILcelyRbCjddyTUKsGmrFApQ
+
+147184: Tokens: 17 characters: 32
+sfkjsdjsdlfjsdkfjksdjfdsjfksfdks
+
+147185: Tokens: 17 characters: 29
+SUIWQriUtHymniRkIYRLkWtZCCGEk
+
+147186: Tokens: 17 characters: 33
+guRqwyLSfiVkIANGAuXOudXOuVrgZeBin
+
+147187: Tokens: 17 characters: 30
+DLxXTOYdIznCUsSZMoIxakBVVrLFvA
+
+147188: Tokens: 17 characters: 37
+UCUCUUUAAUCUUUUUUUAUUAUUAAAAGCAAGUUUC
+
+147189: Tokens: 17 characters: 31
+dxVrNYyPAiIcUHYIvFoMROuLadbSXLE
+
+147190: Tokens: 17 characters: 29
+SLpZtaMAQuMFltbTbXqdJRLegDLyR
+
+147191: Tokens: 17 characters: 74
+ãģ®DOMãĥĹãĥŃãĥĳãĥĨãĤ£preloadãģĮæĹ¢å®ļãģ§autoãģ«ãģªãģ£ãģ¦ãģĦãĤĭãģŁãĤģãģ§ãģĻ
+
+147192: Tokens: 17 characters: 54
+ãģ®çµĲæŀľãĤĴãĥ¡ãĥ¢ãģĹãģŁãģĦåł´åĲĪãģ«å½¹ç«ĭãģ¤ãģłãĤįãģĨ
+
+147193: Tokens: 17 characters: 84
+ãģ®ãĤĪãģĨãģ«å¤īæĽ´å¾Įãģ®ãĥĨãĥ¼ãĥĸãĥ«ãĤĴå®Łè¡ĮæĻĤãģ«æ§ĭæĪĲãģĻãĤĭãģĵãģ¨ãģĮãģ§ãģįãģ¾ãģĻ
+
+147194: Tokens: 17 characters: 39
+æķ°å¤ļãģ®æĮ«æĬĺãĤĴçµĮé¨ĵãģĹãģªãģĮãĤīãĤĤ
+
+147195: Tokens: 17 characters: 60
+ãģĹãģĭãĤĤæĶ«ãĤıãĤĮãģŁå®ĿçŁ³ãģ¯åĬłå·¥ãģķãĤĮãģ¦æŃ¦åĻ¨ãģ¨ãģªãĤĬ
+
+147196: Tokens: 17 characters: 71
+WebAudioAPIãĤĴçĶ¨ãģĦãģ¦Audioè¦ģç´łãĤĴJavaScriptãģ§åĪ¶å¾¡ãģĹãģ¦ãģĦãģ¾ãģĻ
+
+147197: Tokens: 17 characters: 66
+therearemultiplepalindromesinheretherearemultiplepalindromesinhere
+
+147198: Tokens: 17 characters: 28
+gpqBgggKBBKghCqwhsUQgISfBQKj
+
+147199: Tokens: 17 characters: 40
+2202707149995322670357842526067670974044
+
+147200: Tokens: 17 characters: 42
+ä¹ĥç¼ĺäºİä¸Ńåħ±æĶ¶æĭ¾ä»ĸä»¬çļĦæīĭæ³ķé«ĺå¦Ļ
+
+147201: Tokens: 17 characters: 42
+ç»Ŀå¯¹æĺ¯ä½łè§ģè¿ĩæľĢæķĻäººçĸ¼çĪ±çļĦå°ıåŃ©
+
+147202: Tokens: 17 characters: 48
+å¦Ĥæŀľåħ¶ä»ĸç°¡åĸ®å¿«éĢŁçļĦæī¾åĪ°SHAéĥ½ä¸įç®¡çĶ¨
+
+147203: Tokens: 17 characters: 42
+å¦Ĥæŀľæľ¬æĪĳèĪĩé©ħåĬĽåĴĮå°ĭæ±Ĥæ»¿è¶³æľīéĹľ
+
+147204: Tokens: 17 characters: 40
+0291226035942973140689535782241192940489
+
+147205: Tokens: 17 characters: 40
+0295530704046214303103721002252690652767
+
+147206: Tokens: 17 characters: 69
+ãĤĴçµĦãģ¿åĲĪãĤıãģĽãģ¦ãĤªãĥªãĤ¸ãĥĬãĥ«ãģ®ãĤ¹ãĥĪãĥ¼ãĥªãĥ¼æ§ĭæĪĲãģ¨ãģªãĤĭ
+
+147207: Tokens: 17 characters: 45
+ä¸įè¿ĩæĺ¯åľ¨èº«ä½ĵçļĦåŃĺäº¡ä¹ĭéĹ´è¿Ľè¡ĮæĮ£æīİ
+
+147208: Tokens: 17 characters: 51
+ä¸įçĦ¶å°±æĺ¯ä»ĸæĦıè¯ĨåĪ°èĩªå·±å¿«è¦ģæģ¢å¤įåįķèº«äºĨ
+
+147209: Tokens: 17 characters: 39
+ä¸ªäººæįĲèµłèĢħåı¯ä»¥ç»ķè¿ĩçĻ»è®°ç¨ĭåºı
+
+147210: Tokens: 17 characters: 42
+ãģĮãĤĢãģĹãĤĥãĤīãģ«é§ĨãģĳæĬľãģĳãģ¦ãģĦãģĵãģĨ
+
+147211: Tokens: 17 characters: 30
+IHdpbGwgdXNlIHRoZSBuYXRpdmUgaW
+
+147212: Tokens: 17 characters: 30
+IHMgbmFyaXplbmltIEVVIGMuIDkxMC
+
+147213: Tokens: 17 characters: 31
+dnJbSpynBOxAbLBuAFnBMZCJNOSvWSA
+
+147214: Tokens: 17 characters: 30
+CBmKJYYoCYGDGWgqSEikmUywhItcED
+
+147215: Tokens: 17 characters: 59
+ĠCloudä¸Ńä½¿çĶ¨äºĨNetflixå¼ĢåıĳçļĦHystrixæĿ¥å®ŀçİ°çĨĶæĸŃåĻ¨
+
+147216: Tokens: 17 characters: 63
+æľīæĹ¶åĢĻä½łå¹¶ä¸įéľĢè¦ģéĩįæĸ°æŀĦå»ºéĤ£äºĽå¹¶æľªæĶ¹åıĺçļĦé¡¹çĽ®
+
+147217: Tokens: 17 characters: 45
+å½¼ãģ¯å¹³åĩ¡ãģªçĶŁæ´»ãĤĴåıĸãĤĬæĪ»ãģĽãĤĭãģ®ãģĭ
+
+147218: Tokens: 17 characters: 45
+æĪĳå¾Īç¡®å®ļä»ĸåĳ¨äºĮæĹ©ä¸Ĭè¦ģæĲĵéº»å°ĨæĿ¥çĿĢ
+
+147219: Tokens: 17 characters: 45
+æĪĳèªįçĤºæľīæĻĤåĢĻæĪĳåĢĳåı¯ä»¥éģİæĸ¼ç°¡åĮĸåľ°
+
+147220: Tokens: 17 characters: 60
+å¸Įä¼¯æĿ¥è¯ŃåĴĮåį°åľ°è¯Ńä¸ŃæĪĳä»¬åı¯ä»¥çľĭåĪ°çĽ¸åĲĮçļĦåŃĹèĬĤ
+
+147221: Tokens: 17 characters: 57
+ĠputativeTGAAGCCGCCTCGAATTTCTAATGAGACTTCGAGGGGCACNegative
+
+147222: Tokens: 17 characters: 42
+æľ¬è¦ĸçªĹæľĥä¸ĢæŃ¥æŃ¥æĮĩå°İæĤ¨åĤ³éĢģä¸Ģä»½
+
+147223: Tokens: 17 characters: 40
+4052274386474952194703291752375662326813
+
+147224: Tokens: 17 characters: 57
+ãģķãģ¾ãģĸãģ¾ãģªè¨Ģèªŀãģ«å¯¾å¿ľãģĻãĤĭãģĵãģ¨ãģĮãģ§ãģįãģ¾ãģĻ
+
+147225: Tokens: 17 characters: 39
+ä¸Ĭæµ·è¯ģåĪ¸äº¤æĺĵæīĢç»¼åĲĪèĤ¡ä»·æĮĩæķ°
+
+147226: Tokens: 17 characters: 42
+å¦ĤæŃ¤æĪĳåĢĳæīįèĥ½åľ¨æľīçĸĳåķıæĻĤéĢ£çµ¡æĤ¨
+
+147227: Tokens: 17 characters: 54
+ä¸ĭåĪĹçļĦéģİæ¿¾æ¢Ŀä»¶éĽĨèĩ³å°ĳåħ©åĢĭæĺŁæľŁæ²ĴæľīæĽ´æĸ°
+
+147228: Tokens: 17 characters: 57
+ä¸ĭãĥįãĤ¿ãģ¨ãģĦãģĨæ¦Ĥå¿µãģĮåŃĺåľ¨ãģĹãģªãģĦéĢĢå±Īãģªä¸ĸçķĮ
+
+147229: Tokens: 17 characters: 30
+ä½łæºľåĪ°å¦Īå¦ĪçļĦçĽ¥æ´Ĺå®¤éĩĮ
+
+147230: Tokens: 17 characters: 54
+è¾¾åĪ°ä»Ģä¹Īæł·çļĦæłĩåĩĨæīįèĥ½æĺ¯å¤§åħ¬åı¸è¦ģçļĦåīįç«¯
+
+147231: Tokens: 17 characters: 33
+éģłæľĪåįģåĤĳãģ«ãĤĤåĭĿè²łãĤĴæĮĳãĤĢ
+
+147232: Tokens: 17 characters: 31
+zuFEBZzCfAtibfaPNnsYELjSRpJagfu
+
+147233: Tokens: 17 characters: 51
+çŁ¥ãĤĬåĲĪãģĦãģ®ç´¹ä»ĭãģ§ãģĬè¦ĭåĲĪãģĦãĤĴãģĻãĤĭäºĭãģ«
+
+147234: Tokens: 17 characters: 39
+æ³¥æ£Ĵç´³å£«ãĤĴåĲįä¹ĹãĤĭãĤ¢ãĥ«ãĤ»ãĥ¼ãĥĮ
+
+147235: Tokens: 17 characters: 69
+čĊčĊĉčĊĉčĊĉčĊčĊĉčĊĉčĊĉčĊĉčĊĉčĊĉčĊĉčĊĉčĊčĊĉčĊčĊčĊĉĉĉĉĉčĊĉčĊĠĠĠĠĠĠĠĠĊĊĊ
+
+147236: Tokens: 17 characters: 29
+RGyJGQhhEtxxjPwEksSshDCpbjyTj
+
+147237: Tokens: 17 characters: 33
+ä»ĸæĽ¾è¢«æİ§ä»¥ä¸įæģ°å½ĵéľ²ä½ĵç½ª
+
+147238: Tokens: 17 characters: 51
+ä»ĸåıªèĥ½å®Įåħ¨éģ¿åħįæľīå¥³çĶŁä¾Ĩä»ĸæĶ¤ä½įçļĦæĥħå¢ĥ
+
+147239: Tokens: 17 characters: 72
+ãģĿãģĵãģ«ãĤ¹ãĤ«ãĤ¦ãĥĪãģķãĤĮãģ¦éĽĨãģ¾ãģ£ãģ¦ãģįãģŁçĶ·æĢ§ãĤ¢ãĤ¤ãĥīãĥ«ãģŁãģ¡
+
+147240: Tokens: 17 characters: 54
+ãģĿãģĹãģ¦å°ĨæĿ¥ãģ®èĬ±å«ģãģ¨ãģĹãģ¦è¿İãģĪåħ¥ãĤĮãģŁãģ®ãģ¯
+
+147241: Tokens: 17 characters: 73
+ä»¥åīįãģ®BIOSãĤĴä½¿çĶ¨ãģĹãģ¦ãģĦãĤĭä¸Ģéĥ¨çĴ°å¢ĥãģ§çĻºçĶŁãģĻãĤĭãģ¨ãģ®ãģĵãģ¨
+
+147242: Tokens: 17 characters: 33
+è¢«é©ħçŃĸèĳĹå°ĭæ±Ĥç«ĭåį³çļĦæ»¿è¶³
+
+147243: Tokens: 17 characters: 32
+fmVyjeXOXQghrJDcuQshhBWScBdCCCsk
+
+147244: Tokens: 17 characters: 45
+åĿĩåı¯åľ¨åĲĦéŁ³é¢ĳæĴŃæĶ¾åĻ¨çĽ´æİ¥æĴŃæĶ¾è¯ķåĲ¬
+
+147245: Tokens: 17 characters: 59
+ĠoxidaseTTAATGGAGGCTTCAGAGAGAGCTTGGGACTCTTGAAAGAAGCPositive
+
+147246: Tokens: 17 characters: 54
+å¹´ãģ«çĻºå£²ãģķãĤĮãģŁåŃ¦åľĴä¼Ŀå¥ĩãĥĲãĥĪãĥ«ãĤªãĥļãĥ©ADV
+
+147247: Tokens: 17 characters: 69
+å¹´ãģĭãĤīãĤµãĥ¼ãĥĵãĤ¹ãģĮå§ĭãģ¾ãģ£ãģŁãĤ½ãĥ¼ãĤ·ãĥ£ãĥ«ãĤ²ãĥ¼ãĥłãģĮåİŁä½ľ
+
+147248: Tokens: 17 characters: 63
+æŁ¥æī¾èģĶç³»äººæĪĸèĢħç¾¤æĹ¶å¼¹åĩºçļĦçĶ¨æĪ·å¿«çħ§ä¿¡æģ¯å¯¹è¯Ŀæ¡Ĩ
+
+147249: Tokens: 17 characters: 64
+galactosidaseAGTAACTGATGGAATTTCGGAATGGATGCGTTTTAGCCTGACTPositive
+
+147250: Tokens: 17 characters: 64
+ãĤ³ãĥ¼ãĥīãĤĴä¿®æŃ£ãģĹãģ¦ãĤĤåħ¨ãģ¦lineãģĮéģ©çĶ¨ãģķãĤĮãģ¦ãģĹãģ¾ãģĦ
+
+147251: Tokens: 17 characters: 45
+æĤ¨åı¯ä»¥åħĪç§»éĻ¤åĮħåĲ«æķıæĦŁè³ĩè¨ĬçļĦéĥ¨ä»½
+
+147252: Tokens: 17 characters: 54
+å½ĵä½łè§īå¾ĹæŁĲäºĽå¸¸éĩıæĪĸèĢħæĸĩæľ¬åŃĹç¬¦ä¸²çľ¼çĨŁæĹ¶
+
+147253: Tokens: 17 characters: 51
+åĲĮãĥŀãĤ¶ãĥ¼ãĥľãĥ¼ãĥīãģ¯ãĥĦãĤ¯ãĥ¢ãģ®BTOãĥĳãĤ½ãĤ³ãĥ³
+
+147254: Tokens: 17 characters: 63
+ä¹Łå°±æĺ¯è¯´å¯¹äºİæľªçŁ¥æķ°æį®çļĦé¢Ħæµĭå¾Ĺä¸įåĪ°å¾Īå¥½çļĦæĢ§èĥ½
+
+147255: Tokens: 17 characters: 45
+ä¹Łå°±æĺ¯é©ħåĬĽä»¥åıĬå¾ĭæ³ķèĥ½å¤łåħ±èĻķåħ±åŃĺ
+
+147256: Tokens: 17 characters: 31
+FJqdLSINToGigkxuevMoIJxLoRaFiDQ
+
+147257: Tokens: 17 characters: 30
+DhWduDAHXZWXXoBTGeYTRFmuOsJlyv
+
+147258: Tokens: 17 characters: 33
+HYxJPwomxAtYXKHOKYRQuGKUvVcWcWlke
+
+147259: Tokens: 17 characters: 48
+qPCRCGCCCAACCCCAGATCTACCCGCCTATGTTGTCATGACTTATGh
+
+147260: Tokens: 17 characters: 49
+qPCRCCCCATCGATCCCAATAACCCCAGGGTCTGGTGTTTTGTATAGGh
+
+147261: Tokens: 17 characters: 29
+bwzAJAhUxYADEYjYaEWwiwWjEYTIU
+
+147262: Tokens: 17 characters: 48
+æ²¡æľīçĪ±ä½łä¸įä¼ļæĦŁåĪ°è¿Ļä¹Īæ²īéĩįçļĦè´Łç½ªæĦŁ
+
+147263: Tokens: 17 characters: 45
+ãĤµãĥ©ãĤµãĥ©ãĥĺãĤ¢ãĥ¼ãģ®çĪ½ãĤĦãģĭãĤ¤ãĤ±ãĥ¡ãĥ³
+
+147264: Tokens: 17 characters: 63
+ãĤµãĥĿãĥ¼ãĥĪãģķãĤĮãģ¦ãģĦãĤĭè¨Ģèªŀãģ®æĺİç¤ºçļĦãģªä¸Ģè¦§ãģ®è¨Ńå®ļ
+
+147265: Tokens: 17 characters: 54
+éĺ²æŃ¢éĩįå¤įä»£çĲĨåĴĮåı¯èĥ½å¼ķèµ·ä»£çĲĨåĩºéĶĻçļĦéĹ®é¢ĺ
+
+147266: Tokens: 17 characters: 48
+éĺŁä¼įåĨħæľªæ¶Īè´¹çļĦåħĥç´łä¿Ŀè¯ģæĺ¯ä¸įéĩįå¤įçļĦ
+
+147267: Tokens: 17 characters: 33
+XVnkHOGspZnvyQkqarEpCMKapagtcPgPW
+
+147268: Tokens: 17 characters: 42
+èıľä¹ĥãģ¯çĶŁå¾Ĵãģ«æħķãĤıãĤĮãĤĭäººæ°ĹæķĻå¸«
+
+147269: Tokens: 17 characters: 33
+ï¾Ħï¾ŀï½²ï¾Ĥãģ¸ãģ®å¸°åĽ½ãģĮè¿«ãĤĬ
+
+147270: Tokens: 17 characters: 66
+å®ĥä¼ļçĶ¨ä¸Ģä¸ªæĪĸå¤ļä¸ªåŃĹèĬĤçļĦäºĮè¿ĽåĪ¶æķ°æĿ¥è¡¨ç¤ºæŁĲä¸ªåŃĹç¬¦
+
+147271: Tokens: 17 characters: 57
+å®ĥä»¬çļĦçĶŁåĳ½åĳ¨æľŁåĴĮç¨ĭåºıçļĦè¿Ĳè¡Įåĳ¨æľŁæĺ¯ä¸Ģèĩ´çļĦ
+
+147272: Tokens: 17 characters: 47
+ä½ĨæĹ¢çĦ¶Lancelotéĥ½å·²ç»ıæĦ¿æĦıä¸ºä½łèĢĮæŃ»äºĨ
+
+147273: Tokens: 17 characters: 51
+æŃ¤å·¥åħ·çµĦçī¹åĪ¥å¼·èª¿æīĢå»ºç«ĭä¹ĭæĩīçĶ¨ç¨ĭå¼ıçļĦ
+
+147274: Tokens: 17 characters: 75
+ãĤ·ãĥªãĥ¼ãĤºãĤĴãģĵãĤĮãģ¾ãģ§è¦ĭãģ¦ãģĦãģªãģĦäººãģ§ãĤĤåķıé¡Įãģªãģıåķıé¡ĮãģªãģĦ
+
+147275: Tokens: 17 characters: 19
+ĠáĭĺáĪĺáĬĵáĭĬáĭįáĬķ
+
+147276: Tokens: 17 characters: 33
+å¥¹åİ»å¤ıå¨ģå¤·çľĭæľĽè¿ĩå¥¹å¦¹å¦¹
+
+147277: Tokens: 17 characters: 31
+VmynLujCayylLKaRUSApJoSAkBopbsT
+
+147278: Tokens: 17 characters: 38
+ĠAGCAGUUAACCUUCAAGACAUUCCACUUGCUAAAAUU
+
+147279: Tokens: 17 characters: 45
+ĠGGATGCAAAACGOLGIAATCAAACAAAACGAGACTGAAGATAAC
+
+147280: Tokens: 17 characters: 75
+åĪ¶ä½ľãĤ¹ãĤ¿ãĥĥãĥķãĤĦãĤŃãĥ£ãĤ¹ãĥĪãģ¯åŁºæľ¬çļĦãģ«ãģ¯åĲĮãģĺãĥ¡ãĥ³ãĥĲãĥ¼ãģłãģĮ
+
+147281: Tokens: 17 characters: 54
+IAMéĽ»åŃĲåĩºçīĪãģ«ãĤĪãĤĭå£°åĦªãģ®éŁ³å£°åħ¥ãĤĬãĥŀãĥ³ãĤ¬
+
+147282: Tokens: 17 characters: 71
+ãģĵãģ®æ§ĺåŃĲãģ¯bufferedãĥĹãĥŃãĥĳãĥĨãĤ£ãĤĴåıĤçħ§ãģĹãģ¦ç¢ºèªįãģ§ãģįãģ¾ãģĻ
+
+147283: Tokens: 17 characters: 81
+éĢļè¿ĩæĮĩå®ļçļĦåįıè®®åĴĮåŁŁåĲįè®¿éĹ®åĪ°æĤ¨æĮĩå®ļçļĦæĸĩä»¶å¤¹ä¸ŃçļĦæĸĩä»¶èµĦæºĲäºĨ
+
+147284: Tokens: 17 characters: 68
+åĨįæ¬¡èİ·åıĸçĽ¸åĲĮéħįé¢ĿçļĦæĹ¶åĢĻä¼ļèĬĤçľģè°ĥçĶ¨QuoteæľįåĬ¡çļĦæĪĲæľ¬
+
+147285: Tokens: 17 characters: 54
+æĪĳåĢĳä¸įæĥ³è¢«èªįå®ļåģļäºĨéĢĻä»¶äºĭæĪĸéĤ£ä»¶äºĭçŃīçŃī
+
+147286: Tokens: 17 characters: 29
+LlRoaXMgaXMgYSBxdWFsaWZpZWQgY
+
+147287: Tokens: 17 characters: 42
+é»ĺèªįå¿«éĢŁå®īè£Ŀå°įå¤§å¤ļæķ¸äººéĥ½ç®¡çĶ¨
+
+147288: Tokens: 17 characters: 33
+AEDEPYAEPYADYGGLQEHVYEEIGDAPELEAR
+
+147289: Tokens: 17 characters: 47
+è±ªèı¯ãģĬãĤĤãģ¦ãģªãģĹãģ¨æĢĿãģĦãģįãĤĦå¤§äºĭä»¶SP
+
+147290: Tokens: 17 characters: 51
+èĩªæĪĳçļĦå·¥ä½ľå°±æĺ¯å¯©æŁ¥çĶŁåĳ½ä¸Ńé»ĳæļĹçļĦéĿ¢åĲĳ
+
+147291: Tokens: 17 characters: 45
+èĩªæĪĳä¸ĢçĽ´åĬªåĬĽæĥ³è®ĵä¸ĢåĪĩçľĭèµ·ä¾Ĩéĥ½å¥½
+
+147292: Tokens: 17 characters: 30
+ZGQUYQKBgHWledJjbRlZaUlgQUtAfA
+
+147293: Tokens: 17 characters: 36
+æ¬²æľĽãģ®èµ´ãģıãģ¾ãģ¾ãģ«çªģãģįéĢ²ãĤĢ
+
+147294: Tokens: 17 characters: 60
+æŀľãģŁãģĹãģ¦ãĥķãĤ©ãĤ¹ãģ®æĥ³ãģĦãģ¯ãĤ·ãĥ³ãĤ·ãĥ£ãģ«å±Ĭãģıãģ®ãģĭ
+
+147295: Tokens: 17 characters: 87
+åĽłä¸ºè¿Ļç§įæĸ¹å¼ıè¿ĩäºİä¾Ŀèµĸè®Ńç»ĥæķ°æį®åĴĮæµĭè¯ķæķ°æį®åľ¨æķ°æį®éĽĨä¸ŃçļĦéĢīæĭ©æĸ¹å¼ı
+
+147296: Tokens: 17 characters: 70
+ĠçĨĶæĸŃåĻ¨ä¹Łåı¯ä»¥ä½¿åºĶçĶ¨ç¨ĭåºıèĥ½å¤Łè¯ĬæĸŃéĶĻè¯¯æĺ¯åĲ¦å·²ç»ıä¿®æŃ£
+
+147297: Tokens: 17 characters: 66
+ãģ²ãĤĩãĤĵãģªäºĭãģĭãĤīãĤ¢ãĥĭãĥ¡çłĶç©¶éĥ¨ãĤĴçĻºè¶³ãģķãģĽãĤĭãģĵãģ¨ãģ«
+
+147298: Tokens: 17 characters: 48
+åŁºç¡ĢæľįåĬ¡çļĦæķħéļľåı¯èĥ½ä¼ļå¯¼èĩ´çº§èģĶæķħéļľ
+
+147299: Tokens: 17 characters: 57
+æ°ĹãģĮãģ¤ãģıãģ¨æĪ¦åĽ½æĻĤä»£ãģ®æĹ¥æľ¬ãģ®ãĤĪãģĨãģªçķ°ä¸ĸçķĮ
+
+147300: Tokens: 17 characters: 42
+ãĥįãĥĳãĥ¼ãĥ«åħ±çĶ£åħļãĥŀãĥ«ãĤ¯ãĤ¹ä¸»ç¾©æ´¾
+
+147301: Tokens: 17 characters: 69
+åı¦ä¸Ģä¸ªé¡¹çĽ®çļĦé¡¹çĽ®ä¾ĿèµĸåĴĮå¤ĸéĥ¨ä¾ĿèµĸåĲĮæł·ä¼ļè¢«æ·»åĬłè¿ĽæĿ¥
+
+147302: Tokens: 17 characters: 29
+MqdlmnkyyXnOitvwwzuJLwAhOzTmP
+
+147303: Tokens: 17 characters: 69
+åĩ½æķ°å£°æĺİçļĦåı¦å¤ĸä¸Ģä¸ªçī¹æ®ĬçļĦåĬŁèĥ½æĺ¯å®ĥä»¬çļĦåĿĹçº§ä½ľçĶ¨åŁŁ
+
+147304: Tokens: 17 characters: 28
+jErvrfLCsJWQjhUpIyhxyRfBfGUX
+
+147305: Tokens: 17 characters: 63
+åİŁä½ľãģ¯ãģ¾ãĤĵãģĮãĤ¿ãĤ¤ãĥłãģįãĤīãĤīãĤŃãĥ£ãĥ©ãĥĥãĥĪéĢ£è¼īä¸Ńãģ®
+
+147306: Tokens: 17 characters: 63
+åİŁä½ľãģ¯è¥¿å°¾ç¶Ńæĸ°ãģ«ãĤĪãĤĭãĥĲãĥĪãĥ«ãĥķãĤ¡ãĥ³ãĤ¿ãĤ¸ãĥ¼å°ıèª¬
+
+147307: Tokens: 17 characters: 48
+åİŁä½ľãģ¯ãĥ¢ãĥĲãĤ²ãĥ¼ãĤ¿ãĤ¦ãĥ³ãģ§ç·ıéĸ²è¦§æķ°ãģĮ
+
+147308: Tokens: 17 characters: 75
+å®ŀéĻħå¼Ģåıĳä¸ŃçļĦåĩ½æķ°ä¼ļéĢļè¿ĩæĽ´åĬłå¤įæĿĤçļĦæĸ¹å¼ıä¸İçĶ¨æĪ·è¿Ľè¡Įäº¤äºĴ
+
+147309: Tokens: 17 characters: 115
+ĠčĊĠĠĠĠčĊčĊĠĠĠĠĠĠĠĠčĊĉĉčĊĠĠĠĠĠĠĠĠčĊčĊĠĠĠĠĠĠĠĠčĊĠĠĠĠĠĠĠĠčĊĠĠĠĠĠĠĠĠčĊĠĠĠĠĠĠĠĠčĊĠĠĠĠĠĠĠĠčĊčĊĠĠĠĠĠĠĠĠčĊĉĉčĊĠĠĠĠĠĠĠĠĉčĊĉ
+
+147310: Tokens: 17 characters: 39
+åįļçī©èªĮãģ®ç·¨çºĤãģ«å¥Ķèµ°ãģĹãģªãģĮãĤī
+
+147311: Tokens: 17 characters: 60
+æŀĦå»ºæ²¡æľīå¿ħè¦ģçļĦè¿ĩäºİå¤įæĿĤçļĦæ¨¡åŀĭè¢«ç§°ä½ľè¿ĩæĭŁåĲĪ
+
+147312: Tokens: 17 characters: 37
+UACAUAUUUUUAGAUAAAAUUAAAUGCUCUUAUUUUU
+
+147313: Tokens: 17 characters: 75
+åı¯ä»¥çľĭåĪ°ä¸Ĭä¸ĢæŃ¥éĢīåıĸçļĦéŁ³é¢ĳæĸĩä»¶å·²åħ¨éĥ¨ä¸Ĭä¼łå¹¶æĺ¾ç¤ºæľªæłĩæ³¨
+
+147314: Tokens: 17 characters: 60
+ä¹Łåı¯ä»¥ä½¿çĶ¨æµģç¨ĭä¸Ĭä¸ĭæĸĩæĪĸåħ¨å±Ģä¸Ĭä¸ĭæĸĩä¸ŃçļĦå±¬æĢ§
+
+147315: Tokens: 17 characters: 52
+GTTGGCTCTGGTGCAGGGTCCGAGGTATTCGCACCAGAGCCAACAAAAATAT
+
