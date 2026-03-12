@@ -1,0 +1,26 @@
+{
+  "bpe_8k": {
+    "class": "huggingface", 
+    "path": "source_data/BPE/bpe_byteLevel_minipile_5_tokens_8000.json"
+  },
+  "bpe_16k": {
+    "class": "huggingface", 
+    "path": "source_data/BPE/bpe_byteLevel_minipile_5_tokens_16000.json"
+  },
+  "bpe_32k": {
+    "class": "huggingface", 
+    "path": "source_data/BPE/bpe_byteLevel_minipile_5_tokens_32000.json"
+  },
+  "bpe_64k": {
+    "class": "huggingface", 
+    "path": "source_data/BPE/bpe_byteLevel_minipile_5_tokens_64000.json"
+  },
+  "bpe_128k": {
+    "class": "huggingface", 
+    "path": "source_data/BPE/bpe_byteLevel_minipile_5_tokens_128000.json"
+  },
+  "bpe_256k": {
+    "class": "huggingface", 
+    "path": "source_data/BPE/bpe_byteLevel_minipile_5_tokens_256000.json"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "bne_1k": {
+    "class": "huggingface", 
+    "path": "source_data/minipile_5/data/BNE/bne_byteLevel_minipile_5_tokens_1024.json"
+  },
+  "bne_rest_1k": {
+    "class": "huggingface", 
+    "path": "source_data/minipile_5/data/BNE_rest/bne_rest_byteLevel_minipile_5_tokens_1024.json"
+  },
+  "bpe_1k": {
+    "class": "huggingface", 
+    "path": "source_data/minipile_5/data/BPE/bpe_byteLevel_minipile_5_tokens_1024.json"
+  },
+  "bne_2k": {
+    "class": "huggingface", 
+    "path": "source_data/minipile_5/data/BNE/bne_byteLevel_minipile_5_tokens_2048.json"
+  },
+  "bne_rest_2k": {
+    "class": "huggingface", 
+    "path": "source_data/minipile_5/data/BNE_rest/bne_rest_byteLevel_minipile_5_tokens_2048.json"
+  },
+  "bpe_2k": {
+    "class": "huggingface", 
+    "path": "source_data/minipile_5/data/BPE/bpe_byteLevel_minipile_5_tokens_2048.json"
+  },
+  "bne_4k": {
+    "class": "huggingface", 
+    "path": "source_data/minipile_5/data/BNE/bne_byteLevel_minipile_5_tokens_4096.json"
+  },
+  "bne_rest_4k": {
+    "class": "huggingface", 
+    "path": "source_data/minipile_5/data/BNE_rest/bne_rest_byteLevel_minipile_5_tokens_4096.json"
+  },
+  "bpe_4k": {
+    "class": "huggingface", 
+    "path": "source_data/minipile_5/data/BPE/bpe_byteLevel_minipile_5_tokens_4096.json"
+  },
+  "bne_8k": {
+    "class": "huggingface", 
+    "path": "source_data/minipile_5/data/BNE/bne_byteLevel_minipile_5_tokens_8192.json"
+  },
+  "bne_rest_8k": {
+    "class": "huggingface", 
+    "path": "source_data/minipile_5/data/BNE_rest/bne_rest_byteLevel_minipile_5_tokens_8192.json"
+  },
+  "bpe_8k": {
+    "class": "huggingface", 
+    "path": "source_data/minipile_5/data/BPE/bpe_byteLevel_minipile_5_tokens_8192.json"
+  },
+  "bne_16k": {
+    "class": "huggingface", 
+    "path": "source_data/minipile_5/data/BNE/bne_byteLevel_minipile_5_tokens_16384.json"
+  },
+  "bne_rest_16k": {
+    "class": "huggingface", 
+    "path": "source_data/minipile_5/data/BNE_rest/bne_rest_byteLevel_minipile_5_tokens_16384.json"
+  },
+  "bpe_16k": {
+    "class": "huggingface", 
+    "path": "source_data/minipile_5/data/BPE/bpe_byteLevel_minipile_5_tokens_16384.json"
+  },
+  "bne_32k": {
+    "class": "huggingface", 
+    "path": "source_data/minipile_5/data/BNE/bne_byteLevel_minipile_5_tokens_32768.json"
+  },
+  "bne_rest_32k": {
+    "class": "huggingface", 
+    "path": "source_data/minipile_5/data/BNE_rest/bne_rest_byteLevel_minipile_5_tokens_32768.json"
+  },
+  "bpe_32k": {
+    "class": "huggingface", 
+    "path": "source_data/minipile_5/data/BPE/bpe_byteLevel_minipile_5_tokens_32768.json"
+  },
+  "bne_64k": {
+    "class": "huggingface", 
+    "path": "source_data/minipile_5/data/BNE/bne_byteLevel_minipile_5_tokens_65536.json"
+  },
+  "bne_rest_64k": {
+    "class": "huggingface", 
+    "path": "source_data/minipile_5/data/BNE_rest/bne_rest_byteLevel_minipile_5_tokens_65536.json"
+  },
+  "bpe_64k": {
+    "class": "huggingface", 
+    "path": "source_data/minipile_5/data/BPE/bpe_byteLevel_minipile_5_tokens_65536.json"
+  },
+  "bne_128k": {
+    "class": "huggingface", 
+    "path": "source_data/minipile_5/data/BNE/bne_byteLevel_minipile_5_tokens_131072.json"
+  },
+  "bne_rest_128k": {
+    "class": "huggingface", 
+    "path": "source_data/minipile_5/data/BNE_rest/bne_rest_byteLevel_minipile_5_tokens_131072.json"
+  },
+  "bpe_128k": {
+    "class": "huggingface", 
+    "path": "source_data/minipile_5/data/BPE/bpe_byteLevel_minipile_5_tokens_131072.json"
+  },
+  "bne_256k": {
+    "class": "huggingface", 
+    "path": "source_data/minipile_5/data/BNE/bne_byteLevel_minipile_5_tokens_262144.json"
+  },
+  "bne_rest_256k": {
+    "class": "huggingface", 
+    "path": "source_data/minipile_5/data/BNE_rest/bne_rest_byteLevel_minipile_5_tokens_262144.json"
+  },
+  "bpe_256k": {
+    "class": "huggingface", 
+    "path": "source_data/minipile_5/data/BPE/bpe_byteLevel_minipile_5_tokens_262144.json"
+  }
+}

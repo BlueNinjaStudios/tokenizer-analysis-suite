@@ -1,0 +1,4163 @@
+{
+  "fertility": {
+    "per_tokenizer": {
+      "bne_8k": {
+        "global": {
+          "mean": 0.40057673560961554,
+          "median": 0.3620715824520172,
+          "std": 0.12424820156449683,
+          "count": 2000
+        },
+        "per_language": {
+          "eng_Latn": {
+            "mean": 0.40057673560961554,
+            "median": 0.3620715824520172,
+            "std": 0.12424820156449683,
+            "std_err": 0.0027789690769368415,
+            "min": 0.16666666666666666,
+            "max": 1.0,
+            "count": 2000,
+            "sum": 801.1534712192312
+          }
+        }
+      },
+      "bpe_8k": {
+        "global": {
+          "mean": 0.3588268900247175,
+          "median": 0.3293504963008719,
+          "std": 0.10956608935580513,
+          "count": 2000
+        },
+        "per_language": {
+          "eng_Latn": {
+            "mean": 0.3588268900247175,
+            "median": 0.3293504963008719,
+            "std": 0.10956608935580513,
+            "std_err": 0.0024505849611241763,
+            "min": 0.16666666666666666,
+            "max": 1.0,
+            "count": 2000,
+            "sum": 717.6537800494348
+          }
+        }
+      },
+      "bne_16k": {
+        "global": {
+          "mean": 0.3673648056373791,
+          "median": 0.33064858039778977,
+          "std": 0.11599013298774749,
+          "count": 2000
+        },
+        "per_language": {
+          "eng_Latn": {
+            "mean": 0.3673648056373791,
+            "median": 0.33064858039778977,
+            "std": 0.11599013298774749,
+            "std_err": 0.0025942668686067065,
+            "min": 0.16666666666666666,
+            "max": 1.0,
+            "count": 2000,
+            "sum": 734.7296112747568
+          }
+        }
+      },
+      "bpe_16k": {
+        "global": {
+          "mean": 0.3250800684569747,
+          "median": 0.29566693972284797,
+          "std": 0.10043961658979053,
+          "count": 2000
+        },
+        "per_language": {
+          "eng_Latn": {
+            "mean": 0.3250800684569747,
+            "median": 0.29566693972284797,
+            "std": 0.10043961658979053,
+            "std_err": 0.0022464597884544104,
+            "min": 0.16666666666666666,
+            "max": 1.0,
+            "count": 2000,
+            "sum": 650.1601369139479
+          }
+        }
+      },
+      "bne_32k": {
+        "global": {
+          "mean": 0.3434713327466635,
+          "median": 0.31043206499390325,
+          "std": 0.10917334850196383,
+          "count": 2000
+        },
+        "per_language": {
+          "eng_Latn": {
+            "mean": 0.3434713327466635,
+            "median": 0.31043206499390325,
+            "std": 0.10917334850196383,
+            "std_err": 0.0024418008123451036,
+            "min": 0.16666666666666666,
+            "max": 1.0,
+            "count": 2000,
+            "sum": 686.9426654933264
+          }
+        }
+      },
+      "bpe_32k": {
+        "global": {
+          "mean": 0.3008199396398705,
+          "median": 0.2739801616325505,
+          "std": 0.0904816768557757,
+          "count": 2000
+        },
+        "per_language": {
+          "eng_Latn": {
+            "mean": 0.3008199396398705,
+            "median": 0.2739801616325505,
+            "std": 0.0904816768557757,
+            "std_err": 0.0020237377993843064,
+            "min": 0.1375,
+            "max": 1.0,
+            "count": 2000,
+            "sum": 601.6398792797418
+          }
+        }
+      },
+      "bne_64k": {
+        "global": {
+          "mean": 0.3266019802880985,
+          "median": 0.2928120516499283,
+          "std": 0.10672417366014919,
+          "count": 2000
+        },
+        "per_language": {
+          "eng_Latn": {
+            "mean": 0.3266019802880985,
+            "median": 0.2928120516499283,
+            "std": 0.10672417366014919,
+            "std_err": 0.0023870219015543386,
+            "min": 0.15,
+            "max": 0.8888888888888888,
+            "count": 2000,
+            "sum": 653.2039605761961
+          }
+        }
+      },
+      "bpe_64k": {
+        "global": {
+          "mean": 0.2831387548140144,
+          "median": 0.25737853949165834,
+          "std": 0.08518931261594574,
+          "count": 2000
+        },
+        "per_language": {
+          "eng_Latn": {
+            "mean": 0.2831387548140144,
+            "median": 0.25737853949165834,
+            "std": 0.08518931261594574,
+            "std_err": 0.0019053673410502335,
+            "min": 0.1375,
+            "max": 0.875,
+            "count": 2000,
+            "sum": 566.277509628029
+          }
+        }
+      },
+      "bne_128k": {
+        "global": {
+          "mean": 0.3168801094811891,
+          "median": 0.2825472856791943,
+          "std": 0.10551490225952101,
+          "count": 2000
+        },
+        "per_language": {
+          "eng_Latn": {
+            "mean": 0.3168801094811891,
+            "median": 0.2825472856791943,
+            "std": 0.10551490225952101,
+            "std_err": 0.0023599750084351222,
+            "min": 0.15,
+            "max": 0.8816425120772947,
+            "count": 2000,
+            "sum": 633.7602189623765
+          }
+        }
+      },
+      "bpe_128k": {
+        "global": {
+          "mean": 0.2725265011401518,
+          "median": 0.24583217560433454,
+          "std": 0.08245288112431669,
+          "count": 2000
+        },
+        "per_language": {
+          "eng_Latn": {
+            "mean": 0.2725265011401518,
+            "median": 0.24583217560433454,
+            "std": 0.08245288112431669,
+            "std_err": 0.0018441635698838088,
+            "min": 0.13636363636363635,
+            "max": 0.8,
+            "count": 2000,
+            "sum": 545.0530022803041
+          }
+        }
+      },
+      "bne_256k": {
+        "global": {
+          "mean": 0.3114695432470613,
+          "median": 0.2774656587191181,
+          "std": 0.10422116930119062,
+          "count": 2000
+        },
+        "per_language": {
+          "eng_Latn": {
+            "mean": 0.3114695432470613,
+            "median": 0.2774656587191181,
+            "std": 0.10422116930119062,
+            "std_err": 0.002331039025139236,
+            "min": 0.15,
+            "max": 0.8816425120772947,
+            "count": 2000,
+            "sum": 622.9390864941213
+          }
+        }
+      },
+      "bpe_256k": {
+        "global": {
+          "mean": 0.26706958922302293,
+          "median": 0.24031946028554635,
+          "std": 0.08085697041657375,
+          "count": 2000
+        },
+        "per_language": {
+          "eng_Latn": {
+            "mean": 0.26706958922302293,
+            "median": 0.24031946028554635,
+            "std": 0.08085697041657375,
+            "std_err": 0.0018084689968394828,
+            "min": 0.13636363636363635,
+            "max": 0.75,
+            "count": 2000,
+            "sum": 534.1391784460465
+          }
+        }
+      }
+    },
+    "pairwise_comparisons": {
+      "bne_8k_vs_bpe_8k": {
+        "tokenizer_1": "bne_8k",
+        "tokenizer_2": "bpe_8k",
+        "value_1": 0.40057673560961554,
+        "value_2": 0.3588268900247175,
+        "difference": 0.04174984558489803,
+        "ratio": 1.116350938977907,
+        "percent_difference": 10.995429617556592
+      },
+      "bne_8k_vs_bne_16k": {
+        "tokenizer_1": "bne_8k",
+        "tokenizer_2": "bne_16k",
+        "value_1": 0.40057673560961554,
+        "value_2": 0.3673648056373791,
+        "difference": 0.03321192997223643,
+        "ratio": 1.0904058566922699,
+        "percent_difference": 8.649598488527243
+      },
+      "bne_8k_vs_bpe_16k": {
+        "tokenizer_1": "bne_8k",
+        "tokenizer_2": "bpe_16k",
+        "value_1": 0.40057673560961554,
+        "value_2": 0.3250800684569747,
+        "difference": 0.07549666715264086,
+        "ratio": 1.2322402216506025,
+        "percent_difference": 20.807816237526207
+      },
+      "bne_8k_vs_bne_32k": {
+        "tokenizer_1": "bne_8k",
+        "tokenizer_2": "bne_32k",
+        "value_1": 0.40057673560961554,
+        "value_2": 0.3434713327466635,
+        "difference": 0.057105402862952015,
+        "ratio": 1.1662595897197383,
+        "percent_difference": 15.349923020190607
+      },
+      "bne_8k_vs_bpe_32k": {
+        "tokenizer_1": "bne_8k",
+        "tokenizer_2": "bpe_32k",
+        "value_1": 0.40057673560961554,
+        "value_2": 0.3008199396398705,
+        "difference": 0.09975679596974502,
+        "ratio": 1.331616302061525,
+        "percent_difference": 28.445186437264375
+      },
+      "bne_8k_vs_bne_64k": {
+        "tokenizer_1": "bne_8k",
+        "tokenizer_2": "bne_64k",
+        "value_1": 0.40057673560961554,
+        "value_2": 0.3266019802880985,
+        "difference": 0.07397475532151704,
+        "ratio": 1.226498183679913,
+        "percent_difference": 20.34568771177357
+      },
+      "bne_8k_vs_bpe_64k": {
+        "tokenizer_1": "bne_8k",
+        "tokenizer_2": "bpe_64k",
+        "value_1": 0.40057673560961554,
+        "value_2": 0.2831387548140144,
+        "difference": 0.11743798079560114,
+        "ratio": 1.4147718346530933,
+        "percent_difference": 34.352879945088446
+      },
+      "bne_8k_vs_bne_128k": {
+        "tokenizer_1": "bne_8k",
+        "tokenizer_2": "bne_128k",
+        "value_1": 0.40057673560961554,
+        "value_2": 0.3168801094811891,
+        "difference": 0.08369662612842643,
+        "ratio": 1.264127105565125,
+        "percent_difference": 23.331473300762333
+      },
+      "bne_8k_vs_bpe_128k": {
+        "tokenizer_1": "bne_8k",
+        "tokenizer_2": "bpe_128k",
+        "value_1": 0.40057673560961554,
+        "value_2": 0.2725265011401518,
+        "difference": 0.12805023446946373,
+        "ratio": 1.4698634222130622,
+        "percent_difference": 38.04772506748995
+      },
+      "bne_8k_vs_bne_256k": {
+        "tokenizer_1": "bne_8k",
+        "tokenizer_2": "bne_256k",
+        "value_1": 0.40057673560961554,
+        "value_2": 0.3114695432470613,
+        "difference": 0.08910719236255427,
+        "ratio": 1.2860863743967204,
+        "percent_difference": 25.028483402969957
+      },
+      "bne_8k_vs_bpe_256k": {
+        "tokenizer_1": "bne_8k",
+        "tokenizer_2": "bpe_256k",
+        "value_1": 0.40057673560961554,
+        "value_2": 0.26706958922302293,
+        "difference": 0.1335071463865926,
+        "ratio": 1.4998964755777724,
+        "percent_difference": 39.99337416260304
+      },
+      "bpe_8k_vs_bne_16k": {
+        "tokenizer_1": "bpe_8k",
+        "tokenizer_2": "bne_16k",
+        "value_1": 0.3588268900247175,
+        "value_2": 0.3673648056373791,
+        "difference": -0.008537915612661595,
+        "ratio": 0.9767590267721801,
+        "percent_difference": 2.351421990546794
+      },
+      "bpe_8k_vs_bpe_16k": {
+        "tokenizer_1": "bpe_8k",
+        "tokenizer_2": "bpe_16k",
+        "value_1": 0.3588268900247175,
+        "value_2": 0.3250800684569747,
+        "difference": 0.033746821567742835,
+        "ratio": 1.103810798760827,
+        "percent_difference": 9.868834100668453
+      },
+      "bpe_8k_vs_bne_32k": {
+        "tokenizer_1": "bpe_8k",
+        "tokenizer_2": "bne_32k",
+        "value_1": 0.3588268900247175,
+        "value_2": 0.3434713327466635,
+        "difference": 0.015355557278053988,
+        "ratio": 1.0447069545957708,
+        "percent_difference": 4.37294493426411
+      },
+      "bpe_8k_vs_bpe_32k": {
+        "tokenizer_1": "bpe_8k",
+        "tokenizer_2": "bpe_32k",
+        "value_1": 0.3588268900247175,
+        "value_2": 0.3008199396398705,
+        "difference": 0.05800695038484699,
+        "ratio": 1.1928294728543944,
+        "percent_difference": 17.587274819267122
+      },
+      "bpe_8k_vs_bne_64k": {
+        "tokenizer_1": "bpe_8k",
+        "tokenizer_2": "bne_64k",
+        "value_1": 0.3588268900247175,
+        "value_2": 0.3266019802880985,
+        "difference": 0.03222490973661901,
+        "ratio": 1.0986672209035386,
+        "percent_difference": 9.402845760468832
+      },
+      "bpe_8k_vs_bpe_64k": {
+        "tokenizer_1": "bpe_8k",
+        "tokenizer_2": "bpe_64k",
+        "value_1": 0.3588268900247175,
+        "value_2": 0.2831387548140144,
+        "difference": 0.07568813521070311,
+        "ratio": 1.2673181750072344,
+        "percent_difference": 23.58012015727624
+      },
+      "bpe_8k_vs_bne_128k": {
+        "tokenizer_1": "bpe_8k",
+        "tokenizer_2": "bne_128k",
+        "value_1": 0.3588268900247175,
+        "value_2": 0.3168801094811891,
+        "difference": 0.041946780543528406,
+        "ratio": 1.1323742932688505,
+        "percent_difference": 12.415671459434611
+      },
+      "bpe_8k_vs_bpe_128k": {
+        "tokenizer_1": "bpe_8k",
+        "tokenizer_2": "bpe_128k",
+        "value_1": 0.3588268900247175,
+        "value_2": 0.2725265011401518,
+        "difference": 0.0863003888845657,
+        "ratio": 1.3166678782559356,
+        "percent_difference": 27.338219796471968
+      },
+      "bpe_8k_vs_bne_256k": {
+        "tokenizer_1": "bpe_8k",
+        "tokenizer_2": "bne_256k",
+        "value_1": 0.3588268900247175,
+        "value_2": 0.3114695432470613,
+        "difference": 0.04735734677765624,
+        "ratio": 1.1520448718162206,
+        "percent_difference": 14.130269661886953
+      },
+      "bpe_8k_vs_bpe_256k": {
+        "tokenizer_1": "bpe_8k",
+        "tokenizer_2": "bpe_256k",
+        "value_1": 0.3588268900247175,
+        "value_2": 0.26706958922302293,
+        "difference": 0.09175730080169459,
+        "ratio": 1.343570756478269,
+        "percent_difference": 29.320280220133814
+      },
+      "bne_16k_vs_bpe_16k": {
+        "tokenizer_1": "bne_16k",
+        "tokenizer_2": "bpe_16k",
+        "value_1": 0.3673648056373791,
+        "value_2": 0.3250800684569747,
+        "difference": 0.04228473718040443,
+        "ratio": 1.130074837811845,
+        "percent_difference": 12.213170683286084
+      },
+      "bne_16k_vs_bne_32k": {
+        "tokenizer_1": "bne_16k",
+        "tokenizer_2": "bne_32k",
+        "value_1": 0.3673648056373791,
+        "value_2": 0.3434713327466635,
+        "difference": 0.023893472890715584,
+        "ratio": 1.0695646786578805,
+        "percent_difference": 6.722638763142536
+      },
+      "bne_16k_vs_bpe_32k": {
+        "tokenizer_1": "bne_16k",
+        "tokenizer_2": "bpe_32k",
+        "value_1": 0.3673648056373791,
+        "value_2": 0.3008199396398705,
+        "difference": 0.06654486599750858,
+        "ratio": 1.2212116194065241,
+        "percent_difference": 19.918103927947996
+      },
+      "bne_16k_vs_bne_64k": {
+        "tokenizer_1": "bne_16k",
+        "tokenizer_2": "bne_64k",
+        "value_1": 0.3673648056373791,
+        "value_2": 0.3266019802880985,
+        "difference": 0.04076282534928061,
+        "ratio": 1.124808873826556,
+        "percent_difference": 11.747774151732376
+      },
+      "bne_16k_vs_bpe_64k": {
+        "tokenizer_1": "bne_16k",
+        "tokenizer_2": "bpe_64k",
+        "value_1": 0.3673648056373791,
+        "value_2": 0.2831387548140144,
+        "difference": 0.0842260508233647,
+        "ratio": 1.2974727033700857,
+        "percent_difference": 25.895646371226338
+      },
+      "bne_16k_vs_bne_128k": {
+        "tokenizer_1": "bne_16k",
+        "tokenizer_2": "bne_128k",
+        "value_1": 0.3673648056373791,
+        "value_2": 0.3168801094811891,
+        "difference": 0.05048469615619,
+        "ratio": 1.1593179712000412,
+        "percent_difference": 14.756323369225724
+      },
+      "bne_16k_vs_bpe_128k": {
+        "tokenizer_1": "bne_16k",
+        "tokenizer_2": "bpe_128k",
+        "value_1": 0.3673648056373791,
+        "value_2": 0.2725265011401518,
+        "difference": 0.0948383044972273,
+        "ratio": 1.3479966318888559,
+        "percent_difference": 29.64200435065434
+      },
+      "bne_16k_vs_bne_256k": {
+        "tokenizer_1": "bne_16k",
+        "tokenizer_2": "bne_256k",
+        "value_1": 0.3673648056373791,
+        "value_2": 0.3114695432470613,
+        "difference": 0.055895262390317835,
+        "ratio": 1.1794565908679586,
+        "percent_difference": 16.46801240454997
+      },
+      "bne_16k_vs_bpe_256k": {
+        "tokenizer_1": "bne_16k",
+        "tokenizer_2": "bpe_256k",
+        "value_1": 0.3673648056373791,
+        "value_2": 0.26706958922302293,
+        "difference": 0.10029521641435618,
+        "ratio": 1.3755396363402583,
+        "percent_difference": 31.617206515553008
+      },
+      "bpe_16k_vs_bne_32k": {
+        "tokenizer_1": "bpe_16k",
+        "tokenizer_2": "bne_32k",
+        "value_1": 0.3250800684569747,
+        "value_2": 0.3434713327466635,
+        "difference": -0.018391264289688847,
+        "ratio": 0.9464547327935114,
+        "percent_difference": 5.501825067325508
+      },
+      "bpe_16k_vs_bpe_32k": {
+        "tokenizer_1": "bpe_16k",
+        "tokenizer_2": "bpe_32k",
+        "value_1": 0.3250800684569747,
+        "value_2": 0.3008199396398705,
+        "difference": 0.024260128817104154,
+        "ratio": 1.0806466780298787,
+        "percent_difference": 7.752078128540428
+      },
+      "bpe_16k_vs_bne_64k": {
+        "tokenizer_1": "bpe_16k",
+        "tokenizer_2": "bne_64k",
+        "value_1": 0.3250800684569747,
+        "value_2": 0.3266019802880985,
+        "difference": -0.0015219118311238233,
+        "ratio": 0.9953401634926361,
+        "percent_difference": 0.4670718900588189
+      },
+      "bpe_16k_vs_bpe_64k": {
+        "tokenizer_1": "bpe_16k",
+        "tokenizer_2": "bpe_64k",
+        "value_1": 0.3250800684569747,
+        "value_2": 0.2831387548140144,
+        "difference": 0.041941313642960276,
+        "ratio": 1.1481298936647168,
+        "percent_difference": 13.791521090189448
+      },
+      "bpe_16k_vs_bne_128k": {
+        "tokenizer_1": "bpe_16k",
+        "tokenizer_2": "bne_128k",
+        "value_1": 0.3250800684569747,
+        "value_2": 0.3168801094811891,
+        "difference": 0.00819995897578557,
+        "ratio": 1.0258771653077592,
+        "percent_difference": 2.554662814793918
+      },
+      "bpe_16k_vs_bpe_128k": {
+        "tokenizer_1": "bpe_16k",
+        "tokenizer_2": "bpe_128k",
+        "value_1": 0.3250800684569747,
+        "value_2": 0.2725265011401518,
+        "difference": 0.05255356731682287,
+        "ratio": 1.192838373871744,
+        "percent_difference": 17.588015256342178
+      },
+      "bpe_16k_vs_bne_256k": {
+        "tokenizer_1": "bpe_16k",
+        "tokenizer_2": "bne_256k",
+        "value_1": 0.3250800684569747,
+        "value_2": 0.3114695432470613,
+        "difference": 0.013610525209913404,
+        "ratio": 1.0436977723986238,
+        "percent_difference": 4.276343888885012
+      },
+      "bpe_16k_vs_bpe_256k": {
+        "tokenizer_1": "bpe_16k",
+        "tokenizer_2": "bpe_256k",
+        "value_1": 0.3250800684569747,
+        "value_2": 0.26706958922302293,
+        "difference": 0.05801047923395175,
+        "ratio": 1.2172110999336159,
+        "percent_difference": 19.593181717349257
+      },
+      "bne_32k_vs_bpe_32k": {
+        "tokenizer_1": "bne_32k",
+        "tokenizer_2": "bpe_32k",
+        "value_1": 0.3434713327466635,
+        "value_2": 0.3008199396398705,
+        "difference": 0.042651393106793,
+        "ratio": 1.1417837965058217,
+        "percent_difference": 13.239786082715973
+      },
+      "bne_32k_vs_bne_64k": {
+        "tokenizer_1": "bne_32k",
+        "tokenizer_2": "bne_64k",
+        "value_1": 0.3434713327466635,
+        "value_2": 0.3266019802880985,
+        "difference": 0.016869352458565023,
+        "ratio": 1.051651102800064,
+        "percent_difference": 5.035076649199391
+      },
+      "bne_32k_vs_bpe_64k": {
+        "tokenizer_1": "bne_32k",
+        "tokenizer_2": "bpe_64k",
+        "value_1": 0.3434713327466635,
+        "value_2": 0.2831387548140144,
+        "difference": 0.06033257793264912,
+        "ratio": 1.2130848458815884,
+        "percent_difference": 19.256816680853962
+      },
+      "bne_32k_vs_bne_128k": {
+        "tokenizer_1": "bne_32k",
+        "tokenizer_2": "bne_128k",
+        "value_1": 0.3434713327466635,
+        "value_2": 0.3168801094811891,
+        "difference": 0.026591223265474417,
+        "ratio": 1.0839157222869267,
+        "percent_difference": 8.053657966055953
+      },
+      "bne_32k_vs_bpe_128k": {
+        "tokenizer_1": "bne_32k",
+        "tokenizer_2": "bpe_128k",
+        "value_1": 0.3434713327466635,
+        "value_2": 0.2725265011401518,
+        "difference": 0.07094483160651172,
+        "ratio": 1.2603226890218175,
+        "percent_difference": 23.03411723345354
+      },
+      "bne_32k_vs_bne_256k": {
+        "tokenizer_1": "bne_32k",
+        "tokenizer_2": "bne_256k",
+        "value_1": 0.3434713327466635,
+        "value_2": 0.3114695432470613,
+        "difference": 0.03200178949960225,
+        "ratio": 1.1027445225173045,
+        "percent_difference": 9.772420892510876
+      },
+      "bne_32k_vs_bpe_256k": {
+        "tokenizer_1": "bne_32k",
+        "tokenizer_2": "bpe_256k",
+        "value_1": 0.3434713327466635,
+        "value_2": 0.26706958922302293,
+        "difference": 0.0764017435236406,
+        "ratio": 1.286074291520475,
+        "percent_difference": 25.027558603986243
+      },
+      "bpe_32k_vs_bne_64k": {
+        "tokenizer_1": "bpe_32k",
+        "tokenizer_2": "bne_64k",
+        "value_1": 0.3008199396398705,
+        "value_2": 0.3266019802880985,
+        "difference": -0.025782040648227977,
+        "ratio": 0.9210597540606293,
+        "percent_difference": 8.218406093044335
+      },
+      "bpe_32k_vs_bpe_64k": {
+        "tokenizer_1": "bpe_32k",
+        "tokenizer_2": "bpe_64k",
+        "value_1": 0.3008199396398705,
+        "value_2": 0.2831387548140144,
+        "difference": 0.017681184825856122,
+        "ratio": 1.0624470671189834,
+        "percent_difference": 6.05562858941298
+      },
+      "bpe_32k_vs_bne_128k": {
+        "tokenizer_1": "bpe_32k",
+        "tokenizer_2": "bne_128k",
+        "value_1": 0.3008199396398705,
+        "value_2": 0.3168801094811891,
+        "difference": -0.016060169841318583,
+        "ratio": 0.9493178354816494,
+        "percent_difference": 5.199989821652432
+      },
+      "bpe_32k_vs_bpe_128k": {
+        "tokenizer_1": "bpe_32k",
+        "tokenizer_2": "bpe_128k",
+        "value_1": 0.3008199396398705,
+        "value_2": 0.2725265011401518,
+        "difference": 0.028293438499718715,
+        "ratio": 1.1038190355115898,
+        "percent_difference": 9.86957849122644
+      },
+      "bpe_32k_vs_bne_256k": {
+        "tokenizer_1": "bpe_32k",
+        "tokenizer_2": "bne_256k",
+        "value_1": 0.3008199396398705,
+        "value_2": 0.3114695432470613,
+        "difference": -0.01064960360719075,
+        "ratio": 0.9658085233754513,
+        "percent_difference": 3.4786171916519275
+      },
+      "bpe_32k_vs_bpe_256k": {
+        "tokenizer_1": "bpe_32k",
+        "tokenizer_2": "bpe_256k",
+        "value_1": 0.3008199396398705,
+        "value_2": 0.26706958922302293,
+        "difference": 0.033750350416847597,
+        "ratio": 1.1263728697641555,
+        "percent_difference": 11.886237974638199
+      },
+      "bne_64k_vs_bpe_64k": {
+        "tokenizer_1": "bne_64k",
+        "tokenizer_2": "bpe_64k",
+        "value_1": 0.3266019802880985,
+        "value_2": 0.2831387548140144,
+        "difference": 0.0434632254740841,
+        "ratio": 1.1535050385548027,
+        "percent_difference": 14.256297134815945
+      },
+      "bne_64k_vs_bne_128k": {
+        "tokenizer_1": "bne_64k",
+        "tokenizer_2": "bne_128k",
+        "value_1": 0.3266019802880985,
+        "value_2": 0.3168801094811891,
+        "difference": 0.009721870806909394,
+        "ratio": 1.0306799654381162,
+        "percent_difference": 3.0216445683500055
+      },
+      "bne_64k_vs_bpe_128k": {
+        "tokenizer_1": "bne_64k",
+        "tokenizer_2": "bpe_128k",
+        "value_1": 0.3266019802880985,
+        "value_2": 0.2725265011401518,
+        "difference": 0.05407547914794669,
+        "ratio": 1.1984228283184004,
+        "percent_difference": 18.05137990403569
+      },
+      "bne_64k_vs_bne_256k": {
+        "tokenizer_1": "bne_64k",
+        "tokenizer_2": "bne_256k",
+        "value_1": 0.3266019802880985,
+        "value_2": 0.3114695432470613,
+        "difference": 0.015132437041037228,
+        "ratio": 1.0485840024141109,
+        "percent_difference": 4.743178933044293
+      },
+      "bne_64k_vs_bpe_256k": {
+        "tokenizer_1": "bne_64k",
+        "tokenizer_2": "bpe_256k",
+        "value_1": 0.3266019802880985,
+        "value_2": 0.26706958922302293,
+        "difference": 0.059532391065075574,
+        "ratio": 1.2229096590078685,
+        "percent_difference": 20.055665159812015
+      },
+      "bpe_64k_vs_bne_128k": {
+        "tokenizer_1": "bpe_64k",
+        "tokenizer_2": "bne_128k",
+        "value_1": 0.2831387548140144,
+        "value_2": 0.3168801094811891,
+        "difference": -0.033741354667174706,
+        "ratio": 0.8935201243068944,
+        "percent_difference": 11.246764618578485
+      },
+      "bpe_64k_vs_bpe_128k": {
+        "tokenizer_1": "bpe_64k",
+        "tokenizer_2": "bpe_128k",
+        "value_1": 0.2831387548140144,
+        "value_2": 0.2725265011401518,
+        "difference": 0.010612253673862593,
+        "ratio": 1.0389402631651043,
+        "percent_difference": 3.81965709036087
+      },
+      "bpe_64k_vs_bne_256k": {
+        "tokenizer_1": "bpe_64k",
+        "tokenizer_2": "bne_256k",
+        "value_1": 0.2831387548140144,
+        "value_2": 0.3114695432470613,
+        "difference": -0.028330788433046872,
+        "ratio": 0.9090415450008396,
+        "percent_difference": 9.529227400770937
+      },
+      "bpe_64k_vs_bpe_256k": {
+        "tokenizer_1": "bpe_64k",
+        "tokenizer_2": "bpe_256k",
+        "value_1": 0.2831387548140144,
+        "value_2": 0.26706958922302293,
+        "difference": 0.016069165590991474,
+        "ratio": 1.0601684588565137,
+        "percent_difference": 5.841120282941321
+      },
+      "bne_128k_vs_bpe_128k": {
+        "tokenizer_1": "bne_128k",
+        "tokenizer_2": "bpe_128k",
+        "value_1": 0.3168801094811891,
+        "value_2": 0.2725265011401518,
+        "difference": 0.0443536083410373,
+        "ratio": 1.1627497074797422,
+        "percent_difference": 15.050258189089732
+      },
+      "bne_128k_vs_bne_256k": {
+        "tokenizer_1": "bne_128k",
+        "tokenizer_2": "bne_256k",
+        "value_1": 0.3168801094811891,
+        "value_2": 0.3114695432470613,
+        "difference": 0.005410566234127834,
+        "ratio": 1.0173710924597084,
+        "percent_difference": 1.7221514201959154
+      },
+      "bne_128k_vs_bpe_256k": {
+        "tokenizer_1": "bne_128k",
+        "tokenizer_2": "bpe_256k",
+        "value_1": 0.3168801094811891,
+        "value_2": 0.26706958922302293,
+        "difference": 0.04981052025816618,
+        "ratio": 1.1865076454533006,
+        "percent_difference": 17.05986675520033
+      },
+      "bpe_128k_vs_bne_256k": {
+        "tokenizer_1": "bpe_128k",
+        "tokenizer_2": "bne_256k",
+        "value_1": 0.2725265011401518,
+        "value_2": 0.3114695432470613,
+        "difference": -0.038943042106909465,
+        "ratio": 0.8749699835787174,
+        "percent_difference": 13.336748589717724
+      },
+      "bpe_128k_vs_bpe_256k": {
+        "tokenizer_1": "bpe_128k",
+        "tokenizer_2": "bpe_256k",
+        "value_1": 0.2725265011401518,
+        "value_2": 0.26706958922302293,
+        "difference": 0.005456911917128882,
+        "ratio": 1.0204325469365663,
+        "percent_difference": 2.02259134733764
+      },
+      "bne_256k_vs_bpe_256k": {
+        "tokenizer_1": "bne_256k",
+        "tokenizer_2": "bpe_256k",
+        "value_1": 0.3114695432470613,
+        "value_2": 0.26706958922302293,
+        "difference": 0.044399954024038346,
+        "ratio": 1.166248632624964,
+        "percent_difference": 15.348989042269922
+      }
+    },
+    "per_language": {}
+  },
+  "token_length": {
+    "per_tokenizer": {
+      "bne_8k": {},
+      "bpe_8k": {},
+      "bne_16k": {},
+      "bpe_16k": {},
+      "bne_32k": {},
+      "bpe_32k": {},
+      "bne_64k": {},
+      "bpe_64k": {},
+      "bne_128k": {},
+      "bpe_128k": {},
+      "bne_256k": {},
+      "bpe_256k": {}
+    }
+  },
+  "vocabulary_utilization": {
+    "per_tokenizer": {
+      "bne_8k": {
+        "global_utilization": 0.9769287109375,
+        "per_language": {
+          "eng_Latn": {
+            "utilization": 0.9769287109375,
+            "used_tokens": 8003,
+            "vocab_size": 8192,
+            "unused_tokens": 189
+          }
+        }
+      },
+      "bpe_8k": {
+        "global_utilization": 0.980224609375,
+        "per_language": {
+          "eng_Latn": {
+            "utilization": 0.980224609375,
+            "used_tokens": 8030,
+            "vocab_size": 8192,
+            "unused_tokens": 162
+          }
+        }
+      },
+      "bne_16k": {
+        "global_utilization": 0.9769287109375,
+        "per_language": {
+          "eng_Latn": {
+            "utilization": 0.9769287109375,
+            "used_tokens": 16006,
+            "vocab_size": 16384,
+            "unused_tokens": 378
+          }
+        }
+      },
+      "bpe_16k": {
+        "global_utilization": 0.98101806640625,
+        "per_language": {
+          "eng_Latn": {
+            "utilization": 0.98101806640625,
+            "used_tokens": 16073,
+            "vocab_size": 16384,
+            "unused_tokens": 311
+          }
+        }
+      },
+      "bne_32k": {
+        "global_utilization": 0.9681396484375,
+        "per_language": {
+          "eng_Latn": {
+            "utilization": 0.9681396484375,
+            "used_tokens": 31724,
+            "vocab_size": 32768,
+            "unused_tokens": 1044
+          }
+        }
+      },
+      "bpe_32k": {
+        "global_utilization": 0.970794677734375,
+        "per_language": {
+          "eng_Latn": {
+            "utilization": 0.970794677734375,
+            "used_tokens": 31811,
+            "vocab_size": 32768,
+            "unused_tokens": 957
+          }
+        }
+      },
+      "bne_64k": {
+        "global_utilization": 0.896270751953125,
+        "per_language": {
+          "eng_Latn": {
+            "utilization": 0.896270751953125,
+            "used_tokens": 58738,
+            "vocab_size": 65536,
+            "unused_tokens": 6798
+          }
+        }
+      },
+      "bpe_64k": {
+        "global_utilization": 0.9023590087890625,
+        "per_language": {
+          "eng_Latn": {
+            "utilization": 0.9023590087890625,
+            "used_tokens": 59137,
+            "vocab_size": 65536,
+            "unused_tokens": 6399
+          }
+        }
+      },
+      "bne_128k": {
+        "global_utilization": 0.686309814453125,
+        "per_language": {
+          "eng_Latn": {
+            "utilization": 0.686309814453125,
+            "used_tokens": 89956,
+            "vocab_size": 131072,
+            "unused_tokens": 41116
+          }
+        }
+      },
+      "bpe_128k": {
+        "global_utilization": 0.693695068359375,
+        "per_language": {
+          "eng_Latn": {
+            "utilization": 0.693695068359375,
+            "used_tokens": 90924,
+            "vocab_size": 131072,
+            "unused_tokens": 40148
+          }
+        }
+      },
+      "bne_256k": {
+        "global_utilization": 0.432586669921875,
+        "per_language": {
+          "eng_Latn": {
+            "utilization": 0.432586669921875,
+            "used_tokens": 113400,
+            "vocab_size": 262144,
+            "unused_tokens": 148744
+          }
+        }
+      },
+      "bpe_256k": {
+        "global_utilization": 0.43700408935546875,
+        "per_language": {
+          "eng_Latn": {
+            "utilization": 0.43700408935546875,
+            "used_tokens": 114558,
+            "vocab_size": 262144,
+            "unused_tokens": 147586
+          }
+        }
+      }
+    }
+  },
+  "type_token_ratio": {
+    "per_tokenizer": {
+      "bne_8k": {
+        "global_ttr": 0.001313579039198098
+      },
+      "bpe_8k": {
+        "global_ttr": 0.0014717393961909625
+      },
+      "bne_16k": {
+        "global_ttr": 0.00283476671531192
+      },
+      "bpe_16k": {
+        "global_ttr": 0.003224860215260874
+      },
+      "bne_32k": {
+        "global_ttr": 0.005946373919028546
+      },
+      "bpe_32k": {
+        "global_ttr": 0.00682862221153681
+      },
+      "bne_64k": {
+        "global_ttr": 0.011443324295643693
+      },
+      "bpe_64k": {
+        "global_ttr": 0.013296728375699974
+      },
+      "bne_128k": {
+        "global_ttr": 0.017924002913078867
+      },
+      "bpe_128k": {
+        "global_ttr": 0.02102148550073764
+      },
+      "bne_256k": {
+        "global_ttr": 0.022905490813767047
+      },
+      "bpe_256k": {
+        "global_ttr": 0.026923661766534216
+      }
+    },
+    "per_language": {
+      "eng_Latn": {
+        "bne_8k": 0.001313579039198098,
+        "bpe_8k": 0.0014717393961909625,
+        "bne_16k": 0.00283476671531192,
+        "bpe_16k": 0.003224860215260874,
+        "bne_32k": 0.005946373919028546,
+        "bpe_32k": 0.00682862221153681,
+        "bne_64k": 0.011443324295643693,
+        "bpe_64k": 0.013296728375699974,
+        "bne_128k": 0.017924002913078867,
+        "bpe_128k": 0.02102148550073764,
+        "bne_256k": 0.022905490813767047,
+        "bpe_256k": 0.026923661766534216
+      }
+    }
+  },
+  "avg_tokens_per_line": {
+    "per_tokenizer": {
+      "bne_8k": {
+        "global_avg": 46.702588961243094
+      },
+      "bpe_8k": {
+        "global_avg": 41.72455594425063
+      },
+      "bne_16k": {
+        "global_avg": 42.9295472706134
+      },
+      "bpe_16k": {
+        "global_avg": 37.76939981230597
+      },
+      "bne_32k": {
+        "global_avg": 40.23272868970533
+      },
+      "bpe_32k": {
+        "global_avg": 35.03674914077119
+      },
+      "bne_64k": {
+        "global_avg": 38.43179616705984
+      },
+      "bpe_64k": {
+        "global_avg": 33.14395788425602
+      },
+      "bne_128k": {
+        "global_avg": 37.51746681820376
+      },
+      "bpe_128k": {
+        "global_avg": 32.14891738487773
+      },
+      "bne_256k": {
+        "global_avg": 36.98306537842614
+      },
+      "bpe_256k": {
+        "global_avg": 31.601283238340084
+      }
+    }
+  },
+  "compression_ratio": {
+    "per_tokenizer": {
+      "bne_8k": {
+        "global": {
+          "mean": 0.024119323363250737,
+          "median": 0.007017630257066877,
+          "std": 0.04962083837306492,
+          "count": 2000
+        },
+        "per_language": {
+          "eng_Latn": 0.024119323363250737
+        }
+      },
+      "bpe_8k": {
+        "global": {
+          "mean": 0.02661526332141643,
+          "median": 0.007843257874015748,
+          "std": 0.05416112431581649,
+          "count": 2000
+        },
+        "per_language": {
+          "eng_Latn": 0.02661526332141643
+        }
+      },
+      "bne_16k": {
+        "global": {
+          "mean": 0.02643987281680718,
+          "median": 0.007604672681008558,
+          "std": 0.052862804748687646,
+          "count": 2000
+        },
+        "per_language": {
+          "eng_Latn": 0.02643987281680718
+        }
+      },
+      "bpe_16k": {
+        "global": {
+          "mean": 0.029476739355616153,
+          "median": 0.00858384910109048,
+          "std": 0.05849584238354328,
+          "count": 2000
+        },
+        "per_language": {
+          "eng_Latn": 0.029476739355616153
+        }
+      },
+      "bne_32k": {
+        "global": {
+          "mean": 0.0285249898116352,
+          "median": 0.008130081300813009,
+          "std": 0.05754296395960133,
+          "count": 2000
+        },
+        "per_language": {
+          "eng_Latn": 0.0285249898116352
+        }
+      },
+      "bpe_32k": {
+        "global": {
+          "mean": 0.03190056452327483,
+          "median": 0.009174311926605505,
+          "std": 0.06330078175333564,
+          "count": 2000
+        },
+        "per_language": {
+          "eng_Latn": 0.03190056452327483
+        }
+      },
+      "bne_64k": {
+        "global": {
+          "mean": 0.031213919284088044,
+          "median": 0.008333333333333333,
+          "std": 0.0645279668882795,
+          "count": 2000
+        },
+        "per_language": {
+          "eng_Latn": 0.031213919284088044
+        }
+      },
+      "bpe_64k": {
+        "global": {
+          "mean": 0.03527412108615706,
+          "median": 0.009662061239731142,
+          "std": 0.0727582659262209,
+          "count": 2000
+        },
+        "per_language": {
+          "eng_Latn": 0.03527412108615706
+        }
+      },
+      "bne_128k": {
+        "global": {
+          "mean": 0.03300672865989027,
+          "median": 0.008547008547008548,
+          "std": 0.06850501048952315,
+          "count": 2000
+        },
+        "per_language": {
+          "eng_Latn": 0.03300672865989027
+        }
+      },
+      "bpe_128k": {
+        "global": {
+          "mean": 0.03751841416020792,
+          "median": 0.009900990099009901,
+          "std": 0.07731949873226472,
+          "count": 2000
+        },
+        "per_language": {
+          "eng_Latn": 0.03751841416020792
+        }
+      },
+      "bne_256k": {
+        "global": {
+          "mean": 0.03356381402187216,
+          "median": 0.00865817091454273,
+          "std": 0.06906353927044591,
+          "count": 2000
+        },
+        "per_language": {
+          "eng_Latn": 0.03356381402187216
+        }
+      },
+      "bpe_256k": {
+        "global": {
+          "mean": 0.038248430393586275,
+          "median": 0.010152545866831581,
+          "std": 0.07806454214630315,
+          "count": 2000
+        },
+        "per_language": {
+          "eng_Latn": 0.038248430393586275
+        }
+      }
+    },
+    "pairwise_comparisons": {
+      "bne_8k_vs_bpe_8k": {
+        "tokenizer_1": "bne_8k",
+        "tokenizer_2": "bpe_8k",
+        "value_1": 0.024119323363250737,
+        "value_2": 0.02661526332141643,
+        "difference": -0.0024959399581656917,
+        "ratio": 0.9062214817105607,
+        "percent_difference": 9.839204855176266
+      },
+      "bne_8k_vs_bne_16k": {
+        "tokenizer_1": "bne_8k",
+        "tokenizer_2": "bne_16k",
+        "value_1": 0.024119323363250737,
+        "value_2": 0.02643987281680718,
+        "difference": -0.002320549453556444,
+        "ratio": 0.9122329570329352,
+        "percent_difference": 9.179534600558936
+      },
+      "bne_8k_vs_bpe_16k": {
+        "tokenizer_1": "bne_8k",
+        "tokenizer_2": "bpe_16k",
+        "value_1": 0.024119323363250737,
+        "value_2": 0.029476739355616153,
+        "difference": -0.005357415992365416,
+        "ratio": 0.8182493685026707,
+        "percent_difference": 19.991826714836268
+      },
+      "bne_8k_vs_bne_32k": {
+        "tokenizer_1": "bne_8k",
+        "tokenizer_2": "bne_32k",
+        "value_1": 0.024119323363250737,
+        "value_2": 0.0285249898116352,
+        "difference": -0.004405666448384464,
+        "ratio": 0.8455506390194252,
+        "percent_difference": 16.737482864478494
+      },
+      "bne_8k_vs_bpe_32k": {
+        "tokenizer_1": "bne_8k",
+        "tokenizer_2": "bpe_32k",
+        "value_1": 0.024119323363250737,
+        "value_2": 0.03190056452327483,
+        "difference": -0.007781241160024096,
+        "ratio": 0.756078261425535,
+        "percent_difference": 27.780281087980235
+      },
+      "bne_8k_vs_bne_64k": {
+        "tokenizer_1": "bne_8k",
+        "tokenizer_2": "bne_64k",
+        "value_1": 0.024119323363250737,
+        "value_2": 0.031213919284088044,
+        "difference": -0.007094595920837308,
+        "ratio": 0.77271050596796,
+        "percent_difference": 25.643159812823725
+      },
+      "bne_8k_vs_bpe_64k": {
+        "tokenizer_1": "bne_8k",
+        "tokenizer_2": "bpe_64k",
+        "value_1": 0.024119323363250737,
+        "value_2": 0.03527412108615706,
+        "difference": -0.011154797722906323,
+        "ratio": 0.6837682306623396,
+        "percent_difference": 37.5623869816412
+      },
+      "bne_8k_vs_bne_128k": {
+        "tokenizer_1": "bne_8k",
+        "tokenizer_2": "bne_128k",
+        "value_1": 0.024119323363250737,
+        "value_2": 0.03300672865989027,
+        "difference": -0.008887405296639537,
+        "ratio": 0.730739589850978,
+        "percent_difference": 31.115069156325966
+      },
+      "bne_8k_vs_bpe_128k": {
+        "tokenizer_1": "bne_8k",
+        "tokenizer_2": "bpe_128k",
+        "value_1": 0.024119323363250737,
+        "value_2": 0.03751841416020792,
+        "difference": -0.013399090796957187,
+        "ratio": 0.6428662805484918,
+        "percent_difference": 43.47690663323791
+      },
+      "bne_8k_vs_bne_256k": {
+        "tokenizer_1": "bne_8k",
+        "tokenizer_2": "bne_256k",
+        "value_1": 0.024119323363250737,
+        "value_2": 0.03356381402187216,
+        "difference": -0.009444490658621425,
+        "ratio": 0.7186109226899292,
+        "percent_difference": 32.746106008641824
+      },
+      "bne_8k_vs_bpe_256k": {
+        "tokenizer_1": "bne_8k",
+        "tokenizer_2": "bpe_256k",
+        "value_1": 0.024119323363250737,
+        "value_2": 0.038248430393586275,
+        "difference": -0.014129107030335538,
+        "ratio": 0.6305964222598585,
+        "percent_difference": 45.30901364645234
+      },
+      "bpe_8k_vs_bne_16k": {
+        "tokenizer_1": "bpe_8k",
+        "tokenizer_2": "bne_16k",
+        "value_1": 0.02661526332141643,
+        "value_2": 0.02643987281680718,
+        "difference": 0.0001753905046092477,
+        "ratio": 1.0066335608277872,
+        "percent_difference": 0.661163149793098
+      },
+      "bpe_8k_vs_bpe_16k": {
+        "tokenizer_1": "bpe_8k",
+        "tokenizer_2": "bpe_16k",
+        "value_1": 0.02661526332141643,
+        "value_2": 0.029476739355616153,
+        "difference": -0.0028614760341997246,
+        "ratio": 0.9029242685332992,
+        "percent_difference": 10.202795042550276
+      },
+      "bpe_8k_vs_bne_32k": {
+        "tokenizer_1": "bpe_8k",
+        "tokenizer_2": "bne_32k",
+        "value_1": 0.02661526332141643,
+        "value_2": 0.0285249898116352,
+        "difference": -0.0019097264902187723,
+        "ratio": 0.9330507564479549,
+        "percent_difference": 6.926796239439326
+      },
+      "bpe_8k_vs_bpe_32k": {
+        "tokenizer_1": "bpe_8k",
+        "tokenizer_2": "bpe_32k",
+        "value_1": 0.02661526332141643,
+        "value_2": 0.03190056452327483,
+        "difference": -0.005285301201858404,
+        "ratio": 0.8343195087346427,
+        "percent_difference": 18.064518256107704
+      },
+      "bpe_8k_vs_bne_64k": {
+        "tokenizer_1": "bpe_8k",
+        "tokenizer_2": "bne_64k",
+        "value_1": 0.02661526332141643,
+        "value_2": 0.031213919284088044,
+        "difference": -0.004598655962671616,
+        "ratio": 0.8526729078518545,
+        "percent_difference": 15.9042744700109
+      },
+      "bpe_8k_vs_bpe_64k": {
+        "tokenizer_1": "bpe_8k",
+        "tokenizer_2": "bpe_64k",
+        "value_1": 0.02661526332141643,
+        "value_2": 0.03527412108615706,
+        "difference": -0.008658857764740631,
+        "ratio": 0.7545266190023171,
+        "percent_difference": 27.981722059853077
+      },
+      "bpe_8k_vs_bne_128k": {
+        "tokenizer_1": "bpe_8k",
+        "tokenizer_2": "bne_128k",
+        "value_1": 0.02661526332141643,
+        "value_2": 0.03300672865989027,
+        "difference": -0.006391465338473845,
+        "ratio": 0.8063587153900307,
+        "percent_difference": 21.439959069055465
+      },
+      "bpe_8k_vs_bpe_128k": {
+        "tokenizer_1": "bpe_8k",
+        "tokenizer_2": "bpe_128k",
+        "value_1": 0.02661526332141643,
+        "value_2": 0.03751841416020792,
+        "difference": -0.010903150838791495,
+        "ratio": 0.7093920123533529,
+        "percent_difference": 34.00132743647977
+      },
+      "bpe_8k_vs_bne_256k": {
+        "tokenizer_1": "bpe_8k",
+        "tokenizer_2": "bne_256k",
+        "value_1": 0.02661526332141643,
+        "value_2": 0.03356381402187216,
+        "difference": -0.006948550700455733,
+        "ratio": 0.7929749373558188,
+        "percent_difference": 23.092912045886205
+      },
+      "bpe_8k_vs_bpe_256k": {
+        "tokenizer_1": "bpe_8k",
+        "tokenizer_2": "bpe_256k",
+        "value_1": 0.02661526332141643,
+        "value_2": 0.038248430393586275,
+        "difference": -0.011633167072169846,
+        "ratio": 0.6958524323099918,
+        "percent_difference": 35.86957943925769
+      },
+      "bne_16k_vs_bpe_16k": {
+        "tokenizer_1": "bne_16k",
+        "tokenizer_2": "bpe_16k",
+        "value_1": 0.02643987281680718,
+        "value_2": 0.029476739355616153,
+        "difference": -0.0030368665388089723,
+        "ratio": 0.8969741360409199,
+        "percent_difference": 10.86212637290883
+      },
+      "bne_16k_vs_bne_32k": {
+        "tokenizer_1": "bne_16k",
+        "tokenizer_2": "bne_32k",
+        "value_1": 0.02643987281680718,
+        "value_2": 0.0285249898116352,
+        "difference": -0.00208511699482802,
+        "ratio": 0.9269020950192413,
+        "percent_difference": 7.587090716202555
+      },
+      "bne_16k_vs_bpe_32k": {
+        "tokenizer_1": "bne_16k",
+        "tokenizer_2": "bpe_32k",
+        "value_1": 0.02643987281680718,
+        "value_2": 0.03190056452327483,
+        "difference": -0.005460691706467652,
+        "ratio": 0.8288214710907859,
+        "percent_difference": 18.72009177660366
+      },
+      "bne_16k_vs_bne_64k": {
+        "tokenizer_1": "bne_16k",
+        "tokenizer_2": "bne_64k",
+        "value_1": 0.02643987281680718,
+        "value_2": 0.031213919284088044,
+        "difference": -0.004774046467280864,
+        "ratio": 0.8470539241217768,
+        "percent_difference": 16.561083992276494
+      },
+      "bne_16k_vs_bpe_64k": {
+        "tokenizer_1": "bne_16k",
+        "tokenizer_2": "bpe_64k",
+        "value_1": 0.02643987281680718,
+        "value_2": 0.03527412108615706,
+        "difference": -0.008834248269349879,
+        "ratio": 0.7495544042678705,
+        "percent_difference": 28.62964365340015
+      },
+      "bne_16k_vs_bne_128k": {
+        "tokenizer_1": "bne_16k",
+        "tokenizer_2": "bne_128k",
+        "value_1": 0.02643987281680718,
+        "value_2": 0.03300672865989027,
+        "difference": -0.006566855843083093,
+        "ratio": 0.801044935087338,
+        "percent_difference": 22.09329273653177
+      },
+      "bne_16k_vs_bpe_128k": {
+        "tokenizer_1": "bne_16k",
+        "tokenizer_2": "bpe_128k",
+        "value_1": 0.02643987281680718,
+        "value_2": 0.03751841416020792,
+        "difference": -0.011078541343400743,
+        "ratio": 0.7047172277566396,
+        "percent_difference": 34.6430208406991
+      },
+      "bne_16k_vs_bne_256k": {
+        "tokenizer_1": "bne_16k",
+        "tokenizer_2": "bne_256k",
+        "value_1": 0.02643987281680718,
+        "value_2": 0.03356381402187216,
+        "difference": -0.007123941205064981,
+        "ratio": 0.7877493540983572,
+        "percent_difference": 23.745011616428787
+      },
+      "bne_16k_vs_bpe_256k": {
+        "tokenizer_1": "bne_16k",
+        "tokenizer_2": "bpe_256k",
+        "value_1": 0.02643987281680718,
+        "value_2": 0.038248430393586275,
+        "difference": -0.011808557576779094,
+        "ratio": 0.6912668714698623,
+        "percent_difference": 36.50909667045283
+      },
+      "bpe_16k_vs_bne_32k": {
+        "tokenizer_1": "bpe_16k",
+        "tokenizer_2": "bne_32k",
+        "value_1": 0.029476739355616153,
+        "value_2": 0.0285249898116352,
+        "difference": 0.0009517495439809523,
+        "ratio": 1.0333654648175452,
+        "percent_difference": 3.281797138276782
+      },
+      "bpe_16k_vs_bpe_32k": {
+        "tokenizer_1": "bpe_16k",
+        "tokenizer_2": "bpe_32k",
+        "value_1": 0.029476739355616153,
+        "value_2": 0.03190056452327483,
+        "difference": -0.0024238251676586796,
+        "ratio": 0.9240193644256596,
+        "percent_difference": 7.898115474219411
+      },
+      "bpe_16k_vs_bne_64k": {
+        "tokenizer_1": "bpe_16k",
+        "tokenizer_2": "bne_64k",
+        "value_1": 0.029476739355616153,
+        "value_2": 0.031213919284088044,
+        "difference": -0.0017371799284718915,
+        "ratio": 0.9443459851144853,
+        "percent_difference": 5.724702837004368
+      },
+      "bpe_16k_vs_bpe_64k": {
+        "tokenizer_1": "bpe_16k",
+        "tokenizer_2": "bpe_64k",
+        "value_1": 0.029476739355616153,
+        "value_2": 0.03527412108615706,
+        "difference": -0.005797381730540906,
+        "ratio": 0.8356477340319608,
+        "percent_difference": 17.90673263949647
+      },
+      "bpe_16k_vs_bne_128k": {
+        "tokenizer_1": "bpe_16k",
+        "tokenizer_2": "bne_128k",
+        "value_1": 0.029476739355616153,
+        "value_2": 0.03300672865989027,
+        "difference": -0.0035299893042741205,
+        "ratio": 0.8930524336220039,
+        "percent_difference": 11.298954479921274
+      },
+      "bpe_16k_vs_bpe_128k": {
+        "tokenizer_1": "bpe_16k",
+        "tokenizer_2": "bpe_128k",
+        "value_1": 0.029476739355616153,
+        "value_2": 0.03751841416020792,
+        "difference": -0.00804167480459177,
+        "ratio": 0.7856605886844551,
+        "percent_difference": 24.006735957974477
+      },
+      "bpe_16k_vs_bne_256k": {
+        "tokenizer_1": "bpe_16k",
+        "tokenizer_2": "bne_256k",
+        "value_1": 0.029476739355616153,
+        "value_2": 0.03356381402187216,
+        "difference": -0.004087074666256008,
+        "ratio": 0.8782297308764544,
+        "percent_difference": 12.966493621280604
+      },
+      "bpe_16k_vs_bpe_256k": {
+        "tokenizer_1": "bpe_16k",
+        "tokenizer_2": "bpe_256k",
+        "value_1": 0.029476739355616153,
+        "value_2": 0.038248430393586275,
+        "difference": -0.008771691037970122,
+        "ratio": 0.7706653332514003,
+        "percent_difference": 25.903784576555967
+      },
+      "bne_32k_vs_bpe_32k": {
+        "tokenizer_1": "bne_32k",
+        "tokenizer_2": "bpe_32k",
+        "value_1": 0.0285249898116352,
+        "value_2": 0.03190056452327483,
+        "difference": -0.003375574711639632,
+        "ratio": 0.8941844835010117,
+        "percent_difference": 11.172672717011187
+      },
+      "bne_32k_vs_bne_64k": {
+        "tokenizer_1": "bne_32k",
+        "tokenizer_2": "bne_64k",
+        "value_1": 0.0285249898116352,
+        "value_2": 0.031213919284088044,
+        "difference": -0.002688929472452844,
+        "ratio": 0.9138547951002237,
+        "percent_difference": 9.002271762760886
+      },
+      "bne_32k_vs_bpe_64k": {
+        "tokenizer_1": "bne_32k",
+        "tokenizer_2": "bpe_64k",
+        "value_1": 0.0285249898116352,
+        "value_2": 0.03527412108615706,
+        "difference": -0.006749131274521859,
+        "ratio": 0.8086662100513546,
+        "percent_difference": 21.157446176120327
+      },
+      "bne_32k_vs_bne_128k": {
+        "tokenizer_1": "bne_32k",
+        "tokenizer_2": "bne_128k",
+        "value_1": 0.0285249898116352,
+        "value_2": 0.03300672865989027,
+        "difference": -0.004481738848255073,
+        "ratio": 0.8642174177745378,
+        "percent_difference": 14.567247460605378
+      },
+      "bne_32k_vs_bpe_128k": {
+        "tokenizer_1": "bne_32k",
+        "tokenizer_2": "bpe_128k",
+        "value_1": 0.0285249898116352,
+        "value_2": 0.03751841416020792,
+        "difference": -0.008993424348572723,
+        "ratio": 0.7602930574258877,
+        "percent_difference": 27.234890413604273
+      },
+      "bne_32k_vs_bne_256k": {
+        "tokenizer_1": "bne_32k",
+        "tokenizer_2": "bne_256k",
+        "value_1": 0.0285249898116352,
+        "value_2": 0.03356381402187216,
+        "difference": -0.0050388242102369606,
+        "ratio": 0.8498733127601837,
+        "percent_difference": 16.231023627862733
+      },
+      "bne_32k_vs_bpe_256k": {
+        "tokenizer_1": "bne_32k",
+        "tokenizer_2": "bpe_256k",
+        "value_1": 0.0285249898116352,
+        "value_2": 0.038248430393586275,
+        "difference": -0.009723440581951074,
+        "ratio": 0.7457819711320348,
+        "percent_difference": 29.123685897972713
+      },
+      "bpe_32k_vs_bne_64k": {
+        "tokenizer_1": "bpe_32k",
+        "tokenizer_2": "bne_64k",
+        "value_1": 0.03190056452327483,
+        "value_2": 0.031213919284088044,
+        "difference": 0.000686645239186788,
+        "ratio": 1.0219980462221807,
+        "percent_difference": 2.1758721541082613
+      },
+      "bpe_32k_vs_bpe_64k": {
+        "tokenizer_1": "bpe_32k",
+        "tokenizer_2": "bpe_64k",
+        "value_1": 0.03190056452327483,
+        "value_2": 0.03527412108615706,
+        "difference": -0.0033735565628822267,
+        "ratio": 0.9043617116740538,
+        "percent_difference": 10.044130559826694
+      },
+      "bpe_32k_vs_bne_128k": {
+        "tokenizer_1": "bpe_32k",
+        "tokenizer_2": "bne_128k",
+        "value_1": 0.03190056452327483,
+        "value_2": 0.03300672865989027,
+        "difference": -0.001106164136615441,
+        "ratio": 0.9664867079675288,
+        "percent_difference": 3.4084432807693945
+      },
+      "bpe_32k_vs_bpe_128k": {
+        "tokenizer_1": "bpe_32k",
+        "tokenizer_2": "bpe_128k",
+        "value_1": 0.03190056452327483,
+        "value_2": 0.03751841416020792,
+        "difference": -0.005617849636933091,
+        "ratio": 0.8502642032537882,
+        "percent_difference": 16.18534223197892
+      },
+      "bpe_32k_vs_bne_256k": {
+        "tokenizer_1": "bpe_32k",
+        "tokenizer_2": "bne_256k",
+        "value_1": 0.03190056452327483,
+        "value_2": 0.03356381402187216,
+        "difference": -0.0016632494985973287,
+        "ratio": 0.95044515806477,
+        "percent_difference": 5.081387880128677
+      },
+      "bpe_32k_vs_bpe_256k": {
+        "tokenizer_1": "bpe_32k",
+        "tokenizer_2": "bpe_256k",
+        "value_1": 0.03190056452327483,
+        "value_2": 0.038248430393586275,
+        "difference": -0.006347865870311442,
+        "ratio": 0.8340359119318034,
+        "percent_difference": 18.098237552326385
+      },
+      "bne_64k_vs_bpe_64k": {
+        "tokenizer_1": "bne_64k",
+        "tokenizer_2": "bpe_64k",
+        "value_1": 0.031213919284088044,
+        "value_2": 0.03527412108615706,
+        "difference": -0.004060201802069015,
+        "ratio": 0.8848957344067633,
+        "percent_difference": 12.21332973406762
+      },
+      "bne_64k_vs_bne_128k": {
+        "tokenizer_1": "bne_64k",
+        "tokenizer_2": "bne_128k",
+        "value_1": 0.031213919284088044,
+        "value_2": 0.03300672865989027,
+        "difference": -0.001792809375802229,
+        "ratio": 0.9456835182221239,
+        "percent_difference": 5.583280247705233
+      },
+      "bne_64k_vs_bpe_128k": {
+        "tokenizer_1": "bne_64k",
+        "tokenizer_2": "bpe_128k",
+        "value_1": 0.031213919284088044,
+        "value_2": 0.03751841416020792,
+        "difference": -0.006304494876119879,
+        "ratio": 0.8319626504148346,
+        "percent_difference": 18.345062826156916
+      },
+      "bne_64k_vs_bne_256k": {
+        "tokenizer_1": "bne_64k",
+        "tokenizer_2": "bne_256k",
+        "value_1": 0.031213919284088044,
+        "value_2": 0.03356381402187216,
+        "difference": -0.0023498947377841167,
+        "ratio": 0.9299872554337005,
+        "percent_difference": 7.255254600172627
+      },
+      "bne_64k_vs_bpe_256k": {
+        "tokenizer_1": "bne_64k",
+        "tokenizer_2": "bpe_256k",
+        "value_1": 0.031213919284088044,
+        "value_2": 0.038248430393586275,
+        "difference": -0.00703451110949823,
+        "ratio": 0.8160836657318671,
+        "percent_difference": 20.254169754234997
+      },
+      "bpe_64k_vs_bne_128k": {
+        "tokenizer_1": "bpe_64k",
+        "tokenizer_2": "bne_128k",
+        "value_1": 0.03527412108615706,
+        "value_2": 0.03300672865989027,
+        "difference": 0.0022673924262667858,
+        "ratio": 1.0686948546046648,
+        "percent_difference": 6.641371437818233
+      },
+      "bpe_64k_vs_bpe_128k": {
+        "tokenizer_1": "bpe_64k",
+        "tokenizer_2": "bpe_128k",
+        "value_1": 0.03527412108615706,
+        "value_2": 0.03751841416020792,
+        "difference": -0.002244293074050864,
+        "ratio": 0.9401815581951978,
+        "percent_difference": 6.166272589504119
+      },
+      "bpe_64k_vs_bne_256k": {
+        "tokenizer_1": "bpe_64k",
+        "tokenizer_2": "bne_256k",
+        "value_1": 0.03527412108615706,
+        "value_2": 0.03356381402187216,
+        "difference": 0.001710307064284898,
+        "ratio": 1.0509568746618116,
+        "percent_difference": 4.969082996463701
+      },
+      "bpe_64k_vs_bpe_256k": {
+        "tokenizer_1": "bpe_64k",
+        "tokenizer_2": "bpe_256k",
+        "value_1": 0.03527412108615706,
+        "value_2": 0.038248430393586275,
+        "difference": -0.0029743093074292154,
+        "ratio": 0.9222370885073505,
+        "percent_difference": 8.090876193948972
+      },
+      "bne_128k_vs_bpe_128k": {
+        "tokenizer_1": "bne_128k",
+        "tokenizer_2": "bpe_128k",
+        "value_1": 0.03300672865989027,
+        "value_2": 0.03751841416020792,
+        "difference": -0.00451168550031765,
+        "ratio": 0.8797474359909714,
+        "percent_difference": 12.794544810285485
+      },
+      "bne_128k_vs_bne_256k": {
+        "tokenizer_1": "bne_128k",
+        "tokenizer_2": "bne_256k",
+        "value_1": 0.03300672865989027,
+        "value_2": 0.03356381402187216,
+        "difference": -0.0005570853619818877,
+        "ratio": 0.983402203288969,
+        "percent_difference": 1.6736692823581443
+      },
+      "bne_128k_vs_bpe_256k": {
+        "tokenizer_1": "bne_128k",
+        "tokenizer_2": "bpe_256k",
+        "value_1": 0.03300672865989027,
+        "value_2": 0.038248430393586275,
+        "difference": -0.005241701733696001,
+        "ratio": 0.8629564225313946,
+        "percent_difference": 14.712483428076098
+      },
+      "bpe_128k_vs_bne_256k": {
+        "tokenizer_1": "bpe_128k",
+        "tokenizer_2": "bne_256k",
+        "value_1": 0.03751841416020792,
+        "value_2": 0.03356381402187216,
+        "difference": 0.003954600138335762,
+        "ratio": 1.1178233241239721,
+        "percent_difference": 11.126832232118243
+      },
+      "bpe_128k_vs_bpe_256k": {
+        "tokenizer_1": "bpe_128k",
+        "tokenizer_2": "bpe_256k",
+        "value_1": 0.03751841416020792,
+        "value_2": 0.038248430393586275,
+        "difference": -0.0007300162333783514,
+        "ratio": 0.9809138250676879,
+        "percent_difference": 1.9270070904432144
+      },
+      "bne_256k_vs_bpe_256k": {
+        "tokenizer_1": "bne_256k",
+        "tokenizer_2": "bpe_256k",
+        "value_1": 0.03356381402187216,
+        "value_2": 0.038248430393586275,
+        "difference": -0.0046846163717141134,
+        "ratio": 0.8775213433987175,
+        "percent_difference": 13.04684572901524
+      }
+    },
+    "per_language": {}
+  },
+  "renyi_efficiency": {
+    "per_tokenizer": {
+      "bne_8k": {
+        "renyi_1.0": {
+          "overall": 9.91550207345967
+        },
+        "renyi_2.0": {
+          "overall": 7.139064624789483
+        },
+        "renyi_2.5": {
+          "overall": 6.566417734905667
+        },
+        "renyi_3.0": {
+          "overall": 6.205319685630559
+        }
+      },
+      "bpe_8k": {
+        "renyi_1.0": {
+          "overall": 10.59593930203117
+        },
+        "renyi_2.0": {
+          "overall": 7.893781400579435
+        },
+        "renyi_2.5": {
+          "overall": 7.214772628269224
+        },
+        "renyi_3.0": {
+          "overall": 6.793405653446032
+        }
+      },
+      "bne_16k": {
+        "renyi_1.0": {
+          "overall": 10.155693000339538
+        },
+        "renyi_2.0": {
+          "overall": 6.974622435312833
+        },
+        "renyi_2.5": {
+          "overall": 6.409001816317238
+        },
+        "renyi_3.0": {
+          "overall": 6.058138232997659
+        }
+      },
+      "bpe_16k": {
+        "renyi_1.0": {
+          "overall": 10.94437679515262
+        },
+        "renyi_2.0": {
+          "overall": 7.71342936105296
+        },
+        "renyi_2.5": {
+          "overall": 7.0252787162263495
+        },
+        "renyi_3.0": {
+          "overall": 6.612577604842454
+        }
+      },
+      "bne_32k": {
+        "renyi_1.0": {
+          "overall": 10.293728703218266
+        },
+        "renyi_2.0": {
+          "overall": 6.8388493834524215
+        },
+        "renyi_2.5": {
+          "overall": 6.2859166662833825
+        },
+        "renyi_3.0": {
+          "overall": 5.94456411833219
+        }
+      },
+      "bpe_32k": {
+        "renyi_1.0": {
+          "overall": 11.169408310080577
+        },
+        "renyi_2.0": {
+          "overall": 7.554284818921826
+        },
+        "renyi_2.5": {
+          "overall": 6.87461028791531
+        },
+        "renyi_3.0": {
+          "overall": 6.472969819513748
+        }
+      },
+      "bne_64k": {
+        "renyi_1.0": {
+          "overall": 10.34251657564889
+        },
+        "renyi_2.0": {
+          "overall": 6.740881947336771
+        },
+        "renyi_2.5": {
+          "overall": 6.200006851018468
+        },
+        "renyi_3.0": {
+          "overall": 5.865946314614219
+        }
+      },
+      "bpe_64k": {
+        "renyi_1.0": {
+          "overall": 11.278978391185346
+        },
+        "renyi_2.0": {
+          "overall": 7.434770192249436
+        },
+        "renyi_2.5": {
+          "overall": 6.767704938096956
+        },
+        "renyi_3.0": {
+          "overall": 6.37532773696292
+        }
+      },
+      "bne_128k": {
+        "renyi_1.0": {
+          "overall": 10.344445302498976
+        },
+        "renyi_2.0": {
+          "overall": 6.681553026127403
+        },
+        "renyi_2.5": {
+          "overall": 6.148720642657356
+        },
+        "renyi_3.0": {
+          "overall": 5.819222487196114
+        }
+      },
+      "bpe_128k": {
+        "renyi_1.0": {
+          "overall": 11.314289342190955
+        },
+        "renyi_2.0": {
+          "overall": 7.360994767883942
+        },
+        "renyi_2.5": {
+          "overall": 6.703270524234993
+        },
+        "renyi_3.0": {
+          "overall": 6.316802305105997
+        }
+      },
+      "bne_256k": {
+        "renyi_1.0": {
+          "overall": 10.325715825659344
+        },
+        "renyi_2.0": {
+          "overall": 6.644968583524013
+        },
+        "renyi_2.5": {
+          "overall": 6.117367349335874
+        },
+        "renyi_3.0": {
+          "overall": 5.790742318257932
+        }
+      },
+      "bpe_256k": {
+        "renyi_1.0": {
+          "overall": 11.315314892081311
+        },
+        "renyi_2.0": {
+          "overall": 7.316525825036247
+        },
+        "renyi_2.5": {
+          "overall": 6.664930753989696
+        },
+        "renyi_3.0": {
+          "overall": 6.282071611710301
+        }
+      }
+    },
+    "pairwise_comparisons": {
+      "shannon": {
+        "bne_8k_vs_bpe_8k": {
+          "tokenizer_1": "bne_8k",
+          "tokenizer_2": "bpe_8k",
+          "value_1": 9.91550207345967,
+          "value_2": 10.59593930203117,
+          "difference": -0.680437228571499,
+          "ratio": 0.9357832081539893,
+          "percent_difference": 6.634709049599555
+        },
+        "bne_8k_vs_bne_16k": {
+          "tokenizer_1": "bne_8k",
+          "tokenizer_2": "bne_16k",
+          "value_1": 9.91550207345967,
+          "value_2": 10.155693000339538,
+          "difference": -0.2401909268798672,
+          "ratio": 0.9763491347294727,
+          "percent_difference": 2.3933893920787077
+        },
+        "bne_8k_vs_bpe_16k": {
+          "tokenizer_1": "bne_8k",
+          "tokenizer_2": "bpe_16k",
+          "value_1": 9.91550207345967,
+          "value_2": 10.94437679515262,
+          "difference": -1.028874721692949,
+          "ratio": 0.905990561093561,
+          "percent_difference": 9.864627960434511
+        },
+        "bne_8k_vs_bne_32k": {
+          "tokenizer_1": "bne_8k",
+          "tokenizer_2": "bne_32k",
+          "value_1": 9.91550207345967,
+          "value_2": 10.293728703218266,
+          "difference": -0.3782266297585952,
+          "ratio": 0.9632565962574529,
+          "percent_difference": 3.7431076317370797
+        },
+        "bne_8k_vs_bpe_32k": {
+          "tokenizer_1": "bne_8k",
+          "tokenizer_2": "bpe_32k",
+          "value_1": 9.91550207345967,
+          "value_2": 11.169408310080577,
+          "difference": -1.2539062366209066,
+          "ratio": 0.8877374519929372,
+          "percent_difference": 11.893873047710533
+        },
+        "bne_8k_vs_bne_64k": {
+          "tokenizer_1": "bne_8k",
+          "tokenizer_2": "bne_64k",
+          "value_1": 9.91550207345967,
+          "value_2": 10.34251657564889,
+          "difference": -0.42701450218921977,
+          "ratio": 0.9587127079694887,
+          "percent_difference": 4.215757815071517
+        },
+        "bne_8k_vs_bpe_64k": {
+          "tokenizer_1": "bne_8k",
+          "tokenizer_2": "bpe_64k",
+          "value_1": 9.91550207345967,
+          "value_2": 11.278978391185346,
+          "difference": -1.3634763177256755,
+          "ratio": 0.8791134914496114,
+          "percent_difference": 12.866333949540499
+        },
+        "bne_8k_vs_bne_128k": {
+          "tokenizer_1": "bne_8k",
+          "tokenizer_2": "bne_128k",
+          "value_1": 9.91550207345967,
+          "value_2": 10.344445302498976,
+          "difference": -0.42894322903930515,
+          "ratio": 0.9585339555195209,
+          "percent_difference": 4.234396280301382
+        },
+        "bne_8k_vs_bpe_128k": {
+          "tokenizer_1": "bne_8k",
+          "tokenizer_2": "bpe_128k",
+          "value_1": 9.91550207345967,
+          "value_2": 11.314289342190955,
+          "difference": -1.3987872687312848,
+          "ratio": 0.8763698517488667,
+          "percent_difference": 13.177588430756765
+        },
+        "bne_8k_vs_bne_256k": {
+          "tokenizer_1": "bne_8k",
+          "tokenizer_2": "bne_256k",
+          "value_1": 9.91550207345967,
+          "value_2": 10.325715825659344,
+          "difference": -0.4102137521996738,
+          "ratio": 0.9602726087831804,
+          "percent_difference": 4.053251679263115
+        },
+        "bne_8k_vs_bpe_256k": {
+          "tokenizer_1": "bne_8k",
+          "tokenizer_2": "bpe_256k",
+          "value_1": 9.91550207345967,
+          "value_2": 11.315314892081311,
+          "difference": -1.3998128186216405,
+          "ratio": 0.876290423026472,
+          "percent_difference": 13.186612845785719
+        },
+        "bpe_8k_vs_bne_16k": {
+          "tokenizer_1": "bpe_8k",
+          "tokenizer_2": "bne_16k",
+          "value_1": 10.59593930203117,
+          "value_2": 10.155693000339538,
+          "difference": 0.4402463016916318,
+          "ratio": 1.04334970559635,
+          "percent_difference": 4.243004070974573
+        },
+        "bpe_8k_vs_bpe_16k": {
+          "tokenizer_1": "bpe_8k",
+          "tokenizer_2": "bpe_16k",
+          "value_1": 10.59593930203117,
+          "value_2": 10.94437679515262,
+          "difference": -0.34843749312145,
+          "ratio": 0.9681628749043274,
+          "percent_difference": 3.2352124411675205
+        },
+        "bpe_8k_vs_bne_32k": {
+          "tokenizer_1": "bpe_8k",
+          "tokenizer_2": "bne_32k",
+          "value_1": 10.59593930203117,
+          "value_2": 10.293728703218266,
+          "difference": 0.3022105988129038,
+          "ratio": 1.029358710291094,
+          "percent_difference": 2.8933978150055837
+        },
+        "bpe_8k_vs_bpe_32k": {
+          "tokenizer_1": "bpe_8k",
+          "tokenizer_2": "bpe_32k",
+          "value_1": 10.59593930203117,
+          "value_2": 11.169408310080577,
+          "difference": -0.5734690080494076,
+          "ratio": 0.948657172150127,
+          "percent_difference": 5.2695598367589565
+        },
+        "bpe_8k_vs_bne_64k": {
+          "tokenizer_1": "bpe_8k",
+          "tokenizer_2": "bne_64k",
+          "value_1": 10.59593930203117,
+          "value_2": 10.34251657564889,
+          "difference": 0.25342272638227925,
+          "ratio": 1.0245030041314078,
+          "percent_difference": 2.4206438895279034
+        },
+        "bpe_8k_vs_bpe_64k": {
+          "tokenizer_1": "bpe_8k",
+          "tokenizer_2": "bpe_64k",
+          "value_1": 10.59593930203117,
+          "value_2": 11.278978391185346,
+          "difference": -0.6830390891541764,
+          "ratio": 0.939441404578984,
+          "percent_difference": 6.244952312355342
+        },
+        "bpe_8k_vs_bne_128k": {
+          "tokenizer_1": "bpe_8k",
+          "tokenizer_2": "bne_128k",
+          "value_1": 10.59593930203117,
+          "value_2": 10.344445302498976,
+          "difference": 0.25149399953219387,
+          "ratio": 1.0243119850487719,
+          "percent_difference": 2.4019998131055034
+        },
+        "bpe_8k_vs_bpe_128k": {
+          "tokenizer_1": "bpe_8k",
+          "tokenizer_2": "bpe_128k",
+          "value_1": 10.59593930203117,
+          "value_2": 11.314289342190955,
+          "difference": -0.7183500401597858,
+          "ratio": 0.9365094865056119,
+          "percent_difference": 6.557211719004306
+        },
+        "bpe_8k_vs_bne_256k": {
+          "tokenizer_1": "bpe_8k",
+          "tokenizer_2": "bne_256k",
+          "value_1": 10.59593930203117,
+          "value_2": 10.325715825659344,
+          "difference": 0.2702234763718252,
+          "ratio": 1.026169950920044,
+          "percent_difference": 2.583194061106335
+        },
+        "bpe_8k_vs_bpe_256k": {
+          "tokenizer_1": "bpe_8k",
+          "tokenizer_2": "bpe_256k",
+          "value_1": 10.59593930203117,
+          "value_2": 11.315314892081311,
+          "difference": -0.7193755900501415,
+          "ratio": 0.9364246071001016,
+          "percent_difference": 6.566265752541327
+        },
+        "bne_16k_vs_bpe_16k": {
+          "tokenizer_1": "bne_16k",
+          "tokenizer_2": "bpe_16k",
+          "value_1": 10.155693000339538,
+          "value_2": 10.94437679515262,
+          "difference": -0.7886837948130818,
+          "ratio": 0.9279370758541137,
+          "percent_difference": 7.475651051937062
+        },
+        "bne_16k_vs_bne_32k": {
+          "tokenizer_1": "bne_16k",
+          "tokenizer_2": "bne_32k",
+          "value_1": 10.155693000339538,
+          "value_2": 10.293728703218266,
+          "difference": -0.13803570287872802,
+          "ratio": 0.9865903107747951,
+          "percent_difference": 1.350020600873153
+        },
+        "bne_16k_vs_bpe_32k": {
+          "tokenizer_1": "bne_16k",
+          "tokenizer_2": "bpe_32k",
+          "value_1": 10.155693000339538,
+          "value_2": 11.169408310080577,
+          "difference": -1.0137153097410394,
+          "ratio": 0.9092418074799768,
+          "percent_difference": 9.507249648991877
+        },
+        "bne_16k_vs_bne_64k": {
+          "tokenizer_1": "bne_16k",
+          "tokenizer_2": "bne_64k",
+          "value_1": 10.155693000339538,
+          "value_2": 10.34251657564889,
+          "difference": -0.18682357530935256,
+          "ratio": 0.9819363523429856,
+          "percent_difference": 1.822828229136631
+        },
+        "bne_16k_vs_bpe_64k": {
+          "tokenizer_1": "bne_16k",
+          "tokenizer_2": "bpe_64k",
+          "value_1": 10.155693000339538,
+          "value_2": 11.278978391185346,
+          "difference": -1.1232853908458083,
+          "ratio": 0.9004089420258427,
+          "percent_difference": 10.481013404198464
+        },
+        "bne_16k_vs_bne_128k": {
+          "tokenizer_1": "bne_16k",
+          "tokenizer_2": "bne_128k",
+          "value_1": 10.155693000339538,
+          "value_2": 10.344445302498976,
+          "difference": -0.18875230215943795,
+          "ratio": 0.9817532698332466,
+          "percent_difference": 1.841473451262548
+        },
+        "bne_16k_vs_bpe_128k": {
+          "tokenizer_1": "bne_16k",
+          "tokenizer_2": "bpe_128k",
+          "value_1": 10.155693000339538,
+          "value_2": 11.314289342190955,
+          "difference": -1.1585963418514176,
+          "ratio": 0.8975988410044443,
+          "percent_difference": 10.792708846865901
+        },
+        "bne_16k_vs_bne_256k": {
+          "tokenizer_1": "bne_16k",
+          "tokenizer_2": "bne_256k",
+          "value_1": 10.155693000339538,
+          "value_2": 10.325715825659344,
+          "difference": -0.17002282531980661,
+          "ratio": 0.9835340398486174,
+          "percent_difference": 1.6602649433371148
+        },
+        "bne_16k_vs_bpe_256k": {
+          "tokenizer_1": "bne_16k",
+          "tokenizer_2": "bpe_256k",
+          "value_1": 10.155693000339538,
+          "value_2": 11.315314892081311,
+          "difference": -1.1596218917417733,
+          "ratio": 0.8975174882182643,
+          "percent_difference": 10.801746220317058
+        },
+        "bpe_16k_vs_bne_32k": {
+          "tokenizer_1": "bpe_16k",
+          "tokenizer_2": "bne_32k",
+          "value_1": 10.94437679515262,
+          "value_2": 10.293728703218266,
+          "difference": 0.6506480919343538,
+          "ratio": 1.063208202847908,
+          "percent_difference": 6.127176381003128
+        },
+        "bpe_16k_vs_bpe_32k": {
+          "tokenizer_1": "bpe_16k",
+          "tokenizer_2": "bpe_32k",
+          "value_1": 10.94437679515262,
+          "value_2": 11.169408310080577,
+          "difference": -0.2250315149279576,
+          "ratio": 0.9798528705656805,
+          "percent_difference": 2.0352148115494186
+        },
+        "bpe_16k_vs_bne_64k": {
+          "tokenizer_1": "bpe_16k",
+          "tokenizer_2": "bne_64k",
+          "value_1": 10.94437679515262,
+          "value_2": 10.34251657564889,
+          "difference": 0.6018602195037293,
+          "ratio": 1.0581928213604017,
+          "percent_difference": 5.654749230146283
+        },
+        "bpe_16k_vs_bpe_64k": {
+          "tokenizer_1": "bpe_16k",
+          "tokenizer_2": "bpe_64k",
+          "value_1": 10.94437679515262,
+          "value_2": 11.278978391185346,
+          "difference": -0.33460159603272643,
+          "ratio": 0.9703340511500385,
+          "percent_difference": 3.011260840023168
+        },
+        "bpe_16k_vs_bne_128k": {
+          "tokenizer_1": "bpe_16k",
+          "tokenizer_2": "bne_128k",
+          "value_1": 10.94437679515262,
+          "value_2": 10.344445302498976,
+          "difference": 0.5999314926536439,
+          "ratio": 1.057995520794983,
+          "percent_difference": 5.636117300447762
+        },
+        "bpe_16k_vs_bpe_128k": {
+          "tokenizer_1": "bpe_16k",
+          "tokenizer_2": "bpe_128k",
+          "value_1": 10.94437679515262,
+          "value_2": 11.314289342190955,
+          "difference": -0.36991254703833576,
+          "ratio": 0.9673057197097715,
+          "percent_difference": 3.3237620327817394
+        },
+        "bpe_16k_vs_bne_256k": {
+          "tokenizer_1": "bpe_16k",
+          "tokenizer_2": "bne_256k",
+          "value_1": 10.94437679515262,
+          "value_2": 10.325715825659344,
+          "difference": 0.6186609694932752,
+          "ratio": 1.0599145841255777,
+          "percent_difference": 5.817191119214397
+        },
+        "bpe_16k_vs_bpe_256k": {
+          "tokenizer_1": "bpe_16k",
+          "tokenizer_2": "bpe_256k",
+          "value_1": 10.94437679515262,
+          "value_2": 11.315314892081311,
+          "difference": -0.3709380969286915,
+          "ratio": 0.9672180491248829,
+          "percent_difference": 3.332823312565706
+        },
+        "bne_32k_vs_bpe_32k": {
+          "tokenizer_1": "bne_32k",
+          "tokenizer_2": "bpe_32k",
+          "value_1": 10.293728703218266,
+          "value_2": 11.169408310080577,
+          "difference": -0.8756796068623114,
+          "ratio": 0.9216001794766517,
+          "percent_difference": 8.159847335640908
+        },
+        "bne_32k_vs_bne_64k": {
+          "tokenizer_1": "bne_32k",
+          "tokenizer_2": "bne_64k",
+          "value_1": 10.293728703218266,
+          "value_2": 10.34251657564889,
+          "difference": -0.048787872430624546,
+          "ratio": 0.9952827851834926,
+          "percent_difference": 0.4728367178363253
+        },
+        "bne_32k_vs_bpe_64k": {
+          "tokenizer_1": "bne_32k",
+          "tokenizer_2": "bpe_64k",
+          "value_1": 10.293728703218266,
+          "value_2": 11.278978391185346,
+          "difference": -0.9852496879670802,
+          "ratio": 0.9126472581295958,
+          "percent_difference": 9.134223940051303
+        },
+        "bne_32k_vs_bne_128k": {
+          "tokenizer_1": "bne_32k",
+          "tokenizer_2": "bne_128k",
+          "value_1": 10.293728703218266,
+          "value_2": 10.344445302498976,
+          "difference": -0.05071659928070993,
+          "ratio": 0.9950972142248693,
+          "percent_difference": 0.4914833964154027
+        },
+        "bne_32k_vs_bpe_128k": {
+          "tokenizer_1": "bne_32k",
+          "tokenizer_2": "bpe_128k",
+          "value_1": 10.293728703218266,
+          "value_2": 11.314289342190955,
+          "difference": -1.0205606389726896,
+          "ratio": 0.9097989623469305,
+          "percent_difference": 9.446129088081866
+        },
+        "bne_32k_vs_bne_256k": {
+          "tokenizer_1": "bne_32k",
+          "tokenizer_2": "bne_256k",
+          "value_1": 10.293728703218266,
+          "value_2": 10.325715825659344,
+          "difference": -0.0319871224410786,
+          "ratio": 0.9969021883827569,
+          "percent_difference": 0.3102617279168749
+        },
+        "bne_32k_vs_bpe_256k": {
+          "tokenizer_1": "bne_32k",
+          "tokenizer_2": "bpe_256k",
+          "value_1": 10.293728703218266,
+          "value_2": 11.315314892081311,
+          "difference": -1.0215861888630453,
+          "ratio": 0.9097165038174967,
+          "percent_difference": 9.455172639711478
+        },
+        "bpe_32k_vs_bne_64k": {
+          "tokenizer_1": "bpe_32k",
+          "tokenizer_2": "bne_64k",
+          "value_1": 11.169408310080577,
+          "value_2": 10.34251657564889,
+          "difference": 0.8268917344316868,
+          "ratio": 1.0799507284695657,
+          "percent_difference": 7.687752154436245
+        },
+        "bpe_32k_vs_bpe_64k": {
+          "tokenizer_1": "bpe_32k",
+          "tokenizer_2": "bpe_64k",
+          "value_1": 11.169408310080577,
+          "value_2": 11.278978391185346,
+          "difference": -0.10957008110476885,
+          "ratio": 0.9902854604996496,
+          "percent_difference": 0.9761955953706901
+        },
+        "bpe_32k_vs_bne_128k": {
+          "tokenizer_1": "bpe_32k",
+          "tokenizer_2": "bne_128k",
+          "value_1": 11.169408310080577,
+          "value_2": 10.344445302498976,
+          "difference": 0.8249630075816015,
+          "ratio": 1.0797493711318005,
+          "percent_difference": 7.669132852137937
+        },
+        "bpe_32k_vs_bpe_128k": {
+          "tokenizer_1": "bpe_32k",
+          "tokenizer_2": "bpe_128k",
+          "value_1": 11.169408310080577,
+          "value_2": 11.314289342190955,
+          "difference": -0.14488103211037817,
+          "ratio": 0.9871948623790169,
+          "percent_difference": 1.2887651697783866
+        },
+        "bpe_32k_vs_bne_256k": {
+          "tokenizer_1": "bpe_32k",
+          "tokenizer_2": "bne_256k",
+          "value_1": 11.169408310080577,
+          "value_2": 10.325715825659344,
+          "difference": 0.8436924844212328,
+          "ratio": 1.0817078930571247,
+          "percent_difference": 7.850082456778431
+        },
+        "bpe_32k_vs_bpe_256k": {
+          "tokenizer_1": "bpe_32k",
+          "tokenizer_2": "bpe_256k",
+          "value_1": 11.169408310080577,
+          "value_2": 11.315314892081311,
+          "difference": -0.14590658200073392,
+          "ratio": 0.9871053891657189,
+          "percent_difference": 1.2978285806667624
+        },
+        "bne_64k_vs_bpe_64k": {
+          "tokenizer_1": "bne_64k",
+          "tokenizer_2": "bpe_64k",
+          "value_1": 10.34251657564889,
+          "value_2": 11.278978391185346,
+          "difference": -0.9364618155364557,
+          "ratio": 0.9169728158830137,
+          "percent_difference": 8.662322535725846
+        },
+        "bne_64k_vs_bne_128k": {
+          "tokenizer_1": "bne_64k",
+          "tokenizer_2": "bne_128k",
+          "value_1": 10.34251657564889,
+          "value_2": 10.344445302498976,
+          "difference": -0.0019287268500853827,
+          "ratio": 0.9998135495143834,
+          "percent_difference": 0.01864678691289844
+        },
+        "bne_64k_vs_bpe_128k": {
+          "tokenizer_1": "bne_64k",
+          "tokenizer_2": "bpe_128k",
+          "value_1": 10.34251657564889,
+          "value_2": 11.314289342190955,
+          "difference": -0.971772766542065,
+          "ratio": 0.9141110203962766,
+          "percent_difference": 8.974294457167064
+        },
+        "bne_64k_vs_bne_256k": {
+          "tokenizer_1": "bne_64k",
+          "tokenizer_2": "bne_256k",
+          "value_1": 10.34251657564889,
+          "value_2": 10.325715825659344,
+          "difference": 0.01680074998954595,
+          "ratio": 1.0016270784779682,
+          "percent_difference": 0.16257558617816312
+        },
+        "bne_64k_vs_bpe_256k": {
+          "tokenizer_1": "bne_64k",
+          "tokenizer_2": "bpe_256k",
+          "value_1": 10.34251657564889,
+          "value_2": 11.315314892081311,
+          "difference": -0.9727983164324208,
+          "ratio": 0.9140281710486727,
+          "percent_difference": 8.98333997918373
+        },
+        "bpe_64k_vs_bne_128k": {
+          "tokenizer_1": "bpe_64k",
+          "tokenizer_2": "bne_128k",
+          "value_1": 11.278978391185346,
+          "value_2": 10.344445302498976,
+          "difference": 0.9345330886863703,
+          "ratio": 1.0903415370624667,
+          "percent_difference": 8.643710653085197
+        },
+        "bpe_64k_vs_bpe_128k": {
+          "tokenizer_1": "bpe_64k",
+          "tokenizer_2": "bpe_128k",
+          "value_1": 11.278978391185346,
+          "value_2": 11.314289342190955,
+          "difference": -0.035310951005609326,
+          "ratio": 0.9968790836138568,
+          "percent_difference": 0.3125794057089458
+        },
+        "bpe_64k_vs_bne_256k": {
+          "tokenizer_1": "bpe_64k",
+          "tokenizer_2": "bne_256k",
+          "value_1": 11.278978391185346,
+          "value_2": 10.325715825659344,
+          "difference": 0.9532625655260016,
+          "ratio": 1.0923192717697257,
+          "percent_difference": 8.824587434176824
+        },
+        "bpe_64k_vs_bpe_256k": {
+          "tokenizer_1": "bpe_64k",
+          "tokenizer_2": "bpe_256k",
+          "value_1": 11.278978391185346,
+          "value_2": 11.315314892081311,
+          "difference": -0.036336500895965074,
+          "ratio": 0.9967887326828709,
+          "percent_difference": 0.3216431728172343
+        },
+        "bne_128k_vs_bpe_128k": {
+          "tokenizer_1": "bne_128k",
+          "tokenizer_2": "bpe_128k",
+          "value_1": 10.344445302498976,
+          "value_2": 11.314289342190955,
+          "difference": -0.9698440396919796,
+          "ratio": 0.9142814886238207,
+          "percent_difference": 8.95568513675619
+        },
+        "bne_128k_vs_bne_256k": {
+          "tokenizer_1": "bne_128k",
+          "tokenizer_2": "bne_256k",
+          "value_1": 10.344445302498976,
+          "value_2": 10.325715825659344,
+          "difference": 0.01872947683963133,
+          "ratio": 1.0018138671599977,
+          "percent_difference": 0.18122235935661618
+        },
+        "bne_128k_vs_bpe_256k": {
+          "tokenizer_1": "bne_128k",
+          "tokenizer_2": "bpe_256k",
+          "value_1": 10.344445302498976,
+          "value_2": 11.315314892081311,
+          "difference": -0.9708695895823354,
+          "ratio": 0.9141986238260351,
+          "percent_difference": 8.964730734417518
+        },
+        "bpe_128k_vs_bne_256k": {
+          "tokenizer_1": "bpe_128k",
+          "tokenizer_2": "bne_256k",
+          "value_1": 11.314289342190955,
+          "value_2": 10.325715825659344,
+          "difference": 0.988573516531611,
+          "ratio": 1.0957389815120624,
+          "percent_difference": 9.136536787895926
+        },
+        "bpe_128k_vs_bpe_256k": {
+          "tokenizer_1": "bpe_128k",
+          "tokenizer_2": "bpe_256k",
+          "value_1": 11.314289342190955,
+          "value_2": 11.315314892081311,
+          "difference": -0.001025549890355748,
+          "ratio": 0.9999093662085292,
+          "percent_difference": 0.009063789889905057
+        },
+        "bne_256k_vs_bpe_256k": {
+          "tokenizer_1": "bne_256k",
+          "tokenizer_2": "bpe_256k",
+          "value_1": 10.325715825659344,
+          "value_2": 11.315314892081311,
+          "difference": -0.9895990664219667,
+          "ratio": 0.9125433913364172,
+          "percent_difference": 9.14558164376823
+        }
+      }
+    },
+    "per_language": {
+      "renyi_1.0": {
+        "eng_Latn": {
+          "bne_8k": 9.91550207345967,
+          "bpe_8k": 10.59593930203117,
+          "bne_16k": 10.155693000339538,
+          "bpe_16k": 10.94437679515262,
+          "bne_32k": 10.293728703218266,
+          "bpe_32k": 11.169408310080577,
+          "bne_64k": 10.34251657564889,
+          "bpe_64k": 11.278978391185346,
+          "bne_128k": 10.344445302498976,
+          "bpe_128k": 11.314289342190955,
+          "bne_256k": 10.325715825659344,
+          "bpe_256k": 11.315314892081311
+        }
+      },
+      "renyi_2.0": {
+        "eng_Latn": {
+          "bne_8k": 7.139064624789483,
+          "bpe_8k": 7.893781400579435,
+          "bne_16k": 6.974622435312833,
+          "bpe_16k": 7.71342936105296,
+          "bne_32k": 6.8388493834524215,
+          "bpe_32k": 7.554284818921826,
+          "bne_64k": 6.740881947336771,
+          "bpe_64k": 7.434770192249436,
+          "bne_128k": 6.681553026127403,
+          "bpe_128k": 7.360994767883942,
+          "bne_256k": 6.644968583524013,
+          "bpe_256k": 7.316525825036247
+        }
+      },
+      "renyi_2.5": {
+        "eng_Latn": {
+          "bne_8k": 6.566417734905667,
+          "bpe_8k": 7.214772628269224,
+          "bne_16k": 6.409001816317238,
+          "bpe_16k": 7.0252787162263495,
+          "bne_32k": 6.2859166662833825,
+          "bpe_32k": 6.87461028791531,
+          "bne_64k": 6.200006851018468,
+          "bpe_64k": 6.767704938096956,
+          "bne_128k": 6.148720642657356,
+          "bpe_128k": 6.703270524234993,
+          "bne_256k": 6.117367349335874,
+          "bpe_256k": 6.664930753989696
+        }
+      },
+      "renyi_3.0": {
+        "eng_Latn": {
+          "bne_8k": 6.205319685630559,
+          "bpe_8k": 6.793405653446032,
+          "bne_16k": 6.058138232997659,
+          "bpe_16k": 6.612577604842454,
+          "bne_32k": 5.94456411833219,
+          "bpe_32k": 6.472969819513748,
+          "bne_64k": 5.865946314614219,
+          "bpe_64k": 6.37532773696292,
+          "bne_128k": 5.819222487196114,
+          "bpe_128k": 6.316802305105997,
+          "bne_256k": 5.790742318257932,
+          "bpe_256k": 6.282071611710301
+        }
+      }
+    }
+  },
+  "unigram_distribution_metrics": {
+    "per_tokenizer": {
+      "bne_8k": {
+        "per_language": {
+          "eng_Latn": {
+            "unigram_entropy": 9.91550207345967,
+            "avg_token_rank": 879.5278197919906,
+            "total_tokens": 6092515,
+            "unique_tokens": 8003
+          }
+        }
+      },
+      "bpe_8k": {
+        "per_language": {
+          "eng_Latn": {
+            "unigram_entropy": 10.59593930203117,
+            "avg_token_rank": 1072.4906561043554,
+            "total_tokens": 5456129,
+            "unique_tokens": 8030
+          }
+        }
+      },
+      "bne_16k": {
+        "per_language": {
+          "eng_Latn": {
+            "unigram_entropy": 10.155693000339538,
+            "avg_token_rank": 1441.603767586676,
+            "total_tokens": 5646320,
+            "unique_tokens": 16006
+          }
+        }
+      },
+      "bpe_16k": {
+        "per_language": {
+          "eng_Latn": {
+            "unigram_entropy": 10.94437679515262,
+            "avg_token_rank": 1750.9341565123598,
+            "total_tokens": 4984092,
+            "unique_tokens": 16073
+          }
+        }
+      },
+      "bne_32k": {
+        "per_language": {
+          "eng_Latn": {
+            "unigram_entropy": 10.293728703218266,
+            "avg_token_rank": 2193.4369139661435,
+            "total_tokens": 5335016,
+            "unique_tokens": 31724
+          }
+        }
+      },
+      "bpe_32k": {
+        "per_language": {
+          "eng_Latn": {
+            "unigram_entropy": 11.169408310080577,
+            "avg_token_rank": 2657.7883876285828,
+            "total_tokens": 4658480,
+            "unique_tokens": 31811
+          }
+        }
+      },
+      "bne_64k": {
+        "per_language": {
+          "eng_Latn": {
+            "unigram_entropy": 10.34251657564889,
+            "avg_token_rank": 3020.512505773971,
+            "total_tokens": 5132949,
+            "unique_tokens": 58738
+          }
+        }
+      },
+      "bpe_64k": {
+        "per_language": {
+          "eng_Latn": {
+            "unigram_entropy": 11.278978391185346,
+            "avg_token_rank": 3667.1121717105284,
+            "total_tokens": 4447485,
+            "unique_tokens": 59137
+          }
+        }
+      },
+      "bne_128k": {
+        "per_language": {
+          "eng_Latn": {
+            "unigram_entropy": 10.344445302498976,
+            "avg_token_rank": 3725.0586441431074,
+            "total_tokens": 5018745,
+            "unique_tokens": 89956
+          }
+        }
+      },
+      "bpe_128k": {
+        "per_language": {
+          "eng_Latn": {
+            "unigram_entropy": 11.314289342190955,
+            "avg_token_rank": 4527.996139217518,
+            "total_tokens": 4325289,
+            "unique_tokens": 90924
+          }
+        }
+      },
+      "bne_256k": {
+        "per_language": {
+          "eng_Latn": {
+            "unigram_entropy": 10.325715825659344,
+            "avg_token_rank": 4213.929061250576,
+            "total_tokens": 4950778,
+            "unique_tokens": 113400
+          }
+        }
+      },
+      "bpe_256k": {
+        "per_language": {
+          "eng_Latn": {
+            "unigram_entropy": 11.315314892081311,
+            "avg_token_rank": 5126.7736969845955,
+            "total_tokens": 4254919,
+            "unique_tokens": 114558
+          }
+        }
+      }
+    },
+    "pairwise_comparisons": {
+      "global_unigram_entropy": {
+        "bne_8k_vs_bpe_8k": {
+          "tokenizer_1": "bne_8k",
+          "tokenizer_2": "bpe_8k",
+          "value_1": 9.91550207345967,
+          "value_2": 10.59593930203117,
+          "difference": -0.680437228571499,
+          "ratio": 0.9357832081539893,
+          "percent_difference": 6.634709049599555
+        },
+        "bne_8k_vs_bne_16k": {
+          "tokenizer_1": "bne_8k",
+          "tokenizer_2": "bne_16k",
+          "value_1": 9.91550207345967,
+          "value_2": 10.155693000339538,
+          "difference": -0.2401909268798672,
+          "ratio": 0.9763491347294727,
+          "percent_difference": 2.3933893920787077
+        },
+        "bne_8k_vs_bpe_16k": {
+          "tokenizer_1": "bne_8k",
+          "tokenizer_2": "bpe_16k",
+          "value_1": 9.91550207345967,
+          "value_2": 10.94437679515262,
+          "difference": -1.028874721692949,
+          "ratio": 0.905990561093561,
+          "percent_difference": 9.864627960434511
+        },
+        "bne_8k_vs_bne_32k": {
+          "tokenizer_1": "bne_8k",
+          "tokenizer_2": "bne_32k",
+          "value_1": 9.91550207345967,
+          "value_2": 10.293728703218266,
+          "difference": -0.3782266297585952,
+          "ratio": 0.9632565962574529,
+          "percent_difference": 3.7431076317370797
+        },
+        "bne_8k_vs_bpe_32k": {
+          "tokenizer_1": "bne_8k",
+          "tokenizer_2": "bpe_32k",
+          "value_1": 9.91550207345967,
+          "value_2": 11.169408310080577,
+          "difference": -1.2539062366209066,
+          "ratio": 0.8877374519929372,
+          "percent_difference": 11.893873047710533
+        },
+        "bne_8k_vs_bne_64k": {
+          "tokenizer_1": "bne_8k",
+          "tokenizer_2": "bne_64k",
+          "value_1": 9.91550207345967,
+          "value_2": 10.34251657564889,
+          "difference": -0.42701450218921977,
+          "ratio": 0.9587127079694887,
+          "percent_difference": 4.215757815071517
+        },
+        "bne_8k_vs_bpe_64k": {
+          "tokenizer_1": "bne_8k",
+          "tokenizer_2": "bpe_64k",
+          "value_1": 9.91550207345967,
+          "value_2": 11.278978391185346,
+          "difference": -1.3634763177256755,
+          "ratio": 0.8791134914496114,
+          "percent_difference": 12.866333949540499
+        },
+        "bne_8k_vs_bne_128k": {
+          "tokenizer_1": "bne_8k",
+          "tokenizer_2": "bne_128k",
+          "value_1": 9.91550207345967,
+          "value_2": 10.344445302498976,
+          "difference": -0.42894322903930515,
+          "ratio": 0.9585339555195209,
+          "percent_difference": 4.234396280301382
+        },
+        "bne_8k_vs_bpe_128k": {
+          "tokenizer_1": "bne_8k",
+          "tokenizer_2": "bpe_128k",
+          "value_1": 9.91550207345967,
+          "value_2": 11.314289342190955,
+          "difference": -1.3987872687312848,
+          "ratio": 0.8763698517488667,
+          "percent_difference": 13.177588430756765
+        },
+        "bne_8k_vs_bne_256k": {
+          "tokenizer_1": "bne_8k",
+          "tokenizer_2": "bne_256k",
+          "value_1": 9.91550207345967,
+          "value_2": 10.325715825659344,
+          "difference": -0.4102137521996738,
+          "ratio": 0.9602726087831804,
+          "percent_difference": 4.053251679263115
+        },
+        "bne_8k_vs_bpe_256k": {
+          "tokenizer_1": "bne_8k",
+          "tokenizer_2": "bpe_256k",
+          "value_1": 9.91550207345967,
+          "value_2": 11.315314892081311,
+          "difference": -1.3998128186216405,
+          "ratio": 0.876290423026472,
+          "percent_difference": 13.186612845785719
+        },
+        "bpe_8k_vs_bne_16k": {
+          "tokenizer_1": "bpe_8k",
+          "tokenizer_2": "bne_16k",
+          "value_1": 10.59593930203117,
+          "value_2": 10.155693000339538,
+          "difference": 0.4402463016916318,
+          "ratio": 1.04334970559635,
+          "percent_difference": 4.243004070974573
+        },
+        "bpe_8k_vs_bpe_16k": {
+          "tokenizer_1": "bpe_8k",
+          "tokenizer_2": "bpe_16k",
+          "value_1": 10.59593930203117,
+          "value_2": 10.94437679515262,
+          "difference": -0.34843749312145,
+          "ratio": 0.9681628749043274,
+          "percent_difference": 3.2352124411675205
+        },
+        "bpe_8k_vs_bne_32k": {
+          "tokenizer_1": "bpe_8k",
+          "tokenizer_2": "bne_32k",
+          "value_1": 10.59593930203117,
+          "value_2": 10.293728703218266,
+          "difference": 0.3022105988129038,
+          "ratio": 1.029358710291094,
+          "percent_difference": 2.8933978150055837
+        },
+        "bpe_8k_vs_bpe_32k": {
+          "tokenizer_1": "bpe_8k",
+          "tokenizer_2": "bpe_32k",
+          "value_1": 10.59593930203117,
+          "value_2": 11.169408310080577,
+          "difference": -0.5734690080494076,
+          "ratio": 0.948657172150127,
+          "percent_difference": 5.2695598367589565
+        },
+        "bpe_8k_vs_bne_64k": {
+          "tokenizer_1": "bpe_8k",
+          "tokenizer_2": "bne_64k",
+          "value_1": 10.59593930203117,
+          "value_2": 10.34251657564889,
+          "difference": 0.25342272638227925,
+          "ratio": 1.0245030041314078,
+          "percent_difference": 2.4206438895279034
+        },
+        "bpe_8k_vs_bpe_64k": {
+          "tokenizer_1": "bpe_8k",
+          "tokenizer_2": "bpe_64k",
+          "value_1": 10.59593930203117,
+          "value_2": 11.278978391185346,
+          "difference": -0.6830390891541764,
+          "ratio": 0.939441404578984,
+          "percent_difference": 6.244952312355342
+        },
+        "bpe_8k_vs_bne_128k": {
+          "tokenizer_1": "bpe_8k",
+          "tokenizer_2": "bne_128k",
+          "value_1": 10.59593930203117,
+          "value_2": 10.344445302498976,
+          "difference": 0.25149399953219387,
+          "ratio": 1.0243119850487719,
+          "percent_difference": 2.4019998131055034
+        },
+        "bpe_8k_vs_bpe_128k": {
+          "tokenizer_1": "bpe_8k",
+          "tokenizer_2": "bpe_128k",
+          "value_1": 10.59593930203117,
+          "value_2": 11.314289342190955,
+          "difference": -0.7183500401597858,
+          "ratio": 0.9365094865056119,
+          "percent_difference": 6.557211719004306
+        },
+        "bpe_8k_vs_bne_256k": {
+          "tokenizer_1": "bpe_8k",
+          "tokenizer_2": "bne_256k",
+          "value_1": 10.59593930203117,
+          "value_2": 10.325715825659344,
+          "difference": 0.2702234763718252,
+          "ratio": 1.026169950920044,
+          "percent_difference": 2.583194061106335
+        },
+        "bpe_8k_vs_bpe_256k": {
+          "tokenizer_1": "bpe_8k",
+          "tokenizer_2": "bpe_256k",
+          "value_1": 10.59593930203117,
+          "value_2": 11.315314892081311,
+          "difference": -0.7193755900501415,
+          "ratio": 0.9364246071001016,
+          "percent_difference": 6.566265752541327
+        },
+        "bne_16k_vs_bpe_16k": {
+          "tokenizer_1": "bne_16k",
+          "tokenizer_2": "bpe_16k",
+          "value_1": 10.155693000339538,
+          "value_2": 10.94437679515262,
+          "difference": -0.7886837948130818,
+          "ratio": 0.9279370758541137,
+          "percent_difference": 7.475651051937062
+        },
+        "bne_16k_vs_bne_32k": {
+          "tokenizer_1": "bne_16k",
+          "tokenizer_2": "bne_32k",
+          "value_1": 10.155693000339538,
+          "value_2": 10.293728703218266,
+          "difference": -0.13803570287872802,
+          "ratio": 0.9865903107747951,
+          "percent_difference": 1.350020600873153
+        },
+        "bne_16k_vs_bpe_32k": {
+          "tokenizer_1": "bne_16k",
+          "tokenizer_2": "bpe_32k",
+          "value_1": 10.155693000339538,
+          "value_2": 11.169408310080577,
+          "difference": -1.0137153097410394,
+          "ratio": 0.9092418074799768,
+          "percent_difference": 9.507249648991877
+        },
+        "bne_16k_vs_bne_64k": {
+          "tokenizer_1": "bne_16k",
+          "tokenizer_2": "bne_64k",
+          "value_1": 10.155693000339538,
+          "value_2": 10.34251657564889,
+          "difference": -0.18682357530935256,
+          "ratio": 0.9819363523429856,
+          "percent_difference": 1.822828229136631
+        },
+        "bne_16k_vs_bpe_64k": {
+          "tokenizer_1": "bne_16k",
+          "tokenizer_2": "bpe_64k",
+          "value_1": 10.155693000339538,
+          "value_2": 11.278978391185346,
+          "difference": -1.1232853908458083,
+          "ratio": 0.9004089420258427,
+          "percent_difference": 10.481013404198464
+        },
+        "bne_16k_vs_bne_128k": {
+          "tokenizer_1": "bne_16k",
+          "tokenizer_2": "bne_128k",
+          "value_1": 10.155693000339538,
+          "value_2": 10.344445302498976,
+          "difference": -0.18875230215943795,
+          "ratio": 0.9817532698332466,
+          "percent_difference": 1.841473451262548
+        },
+        "bne_16k_vs_bpe_128k": {
+          "tokenizer_1": "bne_16k",
+          "tokenizer_2": "bpe_128k",
+          "value_1": 10.155693000339538,
+          "value_2": 11.314289342190955,
+          "difference": -1.1585963418514176,
+          "ratio": 0.8975988410044443,
+          "percent_difference": 10.792708846865901
+        },
+        "bne_16k_vs_bne_256k": {
+          "tokenizer_1": "bne_16k",
+          "tokenizer_2": "bne_256k",
+          "value_1": 10.155693000339538,
+          "value_2": 10.325715825659344,
+          "difference": -0.17002282531980661,
+          "ratio": 0.9835340398486174,
+          "percent_difference": 1.6602649433371148
+        },
+        "bne_16k_vs_bpe_256k": {
+          "tokenizer_1": "bne_16k",
+          "tokenizer_2": "bpe_256k",
+          "value_1": 10.155693000339538,
+          "value_2": 11.315314892081311,
+          "difference": -1.1596218917417733,
+          "ratio": 0.8975174882182643,
+          "percent_difference": 10.801746220317058
+        },
+        "bpe_16k_vs_bne_32k": {
+          "tokenizer_1": "bpe_16k",
+          "tokenizer_2": "bne_32k",
+          "value_1": 10.94437679515262,
+          "value_2": 10.293728703218266,
+          "difference": 0.6506480919343538,
+          "ratio": 1.063208202847908,
+          "percent_difference": 6.127176381003128
+        },
+        "bpe_16k_vs_bpe_32k": {
+          "tokenizer_1": "bpe_16k",
+          "tokenizer_2": "bpe_32k",
+          "value_1": 10.94437679515262,
+          "value_2": 11.169408310080577,
+          "difference": -0.2250315149279576,
+          "ratio": 0.9798528705656805,
+          "percent_difference": 2.0352148115494186
+        },
+        "bpe_16k_vs_bne_64k": {
+          "tokenizer_1": "bpe_16k",
+          "tokenizer_2": "bne_64k",
+          "value_1": 10.94437679515262,
+          "value_2": 10.34251657564889,
+          "difference": 0.6018602195037293,
+          "ratio": 1.0581928213604017,
+          "percent_difference": 5.654749230146283
+        },
+        "bpe_16k_vs_bpe_64k": {
+          "tokenizer_1": "bpe_16k",
+          "tokenizer_2": "bpe_64k",
+          "value_1": 10.94437679515262,
+          "value_2": 11.278978391185346,
+          "difference": -0.33460159603272643,
+          "ratio": 0.9703340511500385,
+          "percent_difference": 3.011260840023168
+        },
+        "bpe_16k_vs_bne_128k": {
+          "tokenizer_1": "bpe_16k",
+          "tokenizer_2": "bne_128k",
+          "value_1": 10.94437679515262,
+          "value_2": 10.344445302498976,
+          "difference": 0.5999314926536439,
+          "ratio": 1.057995520794983,
+          "percent_difference": 5.636117300447762
+        },
+        "bpe_16k_vs_bpe_128k": {
+          "tokenizer_1": "bpe_16k",
+          "tokenizer_2": "bpe_128k",
+          "value_1": 10.94437679515262,
+          "value_2": 11.314289342190955,
+          "difference": -0.36991254703833576,
+          "ratio": 0.9673057197097715,
+          "percent_difference": 3.3237620327817394
+        },
+        "bpe_16k_vs_bne_256k": {
+          "tokenizer_1": "bpe_16k",
+          "tokenizer_2": "bne_256k",
+          "value_1": 10.94437679515262,
+          "value_2": 10.325715825659344,
+          "difference": 0.6186609694932752,
+          "ratio": 1.0599145841255777,
+          "percent_difference": 5.817191119214397
+        },
+        "bpe_16k_vs_bpe_256k": {
+          "tokenizer_1": "bpe_16k",
+          "tokenizer_2": "bpe_256k",
+          "value_1": 10.94437679515262,
+          "value_2": 11.315314892081311,
+          "difference": -0.3709380969286915,
+          "ratio": 0.9672180491248829,
+          "percent_difference": 3.332823312565706
+        },
+        "bne_32k_vs_bpe_32k": {
+          "tokenizer_1": "bne_32k",
+          "tokenizer_2": "bpe_32k",
+          "value_1": 10.293728703218266,
+          "value_2": 11.169408310080577,
+          "difference": -0.8756796068623114,
+          "ratio": 0.9216001794766517,
+          "percent_difference": 8.159847335640908
+        },
+        "bne_32k_vs_bne_64k": {
+          "tokenizer_1": "bne_32k",
+          "tokenizer_2": "bne_64k",
+          "value_1": 10.293728703218266,
+          "value_2": 10.34251657564889,
+          "difference": -0.048787872430624546,
+          "ratio": 0.9952827851834926,
+          "percent_difference": 0.4728367178363253
+        },
+        "bne_32k_vs_bpe_64k": {
+          "tokenizer_1": "bne_32k",
+          "tokenizer_2": "bpe_64k",
+          "value_1": 10.293728703218266,
+          "value_2": 11.278978391185346,
+          "difference": -0.9852496879670802,
+          "ratio": 0.9126472581295958,
+          "percent_difference": 9.134223940051303
+        },
+        "bne_32k_vs_bne_128k": {
+          "tokenizer_1": "bne_32k",
+          "tokenizer_2": "bne_128k",
+          "value_1": 10.293728703218266,
+          "value_2": 10.344445302498976,
+          "difference": -0.05071659928070993,
+          "ratio": 0.9950972142248693,
+          "percent_difference": 0.4914833964154027
+        },
+        "bne_32k_vs_bpe_128k": {
+          "tokenizer_1": "bne_32k",
+          "tokenizer_2": "bpe_128k",
+          "value_1": 10.293728703218266,
+          "value_2": 11.314289342190955,
+          "difference": -1.0205606389726896,
+          "ratio": 0.9097989623469305,
+          "percent_difference": 9.446129088081866
+        },
+        "bne_32k_vs_bne_256k": {
+          "tokenizer_1": "bne_32k",
+          "tokenizer_2": "bne_256k",
+          "value_1": 10.293728703218266,
+          "value_2": 10.325715825659344,
+          "difference": -0.0319871224410786,
+          "ratio": 0.9969021883827569,
+          "percent_difference": 0.3102617279168749
+        },
+        "bne_32k_vs_bpe_256k": {
+          "tokenizer_1": "bne_32k",
+          "tokenizer_2": "bpe_256k",
+          "value_1": 10.293728703218266,
+          "value_2": 11.315314892081311,
+          "difference": -1.0215861888630453,
+          "ratio": 0.9097165038174967,
+          "percent_difference": 9.455172639711478
+        },
+        "bpe_32k_vs_bne_64k": {
+          "tokenizer_1": "bpe_32k",
+          "tokenizer_2": "bne_64k",
+          "value_1": 11.169408310080577,
+          "value_2": 10.34251657564889,
+          "difference": 0.8268917344316868,
+          "ratio": 1.0799507284695657,
+          "percent_difference": 7.687752154436245
+        },
+        "bpe_32k_vs_bpe_64k": {
+          "tokenizer_1": "bpe_32k",
+          "tokenizer_2": "bpe_64k",
+          "value_1": 11.169408310080577,
+          "value_2": 11.278978391185346,
+          "difference": -0.10957008110476885,
+          "ratio": 0.9902854604996496,
+          "percent_difference": 0.9761955953706901
+        },
+        "bpe_32k_vs_bne_128k": {
+          "tokenizer_1": "bpe_32k",
+          "tokenizer_2": "bne_128k",
+          "value_1": 11.169408310080577,
+          "value_2": 10.344445302498976,
+          "difference": 0.8249630075816015,
+          "ratio": 1.0797493711318005,
+          "percent_difference": 7.669132852137937
+        },
+        "bpe_32k_vs_bpe_128k": {
+          "tokenizer_1": "bpe_32k",
+          "tokenizer_2": "bpe_128k",
+          "value_1": 11.169408310080577,
+          "value_2": 11.314289342190955,
+          "difference": -0.14488103211037817,
+          "ratio": 0.9871948623790169,
+          "percent_difference": 1.2887651697783866
+        },
+        "bpe_32k_vs_bne_256k": {
+          "tokenizer_1": "bpe_32k",
+          "tokenizer_2": "bne_256k",
+          "value_1": 11.169408310080577,
+          "value_2": 10.325715825659344,
+          "difference": 0.8436924844212328,
+          "ratio": 1.0817078930571247,
+          "percent_difference": 7.850082456778431
+        },
+        "bpe_32k_vs_bpe_256k": {
+          "tokenizer_1": "bpe_32k",
+          "tokenizer_2": "bpe_256k",
+          "value_1": 11.169408310080577,
+          "value_2": 11.315314892081311,
+          "difference": -0.14590658200073392,
+          "ratio": 0.9871053891657189,
+          "percent_difference": 1.2978285806667624
+        },
+        "bne_64k_vs_bpe_64k": {
+          "tokenizer_1": "bne_64k",
+          "tokenizer_2": "bpe_64k",
+          "value_1": 10.34251657564889,
+          "value_2": 11.278978391185346,
+          "difference": -0.9364618155364557,
+          "ratio": 0.9169728158830137,
+          "percent_difference": 8.662322535725846
+        },
+        "bne_64k_vs_bne_128k": {
+          "tokenizer_1": "bne_64k",
+          "tokenizer_2": "bne_128k",
+          "value_1": 10.34251657564889,
+          "value_2": 10.344445302498976,
+          "difference": -0.0019287268500853827,
+          "ratio": 0.9998135495143834,
+          "percent_difference": 0.01864678691289844
+        },
+        "bne_64k_vs_bpe_128k": {
+          "tokenizer_1": "bne_64k",
+          "tokenizer_2": "bpe_128k",
+          "value_1": 10.34251657564889,
+          "value_2": 11.314289342190955,
+          "difference": -0.971772766542065,
+          "ratio": 0.9141110203962766,
+          "percent_difference": 8.974294457167064
+        },
+        "bne_64k_vs_bne_256k": {
+          "tokenizer_1": "bne_64k",
+          "tokenizer_2": "bne_256k",
+          "value_1": 10.34251657564889,
+          "value_2": 10.325715825659344,
+          "difference": 0.01680074998954595,
+          "ratio": 1.0016270784779682,
+          "percent_difference": 0.16257558617816312
+        },
+        "bne_64k_vs_bpe_256k": {
+          "tokenizer_1": "bne_64k",
+          "tokenizer_2": "bpe_256k",
+          "value_1": 10.34251657564889,
+          "value_2": 11.315314892081311,
+          "difference": -0.9727983164324208,
+          "ratio": 0.9140281710486727,
+          "percent_difference": 8.98333997918373
+        },
+        "bpe_64k_vs_bne_128k": {
+          "tokenizer_1": "bpe_64k",
+          "tokenizer_2": "bne_128k",
+          "value_1": 11.278978391185346,
+          "value_2": 10.344445302498976,
+          "difference": 0.9345330886863703,
+          "ratio": 1.0903415370624667,
+          "percent_difference": 8.643710653085197
+        },
+        "bpe_64k_vs_bpe_128k": {
+          "tokenizer_1": "bpe_64k",
+          "tokenizer_2": "bpe_128k",
+          "value_1": 11.278978391185346,
+          "value_2": 11.314289342190955,
+          "difference": -0.035310951005609326,
+          "ratio": 0.9968790836138568,
+          "percent_difference": 0.3125794057089458
+        },
+        "bpe_64k_vs_bne_256k": {
+          "tokenizer_1": "bpe_64k",
+          "tokenizer_2": "bne_256k",
+          "value_1": 11.278978391185346,
+          "value_2": 10.325715825659344,
+          "difference": 0.9532625655260016,
+          "ratio": 1.0923192717697257,
+          "percent_difference": 8.824587434176824
+        },
+        "bpe_64k_vs_bpe_256k": {
+          "tokenizer_1": "bpe_64k",
+          "tokenizer_2": "bpe_256k",
+          "value_1": 11.278978391185346,
+          "value_2": 11.315314892081311,
+          "difference": -0.036336500895965074,
+          "ratio": 0.9967887326828709,
+          "percent_difference": 0.3216431728172343
+        },
+        "bne_128k_vs_bpe_128k": {
+          "tokenizer_1": "bne_128k",
+          "tokenizer_2": "bpe_128k",
+          "value_1": 10.344445302498976,
+          "value_2": 11.314289342190955,
+          "difference": -0.9698440396919796,
+          "ratio": 0.9142814886238207,
+          "percent_difference": 8.95568513675619
+        },
+        "bne_128k_vs_bne_256k": {
+          "tokenizer_1": "bne_128k",
+          "tokenizer_2": "bne_256k",
+          "value_1": 10.344445302498976,
+          "value_2": 10.325715825659344,
+          "difference": 0.01872947683963133,
+          "ratio": 1.0018138671599977,
+          "percent_difference": 0.18122235935661618
+        },
+        "bne_128k_vs_bpe_256k": {
+          "tokenizer_1": "bne_128k",
+          "tokenizer_2": "bpe_256k",
+          "value_1": 10.344445302498976,
+          "value_2": 11.315314892081311,
+          "difference": -0.9708695895823354,
+          "ratio": 0.9141986238260351,
+          "percent_difference": 8.964730734417518
+        },
+        "bpe_128k_vs_bne_256k": {
+          "tokenizer_1": "bpe_128k",
+          "tokenizer_2": "bne_256k",
+          "value_1": 11.314289342190955,
+          "value_2": 10.325715825659344,
+          "difference": 0.988573516531611,
+          "ratio": 1.0957389815120624,
+          "percent_difference": 9.136536787895926
+        },
+        "bpe_128k_vs_bpe_256k": {
+          "tokenizer_1": "bpe_128k",
+          "tokenizer_2": "bpe_256k",
+          "value_1": 11.314289342190955,
+          "value_2": 11.315314892081311,
+          "difference": -0.001025549890355748,
+          "ratio": 0.9999093662085292,
+          "percent_difference": 0.009063789889905057
+        },
+        "bne_256k_vs_bpe_256k": {
+          "tokenizer_1": "bne_256k",
+          "tokenizer_2": "bpe_256k",
+          "value_1": 10.325715825659344,
+          "value_2": 11.315314892081311,
+          "difference": -0.9895990664219667,
+          "ratio": 0.9125433913364172,
+          "percent_difference": 9.14558164376823
+        }
+      },
+      "global_avg_token_rank": {
+        "bne_8k_vs_bpe_8k": {
+          "tokenizer_1": "bne_8k",
+          "tokenizer_2": "bpe_8k",
+          "value_1": 879.5278197919906,
+          "value_2": 1072.4906561043554,
+          "difference": -192.96283631236474,
+          "ratio": 0.8200797039917622,
+          "percent_difference": 19.77059527817822
+        },
+        "bne_8k_vs_bne_16k": {
+          "tokenizer_1": "bne_8k",
+          "tokenizer_2": "bne_16k",
+          "value_1": 879.5278197919906,
+          "value_2": 1441.603767586676,
+          "difference": -562.0759477946854,
+          "ratio": 0.6101037189049309,
+          "percent_difference": 48.431200613615964
+        },
+        "bne_8k_vs_bpe_16k": {
+          "tokenizer_1": "bne_8k",
+          "tokenizer_2": "bpe_16k",
+          "value_1": 879.5278197919906,
+          "value_2": 1750.9341565123598,
+          "difference": -871.4063367203692,
+          "ratio": 0.502319185744768,
+          "percent_difference": 66.25500346100009
+        },
+        "bne_8k_vs_bne_32k": {
+          "tokenizer_1": "bne_8k",
+          "tokenizer_2": "bne_32k",
+          "value_1": 879.5278197919906,
+          "value_2": 2193.4369139661435,
+          "difference": -1313.9090941741529,
+          "ratio": 0.40098158930025485,
+          "percent_difference": 85.51410172334035
+        },
+        "bne_8k_vs_bpe_32k": {
+          "tokenizer_1": "bne_8k",
+          "tokenizer_2": "bpe_32k",
+          "value_1": 879.5278197919906,
+          "value_2": 2657.7883876285828,
+          "difference": -1778.2605678365921,
+          "ratio": 0.33092469810087144,
+          "percent_difference": 100.54292370617937
+        },
+        "bne_8k_vs_bne_64k": {
+          "tokenizer_1": "bne_8k",
+          "tokenizer_2": "bne_64k",
+          "value_1": 879.5278197919906,
+          "value_2": 3020.512505773971,
+          "difference": -2140.9846859819804,
+          "ratio": 0.2911849621912497,
+          "percent_difference": 109.7929512137179
+        },
+        "bne_8k_vs_bpe_64k": {
+          "tokenizer_1": "bne_8k",
+          "tokenizer_2": "bpe_64k",
+          "value_1": 879.5278197919906,
+          "value_2": 3667.1121717105284,
+          "difference": -2787.584351918538,
+          "ratio": 0.2398420824366913,
+          "percent_difference": 122.6217319659536
+        },
+        "bne_8k_vs_bne_128k": {
+          "tokenizer_1": "bne_8k",
+          "tokenizer_2": "bne_128k",
+          "value_1": 879.5278197919906,
+          "value_2": 3725.0586441431074,
+          "difference": -2845.5308243511167,
+          "ratio": 0.2361111337602344,
+          "percent_difference": 123.595499688774
+        },
+        "bne_8k_vs_bpe_128k": {
+          "tokenizer_1": "bne_8k",
+          "tokenizer_2": "bpe_128k",
+          "value_1": 879.5278197919906,
+          "value_2": 4527.996139217518,
+          "difference": -3648.4683194255276,
+          "ratio": 0.1942421752912496,
+          "percent_difference": 134.94044028586472
+        },
+        "bne_8k_vs_bne_256k": {
+          "tokenizer_1": "bne_8k",
+          "tokenizer_2": "bne_256k",
+          "value_1": 879.5278197919906,
+          "value_2": 4213.929061250576,
+          "difference": -3334.401241458585,
+          "ratio": 0.208719180367733,
+          "percent_difference": 130.92881001384174
+        },
+        "bne_8k_vs_bpe_256k": {
+          "tokenizer_1": "bne_8k",
+          "tokenizer_2": "bpe_256k",
+          "value_1": 879.5278197919906,
+          "value_2": 5126.7736969845955,
+          "difference": -4247.245877192605,
+          "ratio": 0.17155581107652573,
+          "percent_difference": 141.4263291754285
+        },
+        "bpe_8k_vs_bne_16k": {
+          "tokenizer_1": "bpe_8k",
+          "tokenizer_2": "bne_16k",
+          "value_1": 1072.4906561043554,
+          "value_2": 1441.603767586676,
+          "difference": -369.1131114823206,
+          "ratio": 0.7439566129185162,
+          "percent_difference": 29.363504250601103
+        },
+        "bpe_8k_vs_bpe_16k": {
+          "tokenizer_1": "bpe_8k",
+          "tokenizer_2": "bpe_16k",
+          "value_1": 1072.4906561043554,
+          "value_2": 1750.9341565123598,
+          "difference": -678.4435004080044,
+          "ratio": 0.6125248354516206,
+          "percent_difference": 48.058194953612485
+        },
+        "bpe_8k_vs_bne_32k": {
+          "tokenizer_1": "bpe_8k",
+          "tokenizer_2": "bne_32k",
+          "value_1": 1072.4906561043554,
+          "value_2": 2193.4369139661435,
+          "difference": -1120.9462578617881,
+          "ratio": 0.48895441180712695,
+          "percent_difference": 68.64489391218135
+        },
+        "bpe_8k_vs_bpe_32k": {
+          "tokenizer_1": "bpe_8k",
+          "tokenizer_2": "bpe_32k",
+          "value_1": 1072.4906561043554,
+          "value_2": 2657.7883876285828,
+          "difference": -1585.2977315242274,
+          "ratio": 0.4035274821338532,
+          "percent_difference": 84.99620070984285
+        },
+        "bpe_8k_vs_bne_64k": {
+          "tokenizer_1": "bpe_8k",
+          "tokenizer_2": "bne_64k",
+          "value_1": 1072.4906561043554,
+          "value_2": 3020.512505773971,
+          "difference": -1948.0218496696157,
+          "ratio": 0.355069099715428,
+          "percent_difference": 95.18789859794029
+        },
+        "bpe_8k_vs_bpe_64k": {
+          "tokenizer_1": "bpe_8k",
+          "tokenizer_2": "bpe_64k",
+          "value_1": 1072.4906561043554,
+          "value_2": 3667.1121717105284,
+          "difference": -2594.621515606173,
+          "ratio": 0.29246191713958153,
+          "percent_difference": 109.48687516090374
+        },
+        "bpe_8k_vs_bne_128k": {
+          "tokenizer_1": "bpe_8k",
+          "tokenizer_2": "bne_128k",
+          "value_1": 1072.4906561043554,
+          "value_2": 3725.0586441431074,
+          "difference": -2652.567988038752,
+          "ratio": 0.28791242194015587,
+          "percent_difference": 110.58012422725618
+        },
+        "bpe_8k_vs_bpe_128k": {
+          "tokenizer_1": "bpe_8k",
+          "tokenizer_2": "bpe_128k",
+          "value_1": 1072.4906561043554,
+          "value_2": 4527.996139217518,
+          "difference": -3455.505483113163,
+          "ratio": 0.23685767901067428,
+          "percent_difference": 123.40018321262971
+        },
+        "bpe_8k_vs_bne_256k": {
+          "tokenizer_1": "bpe_8k",
+          "tokenizer_2": "bne_256k",
+          "value_1": 1072.4906561043554,
+          "value_2": 4213.929061250576,
+          "difference": -3141.4384051462202,
+          "ratio": 0.25451084736250174,
+          "percent_difference": 118.84937530908137
+        },
+        "bpe_8k_vs_bpe_256k": {
+          "tokenizer_1": "bpe_8k",
+          "tokenizer_2": "bpe_256k",
+          "value_1": 1072.4906561043554,
+          "value_2": 5126.7736969845955,
+          "difference": -4054.28304088024,
+          "ratio": 0.20919407009034943,
+          "percent_difference": 130.7988435389139
+        },
+        "bne_16k_vs_bpe_16k": {
+          "tokenizer_1": "bne_16k",
+          "tokenizer_2": "bpe_16k",
+          "value_1": 1441.603767586676,
+          "value_2": 1750.9341565123598,
+          "difference": -309.3303889256838,
+          "ratio": 0.8233340826808525,
+          "percent_difference": 19.378337628548593
+        },
+        "bne_16k_vs_bne_32k": {
+          "tokenizer_1": "bne_16k",
+          "tokenizer_2": "bne_32k",
+          "value_1": 1441.603767586676,
+          "value_2": 2193.4369139661435,
+          "difference": -751.8331463794675,
+          "ratio": 0.6572351173665566,
+          "percent_difference": 41.36587247536932
+        },
+        "bne_16k_vs_bpe_32k": {
+          "tokenizer_1": "bne_16k",
+          "tokenizer_2": "bpe_32k",
+          "value_1": 1441.603767586676,
+          "value_2": 2657.7883876285828,
+          "difference": -1216.1846200419068,
+          "ratio": 0.5424072790358415,
+          "percent_difference": 59.33487570808141
+        },
+        "bne_16k_vs_bne_64k": {
+          "tokenizer_1": "bne_16k",
+          "tokenizer_2": "bne_64k",
+          "value_1": 1441.603767586676,
+          "value_2": 3020.512505773971,
+          "difference": -1578.908738187295,
+          "ratio": 0.47727124613155075,
+          "percent_difference": 70.76950224778157
+        },
+        "bne_16k_vs_bpe_64k": {
+          "tokenizer_1": "bne_16k",
+          "tokenizer_2": "bpe_64k",
+          "value_1": 1441.603767586676,
+          "value_2": 3667.1121717105284,
+          "difference": -2225.5084041238524,
+          "ratio": 0.3931168996431975,
+          "percent_difference": 87.12594047380176
+        },
+        "bne_16k_vs_bne_128k": {
+          "tokenizer_1": "bne_16k",
+          "tokenizer_2": "bne_128k",
+          "value_1": 1441.603767586676,
+          "value_2": 3725.0586441431074,
+          "difference": -2283.4548765564314,
+          "ratio": 0.3870016301228715,
+          "percent_difference": 88.39187446705803
+        },
+        "bne_16k_vs_bpe_128k": {
+          "tokenizer_1": "bne_16k",
+          "tokenizer_2": "bpe_128k",
+          "value_1": 1441.603767586676,
+          "value_2": 4527.996139217518,
+          "difference": -3086.3923716308423,
+          "ratio": 0.3183756618299147,
+          "percent_difference": 103.40365920044152
+        },
+        "bne_16k_vs_bne_256k": {
+          "tokenizer_1": "bne_16k",
+          "tokenizer_2": "bne_256k",
+          "value_1": 1441.603767586676,
+          "value_2": 4213.929061250576,
+          "difference": -2772.3252936638996,
+          "ratio": 0.34210442241257105,
+          "percent_difference": 98.03940238938992
+        },
+        "bne_16k_vs_bpe_256k": {
+          "tokenizer_1": "bne_16k",
+          "tokenizer_2": "bpe_256k",
+          "value_1": 1441.603767586676,
+          "value_2": 5126.7736969845955,
+          "difference": -3685.1699293979195,
+          "ratio": 0.2811912233291244,
+          "percent_difference": 112.20944439551805
+        },
+        "bpe_16k_vs_bne_32k": {
+          "tokenizer_1": "bpe_16k",
+          "tokenizer_2": "bne_32k",
+          "value_1": 1750.9341565123598,
+          "value_2": 2193.4369139661435,
+          "difference": -442.5027574537837,
+          "ratio": 0.7982605496259038,
+          "percent_difference": 22.437176905878804
+        },
+        "bpe_16k_vs_bpe_32k": {
+          "tokenizer_1": "bpe_16k",
+          "tokenizer_2": "bpe_32k",
+          "value_1": 1750.9341565123598,
+          "value_2": 2657.7883876285828,
+          "difference": -906.854231116223,
+          "ratio": 0.6587936664418322,
+          "percent_difference": 41.13909287947387
+        },
+        "bpe_16k_vs_bne_64k": {
+          "tokenizer_1": "bpe_16k",
+          "tokenizer_2": "bne_64k",
+          "value_1": 1750.9341565123598,
+          "value_2": 3020.512505773971,
+          "difference": -1269.5783492616113,
+          "ratio": 0.579681147873183,
+          "percent_difference": 53.21565718407374
+        },
+        "bpe_16k_vs_bpe_64k": {
+          "tokenizer_1": "bpe_16k",
+          "tokenizer_2": "bpe_64k",
+          "value_1": 1750.9341565123598,
+          "value_2": 3667.1121717105284,
+          "difference": -1916.1780151981686,
+          "ratio": 0.4774694840315274,
+          "percent_difference": 70.73317203718604
+        },
+        "bpe_16k_vs_bne_128k": {
+          "tokenizer_1": "bpe_16k",
+          "tokenizer_2": "bne_128k",
+          "value_1": 1750.9341565123598,
+          "value_2": 3725.0586441431074,
+          "difference": -1974.1244876307476,
+          "ratio": 0.4700420379328378,
+          "percent_difference": 72.10106219987901
+        },
+        "bpe_16k_vs_bpe_128k": {
+          "tokenizer_1": "bpe_16k",
+          "tokenizer_2": "bpe_128k",
+          "value_1": 1750.9341565123598,
+          "value_2": 4527.996139217518,
+          "difference": -2777.0619827051587,
+          "ratio": 0.38669073530061315,
+          "percent_difference": 88.45653166730517
+        },
+        "bpe_16k_vs_bne_256k": {
+          "tokenizer_1": "bpe_16k",
+          "tokenizer_2": "bne_256k",
+          "value_1": 1750.9341565123598,
+          "value_2": 4213.929061250576,
+          "difference": -2462.994904738216,
+          "ratio": 0.4155110660530986,
+          "percent_difference": 82.58344960546937
+        },
+        "bpe_16k_vs_bpe_256k": {
+          "tokenizer_1": "bpe_16k",
+          "tokenizer_2": "bpe_256k",
+          "value_1": 1750.9341565123598,
+          "value_2": 5126.7736969845955,
+          "difference": -3375.839540472236,
+          "ratio": 0.341527490776939,
+          "percent_difference": 98.16757595354383
+        },
+        "bne_32k_vs_bpe_32k": {
+          "tokenizer_1": "bne_32k",
+          "tokenizer_2": "bpe_32k",
+          "value_1": 2193.4369139661435,
+          "value_2": 2657.7883876285828,
+          "difference": -464.3514736624393,
+          "ratio": 0.8252865142221658,
+          "percent_difference": 19.143677928534657
+        },
+        "bne_32k_vs_bne_64k": {
+          "tokenizer_1": "bne_32k",
+          "tokenizer_2": "bne_64k",
+          "value_1": 2193.4369139661435,
+          "value_2": 3020.512505773971,
+          "difference": -827.0755918078275,
+          "ratio": 0.7261803782547495,
+          "percent_difference": 31.72549348777735
+        },
+        "bne_32k_vs_bpe_64k": {
+          "tokenizer_1": "bne_32k",
+          "tokenizer_2": "bpe_64k",
+          "value_1": 2193.4369139661435,
+          "value_2": 3667.1121717105284,
+          "difference": -1473.675257744385,
+          "ratio": 0.5981373929292739,
+          "percent_difference": 50.29137154899305
+        },
+        "bne_32k_vs_bne_128k": {
+          "tokenizer_1": "bne_32k",
+          "tokenizer_2": "bne_128k",
+          "value_1": 2193.4369139661435,
+          "value_2": 3725.0586441431074,
+          "difference": -1531.6217301769639,
+          "ratio": 0.5888328543269713,
+          "percent_difference": 51.75713034297732
+        },
+        "bne_32k_vs_bpe_128k": {
+          "tokenizer_1": "bne_32k",
+          "tokenizer_2": "bpe_128k",
+          "value_1": 2193.4369139661435,
+          "value_2": 4527.996139217518,
+          "difference": -2334.5592252513748,
+          "ratio": 0.48441669262226683,
+          "percent_difference": 69.4661155375368
+        },
+        "bne_32k_vs_bne_256k": {
+          "tokenizer_1": "bne_32k",
+          "tokenizer_2": "bne_256k",
+          "value_1": 2193.4369139661435,
+          "value_2": 4213.929061250576,
+          "difference": -2020.4921472844321,
+          "ratio": 0.5205206072726799,
+          "percent_difference": 63.067792759132736
+        },
+        "bne_32k_vs_bpe_256k": {
+          "tokenizer_1": "bne_32k",
+          "tokenizer_2": "bpe_256k",
+          "value_1": 2193.4369139661435,
+          "value_2": 5126.7736969845955,
+          "difference": -2933.336783018452,
+          "ratio": 0.4278396207065377,
+          "percent_difference": 80.14350785564281
+        },
+        "bpe_32k_vs_bne_64k": {
+          "tokenizer_1": "bpe_32k",
+          "tokenizer_2": "bne_64k",
+          "value_1": 2657.7883876285828,
+          "value_2": 3020.512505773971,
+          "difference": -362.7241181453883,
+          "ratio": 0.8799130553334874,
+          "percent_difference": 12.77579772381652
+        },
+        "bpe_32k_vs_bpe_64k": {
+          "tokenizer_1": "bpe_32k",
+          "tokenizer_2": "bpe_64k",
+          "value_1": 2657.7883876285828,
+          "value_2": 3667.1121717105284,
+          "difference": -1009.3237840819456,
+          "ratio": 0.7247633187039529,
+          "percent_difference": 31.915878348209475
+        },
+        "bpe_32k_vs_bne_128k": {
+          "tokenizer_1": "bpe_32k",
+          "tokenizer_2": "bne_128k",
+          "value_1": 2657.7883876285828,
+          "value_2": 3725.0586441431074,
+          "difference": -1067.2702565145246,
+          "ratio": 0.7134890055509358,
+          "percent_difference": 33.44182466545127
+        },
+        "bpe_32k_vs_bpe_128k": {
+          "tokenizer_1": "bpe_32k",
+          "tokenizer_2": "bpe_128k",
+          "value_1": 2657.7883876285828,
+          "value_2": 4527.996139217518,
+          "difference": -1870.2077515889355,
+          "ratio": 0.586967900570665,
+          "percent_difference": 52.0529872445197
+        },
+        "bpe_32k_vs_bne_256k": {
+          "tokenizer_1": "bpe_32k",
+          "tokenizer_2": "bne_256k",
+          "value_1": 2657.7883876285828,
+          "value_2": 4213.929061250576,
+          "difference": -1556.1406736219928,
+          "ratio": 0.6307150284204893,
+          "percent_difference": 45.29117168156598
+        },
+        "bpe_32k_vs_bpe_256k": {
+          "tokenizer_1": "bpe_32k",
+          "tokenizer_2": "bpe_256k",
+          "value_1": 2657.7883876285828,
+          "value_2": 5126.7736969845955,
+          "difference": -2468.9853093560127,
+          "ratio": 0.5184134398582502,
+          "percent_difference": 63.43286321105109
+        },
+        "bne_64k_vs_bpe_64k": {
+          "tokenizer_1": "bne_64k",
+          "tokenizer_2": "bpe_64k",
+          "value_1": 3020.512505773971,
+          "value_2": 3667.1121717105284,
+          "difference": -646.5996659365574,
+          "ratio": 0.8236760601639981,
+          "percent_difference": 19.33719959236023
+        },
+        "bne_64k_vs_bne_128k": {
+          "tokenizer_1": "bne_64k",
+          "tokenizer_2": "bne_128k",
+          "value_1": 3020.512505773971,
+          "value_2": 3725.0586441431074,
+          "difference": -704.5461383691363,
+          "ratio": 0.8108630747392686,
+          "percent_difference": 20.889147048068633
+        },
+        "bne_64k_vs_bpe_128k": {
+          "tokenizer_1": "bne_64k",
+          "tokenizer_2": "bpe_128k",
+          "value_1": 3020.512505773971,
+          "value_2": 4527.996139217518,
+          "difference": -1507.4836334435472,
+          "ratio": 0.6670748854251332,
+          "percent_difference": 39.941230893171934
+        },
+        "bne_64k_vs_bne_256k": {
+          "tokenizer_1": "bne_64k",
+          "tokenizer_2": "bne_256k",
+          "value_1": 3020.512505773971,
+          "value_2": 4213.929061250576,
+          "difference": -1193.4165554766046,
+          "ratio": 0.7167924428413533,
+          "percent_difference": 32.992637909091435
+        },
+        "bne_64k_vs_bpe_256k": {
+          "tokenizer_1": "bne_64k",
+          "tokenizer_2": "bpe_256k",
+          "value_1": 3020.512505773971,
+          "value_2": 5126.7736969845955,
+          "difference": -2106.2611912106245,
+          "ratio": 0.5891643915452207,
+          "percent_difference": 51.70460786065111
+        },
+        "bpe_64k_vs_bne_128k": {
+          "tokenizer_1": "bpe_64k",
+          "tokenizer_2": "bne_128k",
+          "value_1": 3667.1121717105284,
+          "value_2": 3725.0586441431074,
+          "difference": -57.94647243257896,
+          "ratio": 0.984444144920057,
+          "percent_difference": 1.5677795839972726
+        },
+        "bpe_64k_vs_bpe_128k": {
+          "tokenizer_1": "bpe_64k",
+          "tokenizer_2": "bpe_128k",
+          "value_1": 3667.1121717105284,
+          "value_2": 4527.996139217518,
+          "difference": -860.8839675069898,
+          "ratio": 0.8098752867629965,
+          "percent_difference": 21.00970322403219
+        },
+        "bpe_64k_vs_bne_256k": {
+          "tokenizer_1": "bpe_64k",
+          "tokenizer_2": "bne_256k",
+          "value_1": 3667.1121717105284,
+          "value_2": 4213.929061250576,
+          "difference": -546.8168895400472,
+          "ratio": 0.8702358578913126,
+          "percent_difference": 13.876767634537407
+        },
+        "bpe_64k_vs_bpe_256k": {
+          "tokenizer_1": "bpe_64k",
+          "tokenizer_2": "bpe_256k",
+          "value_1": 3667.1121717105284,
+          "value_2": 5126.7736969845955,
+          "difference": -1459.6615252740671,
+          "ratio": 0.7152865307605457,
+          "percent_difference": 33.19719057237794
+        },
+        "bne_128k_vs_bpe_128k": {
+          "tokenizer_1": "bne_128k",
+          "tokenizer_2": "bpe_128k",
+          "value_1": 3725.0586441431074,
+          "value_2": 4527.996139217518,
+          "difference": -802.9374950744109,
+          "ratio": 0.8226726634945484,
+          "percent_difference": 19.457946570117315
+        },
+        "bne_128k_vs_bne_256k": {
+          "tokenizer_1": "bne_128k",
+          "tokenizer_2": "bne_256k",
+          "value_1": 3725.0586441431074,
+          "value_2": 4213.929061250576,
+          "difference": -488.87041710746826,
+          "ratio": 0.8839870320545014,
+          "percent_difference": 12.315686464039583
+        },
+        "bne_128k_vs_bpe_256k": {
+          "tokenizer_1": "bne_128k",
+          "tokenizer_2": "bpe_256k",
+          "value_1": 3725.0586441431074,
+          "value_2": 5126.7736969845955,
+          "difference": -1401.7150528414882,
+          "ratio": 0.7265892478019983,
+          "percent_difference": 31.670619117553528
+        },
+        "bpe_128k_vs_bne_256k": {
+          "tokenizer_1": "bpe_128k",
+          "tokenizer_2": "bne_256k",
+          "value_1": 4527.996139217518,
+          "value_2": 4213.929061250576,
+          "difference": 314.06707796694263,
+          "ratio": 1.0745306988802836,
+          "percent_difference": 7.185306915005992
+        },
+        "bpe_128k_vs_bpe_256k": {
+          "tokenizer_1": "bpe_128k",
+          "tokenizer_2": "bpe_256k",
+          "value_1": 4527.996139217518,
+          "value_2": 5126.7736969845955,
+          "difference": -598.7775577670773,
+          "ratio": 0.8832057755700707,
+          "percent_difference": 12.403766592588553
+        },
+        "bne_256k_vs_bpe_256k": {
+          "tokenizer_1": "bne_256k",
+          "tokenizer_2": "bpe_256k",
+          "value_1": 4213.929061250576,
+          "value_2": 5126.7736969845955,
+          "difference": -912.8446357340199,
+          "ratio": 0.8219455958684257,
+          "percent_difference": 19.545523701184393
+        }
+      }
+    },
+    "per_language": {
+      "unigram_entropy": {
+        "eng_Latn": {
+          "bne_8k": 9.91550207345967,
+          "bpe_8k": 10.59593930203117,
+          "bne_16k": 10.155693000339538,
+          "bpe_16k": 10.94437679515262,
+          "bne_32k": 10.293728703218266,
+          "bpe_32k": 11.169408310080577,
+          "bne_64k": 10.34251657564889,
+          "bpe_64k": 11.278978391185346,
+          "bne_128k": 10.344445302498976,
+          "bpe_128k": 11.314289342190955,
+          "bne_256k": 10.325715825659344,
+          "bpe_256k": 11.315314892081311
+        }
+      },
+      "avg_token_rank": {
+        "eng_Latn": {
+          "bne_8k": 879.5278197919906,
+          "bpe_8k": 1072.4906561043554,
+          "bne_16k": 1441.603767586676,
+          "bpe_16k": 1750.9341565123598,
+          "bne_32k": 2193.4369139661435,
+          "bpe_32k": 2657.7883876285828,
+          "bne_64k": 3020.512505773971,
+          "bpe_64k": 3667.1121717105284,
+          "bne_128k": 3725.0586441431074,
+          "bpe_128k": 4527.996139217518,
+          "bne_256k": 4213.929061250576,
+          "bpe_256k": 5126.7736969845955
+        }
+      }
+    }
+  },
+  "tokenizer_fairness_gini": {
+    "per_tokenizer": {
+      "bne_8k": {
+        "gini_coefficient": 0.0,
+        "mean_cost": 0.0,
+        "language_costs": {
+          "eng_Latn": 3046.2575
+        },
+        "warning": "Insufficient language data for meaningful TFG calculation"
+      },
+      "bpe_8k": {
+        "gini_coefficient": 0.0,
+        "mean_cost": 0.0,
+        "language_costs": {
+          "eng_Latn": 2728.0645
+        },
+        "warning": "Insufficient language data for meaningful TFG calculation"
+      },
+      "bne_16k": {
+        "gini_coefficient": 0.0,
+        "mean_cost": 0.0,
+        "language_costs": {
+          "eng_Latn": 2823.16
+        },
+        "warning": "Insufficient language data for meaningful TFG calculation"
+      },
+      "bpe_16k": {
+        "gini_coefficient": 0.0,
+        "mean_cost": 0.0,
+        "language_costs": {
+          "eng_Latn": 2492.046
+        },
+        "warning": "Insufficient language data for meaningful TFG calculation"
+      },
+      "bne_32k": {
+        "gini_coefficient": 0.0,
+        "mean_cost": 0.0,
+        "language_costs": {
+          "eng_Latn": 2667.508
+        },
+        "warning": "Insufficient language data for meaningful TFG calculation"
+      },
+      "bpe_32k": {
+        "gini_coefficient": 0.0,
+        "mean_cost": 0.0,
+        "language_costs": {
+          "eng_Latn": 2329.24
+        },
+        "warning": "Insufficient language data for meaningful TFG calculation"
+      },
+      "bne_64k": {
+        "gini_coefficient": 0.0,
+        "mean_cost": 0.0,
+        "language_costs": {
+          "eng_Latn": 2566.4745
+        },
+        "warning": "Insufficient language data for meaningful TFG calculation"
+      },
+      "bpe_64k": {
+        "gini_coefficient": 0.0,
+        "mean_cost": 0.0,
+        "language_costs": {
+          "eng_Latn": 2223.7425
+        },
+        "warning": "Insufficient language data for meaningful TFG calculation"
+      },
+      "bne_128k": {
+        "gini_coefficient": 0.0,
+        "mean_cost": 0.0,
+        "language_costs": {
+          "eng_Latn": 2509.3725
+        },
+        "warning": "Insufficient language data for meaningful TFG calculation"
+      },
+      "bpe_128k": {
+        "gini_coefficient": 0.0,
+        "mean_cost": 0.0,
+        "language_costs": {
+          "eng_Latn": 2162.6445
+        },
+        "warning": "Insufficient language data for meaningful TFG calculation"
+      },
+      "bne_256k": {
+        "gini_coefficient": 0.0,
+        "mean_cost": 0.0,
+        "language_costs": {
+          "eng_Latn": 2475.389
+        },
+        "warning": "Insufficient language data for meaningful TFG calculation"
+      },
+      "bpe_256k": {
+        "gini_coefficient": 0.0,
+        "mean_cost": 0.0,
+        "language_costs": {
+          "eng_Latn": 2127.4595
+        },
+        "warning": "Insufficient language data for meaningful TFG calculation"
+      }
+    },
+    "metadata": {
+      "description": "Tokenizer Fairness Gini coefficient measures equitable treatment across languages",
+      "formula": "TFG = \u03a3\u1d62 \u03a3\u2c7c |c_i - c_j| / (2 * n\u00b2 * \u03bc)",
+      "interpretation": "Lower values indicate more equitable treatment (0 = perfect equality)",
+      "normalization_method": "lines"
+    }
+  },
+  "lorenz_curve_data": {
+    "per_tokenizer": {
+      "bne_8k": {
+        "warning": "Insufficient data for Lorenz curve"
+      },
+      "bpe_8k": {
+        "warning": "Insufficient data for Lorenz curve"
+      },
+      "bne_16k": {
+        "warning": "Insufficient data for Lorenz curve"
+      },
+      "bpe_16k": {
+        "warning": "Insufficient data for Lorenz curve"
+      },
+      "bne_32k": {
+        "warning": "Insufficient data for Lorenz curve"
+      },
+      "bpe_32k": {
+        "warning": "Insufficient data for Lorenz curve"
+      },
+      "bne_64k": {
+        "warning": "Insufficient data for Lorenz curve"
+      },
+      "bpe_64k": {
+        "warning": "Insufficient data for Lorenz curve"
+      },
+      "bne_128k": {
+        "warning": "Insufficient data for Lorenz curve"
+      },
+      "bpe_128k": {
+        "warning": "Insufficient data for Lorenz curve"
+      },
+      "bne_256k": {
+        "warning": "Insufficient data for Lorenz curve"
+      },
+      "bpe_256k": {
+        "warning": "Insufficient data for Lorenz curve"
+      }
+    },
+    "metadata": {
+      "description": "Lorenz curve data for visualizing tokenizer fairness",
+      "x_axis": "Cumulative proportion of languages (sorted by efficiency)",
+      "y_axis": "Cumulative proportion of total token cost"
+    }
+  }
+}

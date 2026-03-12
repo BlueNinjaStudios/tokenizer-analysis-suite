@@ -1,0 +1,26 @@
+{
+  "bne_8k": {
+    "class": "huggingface", 
+    "path": "source_data/BNE/bne_byteLevel_minipile_5_tokens_8000.json"
+  },
+  "bne_16k": {
+    "class": "huggingface", 
+    "path": "source_data/BNE/bne_byteLevel_minipile_5_tokens_16000.json"
+  },
+  "bne_32k": {
+    "class": "huggingface", 
+    "path": "source_data/BNE/bne_byteLevel_minipile_5_tokens_32000.json"
+  },
+  "bne_64k": {
+    "class": "huggingface", 
+    "path": "source_data/BNE/bne_byteLevel_minipile_5_tokens_64000.json"
+  },
+  "bne_128k": {
+    "class": "huggingface", 
+    "path": "source_data/BNE/bne_byteLevel_minipile_5_tokens_128000.json"
+  },
+  "bne_256k": {
+    "class": "huggingface", 
+    "path": "source_data/BNE/bne_byteLevel_minipile_5_tokens_256000.json"
+  }
+}
